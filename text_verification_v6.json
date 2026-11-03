@@ -1,0 +1,573 @@
+{
+  "pdf": "/workspace/book-work/output/Wer_hat_den_Kommandanten_getoetet_Corrected_v6.pdf",
+  "size_bytes": 47217382,
+  "sha256": "377e2b507308da53fb010ae90890550de35e1d6acbb9aa69d8d767d5a4bc8e94",
+  "source_sha256": "546daebc6adbf503c214d257edcda7df29983d6626dd56ca9ffa7d4d07a33496",
+  "page_count": 104,
+  "trim_points": [
+    450,
+    666
+  ],
+  "text_pages_rebuilt": [
+    9,
+    24,
+    25,
+    30,
+    35,
+    50,
+    54,
+    61,
+    64,
+    69,
+    75,
+    80,
+    81,
+    83,
+    87,
+    88,
+    91,
+    94,
+    95,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104
+  ],
+  "all_artwork_digests_and_positions_unchanged": true,
+  "complete_unicode_fonts_embedded": true,
+  "explicit_ToUnicode_maps": true,
+  "unicode_maps_checked": 11,
+  "malformed_unicode_map_entries_remaining": 0,
+  "full_page_text_roundtrip_in_both_readers": true,
+  "worksheet_and_page_rules_preserved": true,
+  "missing_required_text_or_umlaut_sequences": [],
+  "missing_required_text_or_umlaut_sequence_count": 0,
+  "independent_text_readers": [
+    "PyMuPDF",
+    "pypdf"
+  ],
+  "checked_phrases": [
+    {
+      "page": 9,
+      "text": "Schraubenschlüssel „K-7“.",
+      "both_readers_found": true
+    },
+    {
+      "page": 24,
+      "text": "Rückseite ist „16. Oktober 1934“ notiert.",
+      "both_readers_found": true
+    },
+    {
+      "page": 25,
+      "text": "Fabrikantensohn Pohl: „Ich wollte",
+      "both_readers_found": true
+    },
+    {
+      "page": 30,
+      "text": "Das Namensschild lautet „Kroll“.",
+      "both_readers_found": true
+    },
+    {
+      "page": 50,
+      "text": "Maschinist Greve: „Ich habe",
+      "both_readers_found": true
+    },
+    {
+      "page": 54,
+      "text": "Kommandant von Berg: „Ich hatte",
+      "both_readers_found": true
+    },
+    {
+      "page": 61,
+      "text": "kleinen „e“ fehlt",
+      "both_readers_found": true
+    },
+    {
+      "page": 64,
+      "text": "Kleinbuchstaben „e“ der untere",
+      "both_readers_found": true
+    },
+    {
+      "page": 64,
+      "text": "makelloses „e“,",
+      "both_readers_found": true
+    },
+    {
+      "page": 69,
+      "text": "Takler Holm: „Ich war",
+      "both_readers_found": true
+    },
+    {
+      "page": 75,
+      "text": "Warum „23:38“ vor „23:32“ gestempelt",
+      "both_readers_found": true
+    },
+    {
+      "page": 80,
+      "text": "Papierrest „Treffpunkt Kartenraum: 23:40 Uhr“; Rückseite: „16. Oktober 1934“.",
+      "both_readers_found": true
+    },
+    {
+      "page": 80,
+      "text": "Der Stempel „23:38 Uhr - Schlüssel 2“",
+      "both_readers_found": true
+    },
+    {
+      "page": 81,
+      "text": "lautet „Der Albatros“.",
+      "both_readers_found": true
+    },
+    {
+      "page": 81,
+      "text": "steckt in „ALBATROS-SAND 1931“,",
+      "both_readers_found": true
+    },
+    {
+      "page": 81,
+      "text": "Mörder („Der Albatros“),",
+      "both_readers_found": true
+    },
+    {
+      "page": 83,
+      "text": "Mörders („Der Albatros“):",
+      "both_readers_found": true
+    },
+    {
+      "page": 87,
+      "text": "noch immer „4,2 Bar Normaldruck“",
+      "both_readers_found": true
+    },
+    {
+      "page": 88,
+      "text": "Decknamen „DER ALBATROS“",
+      "both_readers_found": true
+    },
+    {
+      "page": 88,
+      "text": "Seegebiet „Albatros-Sand 1931“?",
+      "both_readers_found": true
+    },
+    {
+      "page": 91,
+      "text": "Buchstaben „e“",
+      "both_readers_found": true
+    },
+    {
+      "page": 94,
+      "text": "mit der unteren Hälfte einer roten Ziffer „7“.",
+      "both_readers_found": true
+    },
+    {
+      "page": 95,
+      "text": "Kaliber „6,35 mm“.",
+      "both_readers_found": true
+    },
+    {
+      "page": 97,
+      "text": "starr auf „4,2 Bar Normaldruck“,",
+      "both_readers_found": true
+    },
+    {
+      "page": 98,
+      "text": "Herzgift „Akonitin“",
+      "both_readers_found": true
+    },
+    {
+      "page": 99,
+      "text": "Buchstaben „e“)",
+      "both_readers_found": true
+    },
+    {
+      "page": 99,
+      "text": "Steck-Typenkopf „e“ ab",
+      "both_readers_found": true
+    },
+    {
+      "page": 100,
+      "text": "um „23:38 Uhr“ eingestempelt",
+      "both_readers_found": true
+    },
+    {
+      "page": 100,
+      "text": "(„23:38 Uhr - Schlüssel 2“)",
+      "both_readers_found": true
+    },
+    {
+      "page": 100,
+      "text": "deshalb „23:38 Uhr“.",
+      "both_readers_found": true
+    },
+    {
+      "page": 100,
+      "text": "Stechuhr-Alibi „23:38 Uhr“",
+      "both_readers_found": true
+    },
+    {
+      "page": 101,
+      "text": "WER HAT DEN KOMMANDANTEN GETÖTET?",
+      "both_readers_found": true
+    },
+    {
+      "page": 102,
+      "text": "WER HAT DEN KOMMANDANTEN GETÖTET?",
+      "both_readers_found": true
+    },
+    {
+      "page": 102,
+      "text": "Die lückenlose Beweiskette gegen Viktor Krantz („Der Albatros“)",
+      "both_readers_found": true
+    },
+    {
+      "page": 102,
+      "text": "Alle 18 Fälle dieses Buches fügen sich zu einem einzigen großen Mosaik zusammen:",
+      "both_readers_found": true
+    },
+    {
+      "page": 102,
+      "text": "1. Die Sabotage & Ablenkung (Fälle 1, 8, 11): Mit dem entwendeten Schraubenschlüssel „K-7“ und bestochenen Mechanikern sorgte Krantz für technische Zwischenfälle, um den Kommandanten und den Sonderermittler in Atem zu halten.",
+      "both_readers_found": true
+    },
+    {
+      "page": 102,
+      "text": "2. Das Erpressernetz (Fälle 2, 3, 7, 9, 10, 14): Um seine Flucht nach Südamerika zu finanzieren und Zeugen von 1931 mundtot zu machen, ließ Krantz („V. K.“) durch die Sekretärin Fräulein Mercier Erpresserbriefe mit dem defekten „e“ tippen, durch Steward Marek die Konstruktionsverträge von Bankier Vance stehlen (wobei Marek einen Manschettenknopf „V. K.“ verlor) und durch Frau Blum die alten Reederei-Pfandbriefe von 1931 rauben.",
+      "both_readers_found": true
+    },
+    {
+      "page": 102,
+      "text": "3. Die Vertuschung (Fälle 4 & 12): Als Scotland Yard per Funk vor dem „Albatros“ warnte, ließ Krantz das Telegramm durch den erpressbaren Navigator Sorge vernichten und brach selbst mit seiner Goldfeder den Archivschrank auf, um die Logbuchseite vom 18. November 1931 zu stehlen.",
+      "both_readers_found": true
+    },
+    {
+      "page": 103,
+      "text": "WER HAT DEN KOMMANDANTEN GETÖTET?",
+      "both_readers_found": true
+    },
+    {
+      "page": 103,
+      "text": "abgerissenen Ärmelknopf",
+      "both_readers_found": true
+    },
+    {
+      "page": 104,
+      "text": "Hiermit wird feierlich bestätigt, dass",
+      "both_readers_found": true
+    },
+    {
+      "page": 104,
+      "text": "(Name des Sonderermittlers / der Sonderermittlerin)",
+      "both_readers_found": true
+    },
+    {
+      "page": 104,
+      "text": "an Bord des Transatlantik-Luftschiffs LZ Viktoria (1934) sämtliche 18 Kriminalfälle mit unbestechlicher Schärfe gelöst, das Netz der Lügen und Sabotageakte durchbrochen und den Mörder des Kommandanten („Der Albatros“) vor der Landung in Lakehurst überführt hat.",
+      "both_readers_found": true
+    }
+  ],
+  "german_character_counts_by_rebuilt_page": {
+    "9": {
+      "ä": 4,
+      "ö": 6,
+      "ü": 11,
+      "Ä": 0,
+      "Ö": 2,
+      "Ü": 0,
+      "ß": 2,
+      "„": 5,
+      "“": 5
+    },
+    "24": {
+      "ä": 2,
+      "ö": 2,
+      "ü": 14,
+      "Ä": 0,
+      "Ö": 1,
+      "Ü": 1,
+      "ß": 4,
+      "„": 3,
+      "“": 3
+    },
+    "25": {
+      "ä": 3,
+      "ö": 2,
+      "ü": 11,
+      "Ä": 0,
+      "Ö": 1,
+      "Ü": 0,
+      "ß": 6,
+      "„": 3,
+      "“": 3
+    },
+    "30": {
+      "ä": 1,
+      "ö": 0,
+      "ü": 0,
+      "Ä": 0,
+      "Ö": 0,
+      "Ü": 0,
+      "ß": 0,
+      "„": 1,
+      "“": 1
+    },
+    "35": {
+      "ä": 4,
+      "ö": 1,
+      "ü": 7,
+      "Ä": 0,
+      "Ö": 1,
+      "Ü": 0,
+      "ß": 0,
+      "„": 3,
+      "“": 3
+    },
+    "50": {
+      "ä": 4,
+      "ö": 2,
+      "ü": 5,
+      "Ä": 0,
+      "Ö": 6,
+      "Ü": 0,
+      "ß": 2,
+      "„": 2,
+      "“": 2
+    },
+    "54": {
+      "ä": 1,
+      "ö": 0,
+      "ü": 8,
+      "Ä": 0,
+      "Ö": 1,
+      "Ü": 0,
+      "ß": 0,
+      "„": 1,
+      "“": 1
+    },
+    "61": {
+      "ä": 6,
+      "ö": 2,
+      "ü": 1,
+      "Ä": 0,
+      "Ö": 1,
+      "Ü": 0,
+      "ß": 0,
+      "„": 4,
+      "“": 4
+    },
+    "64": {
+      "ä": 9,
+      "ö": 2,
+      "ü": 2,
+      "Ä": 0,
+      "Ö": 1,
+      "Ü": 0,
+      "ß": 0,
+      "„": 7,
+      "“": 7
+    },
+    "69": {
+      "ä": 5,
+      "ö": 1,
+      "ü": 1,
+      "Ä": 0,
+      "Ö": 1,
+      "Ü": 0,
+      "ß": 3,
+      "„": 3,
+      "“": 3
+    },
+    "75": {
+      "ä": 1,
+      "ö": 3,
+      "ü": 2,
+      "Ä": 0,
+      "Ö": 1,
+      "Ü": 0,
+      "ß": 0,
+      "„": 2,
+      "“": 2
+    },
+    "80": {
+      "ä": 7,
+      "ö": 1,
+      "ü": 12,
+      "Ä": 1,
+      "Ö": 1,
+      "Ü": 1,
+      "ß": 1,
+      "„": 12,
+      "“": 12
+    },
+    "81": {
+      "ä": 9,
+      "ö": 2,
+      "ü": 7,
+      "Ä": 3,
+      "Ö": 1,
+      "Ü": 0,
+      "ß": 0,
+      "„": 4,
+      "“": 4
+    },
+    "83": {
+      "ä": 2,
+      "ö": 4,
+      "ü": 3,
+      "Ä": 0,
+      "Ö": 1,
+      "Ü": 0,
+      "ß": 1,
+      "„": 1,
+      "“": 1
+    },
+    "87": {
+      "ä": 10,
+      "ö": 2,
+      "ü": 3,
+      "Ä": 0,
+      "Ö": 2,
+      "Ü": 2,
+      "ß": 3,
+      "„": 3,
+      "“": 3
+    },
+    "88": {
+      "ä": 11,
+      "ö": 1,
+      "ü": 5,
+      "Ä": 1,
+      "Ö": 1,
+      "Ü": 0,
+      "ß": 1,
+      "„": 3,
+      "“": 3
+    },
+    "91": {
+      "ä": 3,
+      "ö": 6,
+      "ü": 12,
+      "Ä": 0,
+      "Ö": 3,
+      "Ü": 0,
+      "ß": 1,
+      "„": 2,
+      "“": 2
+    },
+    "94": {
+      "ä": 5,
+      "ö": 1,
+      "ü": 8,
+      "Ä": 0,
+      "Ö": 2,
+      "Ü": 0,
+      "ß": 3,
+      "„": 2,
+      "“": 2
+    },
+    "95": {
+      "ä": 5,
+      "ö": 3,
+      "ü": 13,
+      "Ä": 0,
+      "Ö": 1,
+      "Ü": 0,
+      "ß": 1,
+      "„": 3,
+      "“": 3
+    },
+    "97": {
+      "ä": 7,
+      "ö": 1,
+      "ü": 9,
+      "Ä": 0,
+      "Ö": 3,
+      "Ü": 0,
+      "ß": 0,
+      "„": 3,
+      "“": 3
+    },
+    "98": {
+      "ä": 9,
+      "ö": 4,
+      "ü": 4,
+      "Ä": 1,
+      "Ö": 1,
+      "Ü": 0,
+      "ß": 4,
+      "„": 2,
+      "“": 2
+    },
+    "99": {
+      "ä": 9,
+      "ö": 0,
+      "ü": 8,
+      "Ä": 0,
+      "Ö": 1,
+      "Ü": 1,
+      "ß": 1,
+      "„": 7,
+      "“": 7
+    },
+    "100": {
+      "ä": 7,
+      "ö": 3,
+      "ü": 12,
+      "Ä": 0,
+      "Ö": 1,
+      "Ü": 0,
+      "ß": 0,
+      "„": 5,
+      "“": 5
+    },
+    "101": {
+      "ä": 6,
+      "ö": 6,
+      "ü": 15,
+      "Ä": 0,
+      "Ö": 2,
+      "Ü": 0,
+      "ß": 3,
+      "„": 1,
+      "“": 1
+    },
+    "102": {
+      "ä": 9,
+      "ö": 0,
+      "ü": 11,
+      "Ä": 1,
+      "Ö": 1,
+      "Ü": 0,
+      "ß": 3,
+      "„": 9,
+      "“": 9
+    },
+    "103": {
+      "ä": 4,
+      "ö": 0,
+      "ü": 7,
+      "Ä": 1,
+      "Ö": 1,
+      "Ü": 0,
+      "ß": 1,
+      "„": 1,
+      "“": 1
+    },
+    "104": {
+      "ä": 4,
+      "ö": 2,
+      "ü": 3,
+      "Ä": 0,
+      "Ö": 0,
+      "Ü": 0,
+      "ß": 0,
+      "„": 1,
+      "“": 1
+    }
+  },
+  "stray_op_in_top_left_of_page35": false,
+  "raw_latex_on_page94": false,
+  "utf8_text_export": "/workspace/book-work/revision-6/Verified_v6_text_UTF8.txt",
+  "source_preserved": true
+}
