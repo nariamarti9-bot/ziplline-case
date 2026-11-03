@@ -1,0 +1,93 @@
+{
+  "status": "Review design; not print-final. User approval and image-resolution preflight pending.",
+  "title": "Wer hat den Kommandanten getötet?",
+  "author": "Elizabeth Erin",
+  "printer": "Amazon KDP",
+  "binding": "paperback",
+  "interior_print": "standard colour, white paper",
+  "interior_pages": 104,
+  "trim_inches": [
+    6.25,
+    9.25
+  ],
+  "bleed_inches": 0.125,
+  "spine_formula": "104 pages × 0.002252 inches/page",
+  "spine_inches": 0.234208,
+  "spine_mm": 5.9488832,
+  "full_cover_inches": [
+    12.984208,
+    9.5
+  ],
+  "full_cover_mm": [
+    329.7988832,
+    241.29999999999998
+  ],
+  "pdf_dimensions_points": [
+    934.862976,
+    684.0
+  ],
+  "back_trim_rect_points": [
+    9.0,
+    9.0,
+    459.0,
+    675.0
+  ],
+  "spine_rect_points": [
+    459.0,
+    9.0,
+    475.862976,
+    675.0
+  ],
+  "front_trim_rect_points": [
+    475.862976,
+    9.0,
+    925.862976,
+    675.0
+  ],
+  "barcode_reserved_rect_points": [
+    297.0,
+    570.6,
+    441.0,
+    657.0
+  ],
+  "barcode_reserved_inches": [
+    2,
+    1.2
+  ],
+  "native_artwork_pixels": [
+    1465,
+    1073
+  ],
+  "effective_artwork_ppi": 112.8293693385072,
+  "artwork_resolution_note": "Generated review art is below the 300 ppi print target. Do not relabel it as native 300 ppi. Resolve high-resolution production artwork before print-final delivery.",
+  "live_text_embedded_fonts": true,
+  "spine_text": [
+    {
+      "text": "WER HAT DEN KOMMANDANTEN GETÖTET?",
+      "bbox": [
+        463.55767822265625,
+        197.410400390625,
+        471.3066711425781,
+        352.4671325683594
+      ]
+    },
+    {
+      "text": "ELIZABETH ERIN",
+      "bbox": [
+        463.55767822265625,
+        528.25439453125,
+        471.3066711425781,
+        588.6854248046875
+      ]
+    }
+  ],
+  "interior_modified": false,
+  "artwork_approval": "pending",
+  "artwork_sha256": "014bf5cb4616c6cc864288fa0b0de86bf27400f04f7eaf8cd09616832d0eaefd",
+  "review_pdf": "/workspace/book-work/cover-v1/Wer_hat_den_Kommandanten_Cover_REVIEW_v1.pdf",
+  "review_pdf_sha256": "f88927ae12f6c458c937678d09711ddd183131d1dea96825ce4e50fd4fd780c6",
+  "required_300ppi_full_wrap_pixels_minimum": [
+    3896,
+    2850
+  ]
+}
