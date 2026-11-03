@@ -1,0 +1,67 @@
+{
+  "status": "Approved design finalized with the disclosed conventional print upscaling",
+  "pdf": "/workspace/book-work/cover-final-v1/Wer_hat_den_Kommandanten_getoetet_Cover_KDP_FINAL_v1.pdf",
+  "size_bytes": 20981784,
+  "sha256": "288f4f8510b690936a2948bbfb67b0f3165751bd3d76fc2d76060e08d7a8ec70",
+  "author": "Elizabeth Erin",
+  "title": "Wer hat den Kommandanten getötet?",
+  "printer": "Amazon KDP",
+  "binding": "paperback",
+  "interior_colour": "standard colour, white paper",
+  "interior_page_count": 104,
+  "trim_inches": [
+    6.25,
+    9.25
+  ],
+  "bleed_inches": 0.125,
+  "spine_inches": 0.234208,
+  "spine_mm": 5.9488832,
+  "full_cover_inches": [
+    12.984208,
+    9.5
+  ],
+  "full_cover_mm": [
+    329.7988832,
+    241.29999999999998
+  ],
+  "pdf_dimensions_points": [
+    934.862976,
+    684.0
+  ],
+  "cover_page_count": 1,
+  "background_pixels": [
+    3896,
+    2850
+  ],
+  "effective_background_ppi": [
+    300.05680746950446,
+    300.0
+  ],
+  "original_artwork_pixels": [
+    1465,
+    1073
+  ],
+  "original_artwork_ppi": 112.8293693385072,
+  "resampling": "Pillow Lanczos conventional resizing followed by 300-dpi background flattening",
+  "resolution_disclosure": "The background is upscaled from the approved 1465 × 1073 px artwork. The export does not create original image detail. All cover text remains vector text.",
+  "all_approved_text_identical": true,
+  "all_fonts_embedded": true,
+  "unicode_checks_passed": true,
+  "background_opaque": true,
+  "transparency_flattened": true,
+  "full_bleed_background": true,
+  "text_safe_margins_verified": true,
+  "barcode_reserved_inches": [
+    2,
+    1.2
+  ],
+  "barcode_box_blank_for_kdp": true,
+  "fake_isbn_or_barcode_created": false,
+  "native_text_groups_preserved": 54,
+  "poppler_warnings_errors": 0,
+  "new_artwork_generated": false,
+  "artwork_approval_record": "artwork-approval.json",
+  "review_pdf_preserved_sha256": "f88927ae12f6c458c937678d09711ddd183131d1dea96825ce4e50fd4fd780c6",
+  "original_artwork_preserved_sha256": "014bf5cb4616c6cc864288fa0b0de86bf27400f04f7eaf8cd09616832d0eaefd",
+  "interior_modified": false
+}

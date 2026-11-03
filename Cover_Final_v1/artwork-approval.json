@@ -1,0 +1,12 @@
+{
+  "recorded_at_utc": "2026-11-03T22:18:37.963170+00:00",
+  "status": "approved to finalize",
+  "user_reply": "continue",
+  "reply_context": "User was asked to approve the exact front, back, spine and blurb shown in Cover Review v1, plus standard image resizing for the final 300-dpi KDP PDF.",
+  "interpretation": "Proceed with the reviewed design and the disclosed conventional print resizing.",
+  "approved_review_pdf_sha256": "f88927ae12f6c458c937678d09711ddd183131d1dea96825ce4e50fd4fd780c6",
+  "approved_artwork_sha256": "014bf5cb4616c6cc864288fa0b0de86bf27400f04f7eaf8cd09616832d0eaefd",
+  "author": "Elizabeth Erin",
+  "printer": "Amazon KDP paperback — standard colour, white paper",
+  "new_artwork_generated": false
+}
