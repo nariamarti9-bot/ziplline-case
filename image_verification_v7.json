@@ -1,0 +1,253 @@
+{
+  "pdf": "/workspace/book-work/output/Wer_hat_den_Kommandanten_getoetet_Corrected_v7.pdf",
+  "size_bytes": 46225034,
+  "sha256": "9210f657a1ab444df3138b4f802d70d93a23607f6f1210b1920e8dc47f827ab6",
+  "page_count": 104,
+  "trim_points": [
+    450,
+    666
+  ],
+  "requested_image_pages": [
+    4,
+    5,
+    14,
+    30,
+    36
+  ],
+  "changed_pages": [
+    4,
+    5,
+    14,
+    30,
+    36
+  ],
+  "other_99_pages_pixel_identical": true,
+  "one_complete_unclipped_image_on_each_requested_page": true,
+  "page4_complete_image_from_v3": true,
+  "page30_four_panels_full_asset_and_visible_quadrants": true,
+  "page5_exact_requested_layout_and_bow_left_caption": true,
+  "page14_approved_concealed_necklace_and_reflection_retained": true,
+  "page36_v3_torn_digit_and_matching_scrap_retained": true,
+  "v6_unicode_map_bytes_unchanged": true,
+  "v6_text_repairs_preserved": true,
+  "missing_required_text_or_umlaut_sequence_count": 0,
+  "checked_phrases": [
+    {
+      "page": 9,
+      "text": "Schraubenschlüssel „K-7“.",
+      "both_readers_found": true
+    },
+    {
+      "page": 24,
+      "text": "Rückseite ist „16. Oktober 1934“ notiert.",
+      "both_readers_found": true
+    },
+    {
+      "page": 25,
+      "text": "Fabrikantensohn Pohl: „Ich wollte",
+      "both_readers_found": true
+    },
+    {
+      "page": 30,
+      "text": "Das Namensschild lautet „Kroll“.",
+      "both_readers_found": true
+    },
+    {
+      "page": 50,
+      "text": "Maschinist Greve: „Ich habe",
+      "both_readers_found": true
+    },
+    {
+      "page": 54,
+      "text": "Kommandant von Berg: „Ich hatte",
+      "both_readers_found": true
+    },
+    {
+      "page": 61,
+      "text": "kleinen „e“ fehlt",
+      "both_readers_found": true
+    },
+    {
+      "page": 64,
+      "text": "Kleinbuchstaben „e“ der untere",
+      "both_readers_found": true
+    },
+    {
+      "page": 64,
+      "text": "makelloses „e“,",
+      "both_readers_found": true
+    },
+    {
+      "page": 69,
+      "text": "Takler Holm: „Ich war",
+      "both_readers_found": true
+    },
+    {
+      "page": 75,
+      "text": "Warum „23:38“ vor „23:32“ gestempelt",
+      "both_readers_found": true
+    },
+    {
+      "page": 80,
+      "text": "Papierrest „Treffpunkt Kartenraum: 23:40 Uhr“; Rückseite: „16. Oktober 1934“.",
+      "both_readers_found": true
+    },
+    {
+      "page": 80,
+      "text": "Der Stempel „23:38 Uhr - Schlüssel 2“",
+      "both_readers_found": true
+    },
+    {
+      "page": 81,
+      "text": "lautet „Der Albatros“.",
+      "both_readers_found": true
+    },
+    {
+      "page": 81,
+      "text": "steckt in „ALBATROS-SAND 1931“,",
+      "both_readers_found": true
+    },
+    {
+      "page": 81,
+      "text": "Mörder („Der Albatros“),",
+      "both_readers_found": true
+    },
+    {
+      "page": 83,
+      "text": "Mörders („Der Albatros“):",
+      "both_readers_found": true
+    },
+    {
+      "page": 87,
+      "text": "noch immer „4,2 Bar Normaldruck“",
+      "both_readers_found": true
+    },
+    {
+      "page": 88,
+      "text": "Decknamen „DER ALBATROS“",
+      "both_readers_found": true
+    },
+    {
+      "page": 88,
+      "text": "Seegebiet „Albatros-Sand 1931“?",
+      "both_readers_found": true
+    },
+    {
+      "page": 91,
+      "text": "Buchstaben „e“",
+      "both_readers_found": true
+    },
+    {
+      "page": 94,
+      "text": "mit der unteren Hälfte einer roten Ziffer „7“.",
+      "both_readers_found": true
+    },
+    {
+      "page": 95,
+      "text": "Kaliber „6,35 mm“.",
+      "both_readers_found": true
+    },
+    {
+      "page": 97,
+      "text": "starr auf „4,2 Bar Normaldruck“,",
+      "both_readers_found": true
+    },
+    {
+      "page": 98,
+      "text": "Herzgift „Akonitin“",
+      "both_readers_found": true
+    },
+    {
+      "page": 99,
+      "text": "Buchstaben „e“)",
+      "both_readers_found": true
+    },
+    {
+      "page": 99,
+      "text": "Steck-Typenkopf „e“ ab",
+      "both_readers_found": true
+    },
+    {
+      "page": 100,
+      "text": "um „23:38 Uhr“ eingestempelt",
+      "both_readers_found": true
+    },
+    {
+      "page": 100,
+      "text": "(„23:38 Uhr - Schlüssel 2“)",
+      "both_readers_found": true
+    },
+    {
+      "page": 100,
+      "text": "deshalb „23:38 Uhr“.",
+      "both_readers_found": true
+    },
+    {
+      "page": 100,
+      "text": "Stechuhr-Alibi „23:38 Uhr“",
+      "both_readers_found": true
+    },
+    {
+      "page": 101,
+      "text": "WER HAT DEN KOMMANDANTEN GETÖTET?",
+      "both_readers_found": true
+    },
+    {
+      "page": 102,
+      "text": "WER HAT DEN KOMMANDANTEN GETÖTET?",
+      "both_readers_found": true
+    },
+    {
+      "page": 102,
+      "text": "Die lückenlose Beweiskette gegen Viktor Krantz („Der Albatros“)",
+      "both_readers_found": true
+    },
+    {
+      "page": 102,
+      "text": "Alle 18 Fälle dieses Buches fügen sich zu einem einzigen großen Mosaik zusammen:",
+      "both_readers_found": true
+    },
+    {
+      "page": 102,
+      "text": "1. Die Sabotage & Ablenkung (Fälle 1, 8, 11): Mit dem entwendeten Schraubenschlüssel „K-7“ und bestochenen Mechanikern sorgte Krantz für technische Zwischenfälle, um den Kommandanten und den Sonderermittler in Atem zu halten.",
+      "both_readers_found": true
+    },
+    {
+      "page": 102,
+      "text": "2. Das Erpressernetz (Fälle 2, 3, 7, 9, 10, 14): Um seine Flucht nach Südamerika zu finanzieren und Zeugen von 1931 mundtot zu machen, ließ Krantz („V. K.“) durch die Sekretärin Fräulein Mercier Erpresserbriefe mit dem defekten „e“ tippen, durch Steward Marek die Konstruktionsverträge von Bankier Vance stehlen (wobei Marek einen Manschettenknopf „V. K.“ verlor) und durch Frau Blum die alten Reederei-Pfandbriefe von 1931 rauben.",
+      "both_readers_found": true
+    },
+    {
+      "page": 102,
+      "text": "3. Die Vertuschung (Fälle 4 & 12): Als Scotland Yard per Funk vor dem „Albatros“ warnte, ließ Krantz das Telegramm durch den erpressbaren Navigator Sorge vernichten und brach selbst mit seiner Goldfeder den Archivschrank auf, um die Logbuchseite vom 18. November 1931 zu stehlen.",
+      "both_readers_found": true
+    },
+    {
+      "page": 103,
+      "text": "WER HAT DEN KOMMANDANTEN GETÖTET?",
+      "both_readers_found": true
+    },
+    {
+      "page": 103,
+      "text": "abgerissenen Ärmelknopf",
+      "both_readers_found": true
+    },
+    {
+      "page": 104,
+      "text": "Hiermit wird feierlich bestätigt, dass",
+      "both_readers_found": true
+    },
+    {
+      "page": 104,
+      "text": "(Name des Sonderermittlers / der Sonderermittlerin)",
+      "both_readers_found": true
+    },
+    {
+      "page": 104,
+      "text": "an Bord des Transatlantik-Luftschiffs LZ Viktoria (1934) sämtliche 18 Kriminalfälle mit unbestechlicher Schärfe gelöst, das Netz der Lügen und Sabotageakte durchbrochen und den Mörder des Kommandanten („Der Albatros“) vor der Landung in Lakehurst überführt hat.",
+      "both_readers_found": true
+    }
+  ],
+  "worksheet_and_page_rules_preserved": true,
+  "earlier_versions_preserved": true
+}
