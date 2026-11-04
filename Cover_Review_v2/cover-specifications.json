@@ -1,0 +1,102 @@
+{
+  "status": "Review design; not print-final. User approval and image-resolution preflight pending.",
+  "title": "Wer hat den Kommandanten getötet?",
+  "author": "Elizabeth Erin",
+  "printer": "Amazon KDP",
+  "binding": "paperback",
+  "interior_print": "standard colour, white paper",
+  "interior_pages": 104,
+  "trim_inches": [
+    6.25,
+    9.25
+  ],
+  "bleed_inches": 0.125,
+  "spine_formula": "104 pages × 0.002252 inches/page",
+  "spine_inches": 0.234208,
+  "spine_mm": 5.9488832,
+  "full_cover_inches": [
+    12.984208,
+    9.5
+  ],
+  "full_cover_mm": [
+    329.7988832,
+    241.29999999999998
+  ],
+  "pdf_dimensions_points": [
+    934.862976,
+    684.0
+  ],
+  "back_trim_rect_points": [
+    9.0,
+    9.0,
+    459.0,
+    675.0
+  ],
+  "spine_rect_points": [
+    459.0,
+    9.0,
+    475.862976,
+    675.0
+  ],
+  "front_trim_rect_points": [
+    475.862976,
+    9.0,
+    925.862976,
+    675.0
+  ],
+  "barcode_reserved_rect_points": [
+    297.0,
+    570.6,
+    441.0,
+    657.0
+  ],
+  "barcode_reserved_inches": [
+    2,
+    1.2
+  ],
+  "native_artwork_pixels": [
+    1466,
+    1073
+  ],
+  "effective_artwork_ppi": 112.90638597286795,
+  "artwork_resolution_note": "Generated review art is below the 300 ppi print target. Do not relabel it as native 300 ppi. Resolve high-resolution production artwork before print-final delivery.",
+  "live_text_embedded_fonts": true,
+  "spine_text": [
+    {
+      "text": "WER HAT DEN KOMMANDANTEN GETÖTET?",
+      "bbox": [
+        463.55767822265625,
+        197.410400390625,
+        471.3066711425781,
+        352.4671325683594
+      ]
+    },
+    {
+      "text": "ELIZABETH ERIN",
+      "bbox": [
+        463.55767822265625,
+        528.25439453125,
+        471.3066711425781,
+        588.6854248046875
+      ]
+    }
+  ],
+  "interior_modified": false,
+  "artwork_approval": "pending for v2",
+  "artwork_sha256": "f04130972a7d522f9b5ab408f82ed327250644ebf4df76ad83de01a3a43662ef",
+  "review_pdf": "/workspace/book-work/cover-v2/Wer_hat_den_Kommandanten_Cover_REVIEW_v2.pdf",
+  "review_pdf_sha256": "f1d999fc8791e59e202148c87ef2622b8582dd75c968c208dbf7632930e62e0c",
+  "required_300ppi_full_wrap_pixels_minimum": [
+    3896,
+    2850
+  ],
+  "proposed_cast": [
+    "Operndiva Clara Bellini",
+    "Bordingenieurin Lotte Lindner",
+    "Erster Offizier Viktor Krantz"
+  ],
+  "character_model_reference": "Corrected v10 interior, page 6",
+  "previous_title_author_blurb_and_geometry_preserved": true,
+  "reason_for_revision": "User requested more attractive, compelling cover characters",
+  "poppler_warnings_errors": 0
+}

@@ -1,0 +1,22 @@
+{
+  "status": "new artwork proposal; approval pending",
+  "reason": "User requested more attractive cover characters after seeing v1",
+  "user_instruction": "is that the cover you made? couldn't you find more attractive characters then thjs?",
+  "proposed_cast": [
+    "Clara Bellini",
+    "Lotte Lindner",
+    "Viktor Krantz"
+  ],
+  "character_reference": "Corrected v10 interior, page 6",
+  "preserved_print_settings": {
+    "printer": "KDP paperback",
+    "colour": "standard colour, white paper",
+    "pages": 104,
+    "trim_inches": [
+      6.25,
+      9.25
+    ]
+  },
+  "author": "Elizabeth Erin",
+  "previous_v1_files_preserved": true
+}
