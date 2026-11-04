@@ -1,0 +1,18 @@
+{
+  "source": "/workspace/book-work/cover-v3/Wer_hat_den_Kommandanten_Cover_REVIEW_v3.pdf",
+  "source_sha256": "ec618ef9d522975ef83cfd92bd417b94bc73e6128c89373e09ad4a108ddb9a13",
+  "pdf": "/workspace/book-work/cover-v4/Wer_hat_den_Kommandanten_Cover_REVIEW_v4.pdf",
+  "sha256": "2ce3992b6255031a29db5e751b36ca224591c663ba5fd509adefbac90ae2edd9",
+  "artwork_sha256": "f04130972a7d522f9b5ab408f82ed327250644ebf4df76ad83de01a3a43662ef",
+  "removed_graphics_groups": 1,
+  "removed_pdf_rectangle": [
+    297,
+    27,
+    144,
+    86.4
+  ],
+  "all_native_text_unchanged": true,
+  "original_artwork_unchanged": true,
+  "new_artwork_generated": false,
+  "method": "Delete the native PDF rectangle and re-export the existing artwork"
+}

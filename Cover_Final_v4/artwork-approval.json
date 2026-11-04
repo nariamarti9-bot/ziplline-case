@@ -1,0 +1,12 @@
+{
+  "recorded_at_utc": "2026-11-04T03:40:50.912286+00:00",
+  "status": "authorized barcode placeholder removal and finalization",
+  "user_reply": "remove the barcode white square ok amazon will put it there",
+  "reply_context": "User requested removal of the white barcode rectangle from cover v3. Preserve all lettering, artwork, dimensions and prior print settings.",
+  "interpretation": "Direct authorization to remove the native PDF barcode placeholder; reveal the existing artwork beneath it. Amazon will supply its own barcode.",
+  "approved_review_pdf_sha256": "2ce3992b6255031a29db5e751b36ca224591c663ba5fd509adefbac90ae2edd9",
+  "approved_artwork_sha256": "f04130972a7d522f9b5ab408f82ed327250644ebf4df76ad83de01a3a43662ef",
+  "author": "Elizabeth Erin",
+  "printer": "Amazon KDP paperback — standard colour, white paper",
+  "new_artwork_generated": false
+}
