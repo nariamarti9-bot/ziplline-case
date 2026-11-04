@@ -11,3 +11,4 @@ Wer_hat_den_Kommandanten_getoetet_Corrected_v10.pdf filter=lfs diff=lfs merge=lf
 Cover_Review_v1/*.pdf filter=lfs diff=lfs merge=lfs -text
 Cover_Final_v1/*.pdf filter=lfs diff=lfs merge=lfs -text
 Cover_Review_v2/*.pdf filter=lfs diff=lfs merge=lfs -text
+Cover_Final_v3/*.pdf filter=lfs diff=lfs merge=lfs -text
