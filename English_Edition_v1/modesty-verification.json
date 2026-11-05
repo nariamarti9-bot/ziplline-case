@@ -1,0 +1,106 @@
+{
+  "status": "assembled and visually verified",
+  "authorization": "modesty-authorization.json",
+  "assets": [
+    {
+      "name": "cover",
+      "source_dimensions": [
+        1466,
+        1073
+      ],
+      "imagegen_dimensions": [
+        1466,
+        1073
+      ],
+      "output": "/workspace/book-work/english-edition/modest-art/cover_modest.png",
+      "source_sha256": "f04130972a7d522f9b5ab408f82ed327250644ebf4df76ad83de01a3a43662ef",
+      "imagegen_sha256": "dd4e11d80679682e1030107da16159f4ebbeed049274a94c2639f9e8aa284793",
+      "output_sha256": "a3820c35c4ab1e6390393ea0e6cab37c319fcfed02ca8ee8607379c131399abe",
+      "changed_bounds_original_pixels": [
+        870,
+        765,
+        1150,
+        975
+      ],
+      "allowed_patch_bounds_original_pixels": [
+        870,
+        765,
+        1150,
+        975
+      ],
+      "all_pixels_outside_chest_patch_original_exact": true,
+      "no_hand_painting": true,
+      "edit_origin": "image_gen edit; bounded compositing only",
+      "source_pixels_changed_outside_patch": 0,
+      "faces_hands_other_characters_and_clues_preserved": true
+    },
+    {
+      "name": "page_006",
+      "source_dimensions": [
+        826,
+        826
+      ],
+      "imagegen_dimensions": [
+        1254,
+        1254
+      ],
+      "output": "/workspace/book-work/english-edition/modest-art/page_006_modest.png",
+      "source_sha256": "d1d3b6490b9fa1c96921a9a1ec5a7122701c1af34defd9e2e2d94b72499a4247",
+      "imagegen_sha256": "adc62a23ba2c737705bdad3660ad45554a51b243055bcb72e7021838dcab7bdc",
+      "output_sha256": "16f2e0ef680f653a056ac403a2e932032baeab03ce6a0c93e3fce7388c022e23",
+      "changed_bounds_original_pixels": [
+        601,
+        192,
+        775,
+        335
+      ],
+      "allowed_patch_bounds_original_pixels": [
+        601,
+        192,
+        775,
+        335
+      ],
+      "all_pixels_outside_chest_patch_original_exact": true,
+      "no_hand_painting": true,
+      "edit_origin": "image_gen edit; bounded compositing only",
+      "source_pixels_changed_outside_patch": 0,
+      "faces_hands_other_characters_and_clues_preserved": true
+    },
+    {
+      "name": "page_081",
+      "source_dimensions": [
+        1270,
+        763
+      ],
+      "imagegen_dimensions": [
+        1618,
+        972
+      ],
+      "output": "/workspace/book-work/english-edition/modest-art/page_081_modest.png",
+      "source_sha256": "26ef7a36c6c37c6fc719e60b6450c391e0cbae060504c68d5a143e838bde49aa",
+      "imagegen_sha256": "e35d69f24e70029f12173006d8647906f9f422b25c6a718889adcffb56dd15ea",
+      "output_sha256": "7201f12b77ba6be8cd0d5b7c338582b2152bd075e0e8b01963b15e610f1984fd",
+      "changed_bounds_original_pixels": [
+        397,
+        279,
+        591,
+        432
+      ],
+      "allowed_patch_bounds_original_pixels": [
+        397,
+        279,
+        591,
+        432
+      ],
+      "all_pixels_outside_chest_patch_original_exact": true,
+      "no_hand_painting": true,
+      "edit_origin": "image_gen edit; bounded compositing only",
+      "source_pixels_changed_outside_patch": 0,
+      "faces_hands_other_characters_and_clues_preserved": true
+    }
+  ],
+  "visual_review_complete": true,
+  "visual_review": "All three before/after chest crops inspected: smooth raised emerald necklines cover cleavage, necklaces remain coherent, and old exposed chest edges do not remain. Every source pixel outside the permitted chest rectangles is unchanged.",
+  "before_after_pdf": "/workspace/book-work/english-edition/modest-art/Clara_Modest_Necklines_Before_After.pdf",
+  "before_after_png": "/workspace/book-work/english-edition/modest-art/Clara_Modest_Necklines_Before_After.png"
+}

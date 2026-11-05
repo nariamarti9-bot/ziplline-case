@@ -1,0 +1,74 @@
+{
+  "status": "English cover finalized with the user-requested modest neckline; no barcode placeholder",
+  "pdf": "/workspace/book-work/english-edition/cover-final-modest/Who_Killed_the_Commander_English_Cover.pdf",
+  "size_bytes": 17570423,
+  "sha256": "1d6bea5def2aa72296e98143385547fce1f0f01908feef9cd8b1790e611ae563",
+  "author": "Elizabeth Erin",
+  "title": "Who Killed the Commander?",
+  "printer": "Amazon KDP",
+  "binding": "paperback",
+  "interior_colour": "standard colour, white paper",
+  "interior_page_count": 104,
+  "trim_inches": [
+    6.25,
+    9.25
+  ],
+  "bleed_inches": 0.125,
+  "spine_inches": 0.234208,
+  "spine_mm": 5.9488832,
+  "full_cover_inches": [
+    12.984208,
+    9.5
+  ],
+  "full_cover_mm": [
+    329.7988832,
+    241.29999999999998
+  ],
+  "pdf_dimensions_points": [
+    934.862976,
+    684.0
+  ],
+  "cover_page_count": 1,
+  "background_pixels": [
+    3896,
+    2850
+  ],
+  "effective_background_ppi": [
+    300.05680746950446,
+    300.0
+  ],
+  "original_artwork_pixels": [
+    1466,
+    1073
+  ],
+  "original_artwork_ppi": 112.90638597286795,
+  "resampling": "Pillow Lanczos conventional resizing followed by 300-dpi background flattening",
+  "resolution_disclosure": "The background is conventionally resized from the source pixel dimensions recorded here. The export does not create original image detail. All English cover text remains vector text.",
+  "all_approved_text_identical": true,
+  "all_fonts_embedded": true,
+  "unicode_checks_passed": true,
+  "background_opaque": true,
+  "transparency_flattened": true,
+  "full_bleed_background": true,
+  "text_safe_margins_verified": true,
+  "barcode_rectangle_removed": true,
+  "barcode_placeholder_drawn": false,
+  "fake_isbn_or_barcode_created": false,
+  "native_text_groups_preserved": 53,
+  "poppler_warnings_errors": 0,
+  "new_artwork_generated": false,
+  "artwork_approval_record": "artwork-approval.json",
+  "review_pdf_preserved_sha256": "2fe0e6e2e1dbbcd2b9700a70deaac18db8d8a8337ece1558cff3faa6a2378b36",
+  "original_artwork_preserved_sha256": "a3820c35c4ab1e6390393ea0e6cab37c319fcfed02ca8ee8607379c131399abe",
+  "interior_modified": false,
+  "modest_neckline_applied": true,
+  "source_modest_artwork": "/workspace/book-work/english-edition/modest-art/cover_modest.png",
+  "background_difference_bbox_pixels": [
+    2306,
+    2025,
+    3063,
+    2596
+  ],
+  "only_dress_region_changed_vs_previous_english_cover": true,
+  "all_native_english_lettering_identical_to_previous_final": true
+}

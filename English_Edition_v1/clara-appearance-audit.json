@@ -1,0 +1,150 @@
+{
+  "status": "complete visual occurrence audit; no images edited",
+  "reviewed_all_image_regions": 51,
+  "reviewed_interior_image_pages": [
+    1,
+    2,
+    4,
+    5,
+    6,
+    7,
+    9,
+    10,
+    13,
+    14,
+    17,
+    18,
+    21,
+    22,
+    25,
+    26,
+    29,
+    30,
+    32,
+    33,
+    35,
+    36,
+    39,
+    40,
+    43,
+    44,
+    47,
+    48,
+    51,
+    52,
+    55,
+    56,
+    58,
+    59,
+    61,
+    62,
+    65,
+    66,
+    69,
+    70,
+    73,
+    74,
+    77,
+    78,
+    81,
+    82,
+    84,
+    104
+  ],
+  "interior_clara_occurrences": [
+    {
+      "page": 6,
+      "image_index": 0,
+      "reference_render": "/workspace/book-work/english-edition/image-review/page_006_image_00.png",
+      "embedded_original_png": "/workspace/book-work/english-edition/clara-reference/page_006_embedded_original.png",
+      "portrait_position": "top-right of six-character roster",
+      "chest_bbox_pixels_in_3x_render": [
+        509,
+        169,
+        604,
+        235
+      ],
+      "edit_region_pixels_in_3x_render": [
+        481,
+        154,
+        618,
+        255
+      ],
+      "chest_bbox_page_points": [
+        284.66666666666663,
+        102.33333333333334,
+        316.33333333333337,
+        124.33333333333333
+      ],
+      "edit_region_page_points": [
+        275.33333333333337,
+        97.33333333333334,
+        321.0,
+        131.0
+      ],
+      "identity": "Clara Bellini: copper-red curls, emerald gown, ivory stole, pearl necklace and emerald pendant, opera glasses",
+      "change": "Raise the emerald-green dress neckline modestly across the upper chest; preserve body proportions, face, necklace, stole, hands and every other character."
+    },
+    {
+      "page": 81,
+      "image_index": 0,
+      "reference_render": "/workspace/book-work/english-edition/image-review/page_081_image_00.png",
+      "embedded_original_png": "/workspace/book-work/english-edition/clara-reference/page_081_embedded_original.png",
+      "portrait_position": "second from left in four-character lineup",
+      "chest_bbox_pixels_in_3x_render": [
+        255,
+        178,
+        357,
+        245
+      ],
+      "edit_region_pixels_in_3x_render": [
+        239,
+        161,
+        380,
+        262
+      ],
+      "chest_bbox_page_points": [
+        176.75409698486328,
+        105.33333333333334,
+        210.75409698486328,
+        127.66666666666667
+      ],
+      "edit_region_page_points": [
+        171.42076365152997,
+        99.66666666666666,
+        218.42076365152997,
+        133.33333333333331
+      ],
+      "identity": "Clara Bellini: copper-red curls, emerald gown, ivory stole, pearl necklace and emerald pendant, opera glasses",
+      "change": "Raise the emerald-green dress neckline modestly across the upper chest; preserve body proportions, face, necklace, stole, hands and every other character."
+    }
+  ],
+  "only_interior_pages_with_identifiable_clara": [
+    6,
+    81
+  ],
+  "cover": {
+    "reference_png": "/workspace/book-work/cover-v2/Cover_Illustration_v2.png",
+    "dimensions_pixels": [
+      1466,
+      1073
+    ],
+    "chest_bbox_pixels": [
+      881,
+      779,
+      1074,
+      922
+    ],
+    "edit_region_pixels": [
+      850,
+      744,
+      1149,
+      988
+    ],
+    "change": "Raise central opera diva’s emerald neckline; preserve pearls/pendant and ivory stole. Do not alter blonde engineer Lotte or officer.",
+    "used_in_current_german_cover": "/workspace/book-work/cover-final-v4/Wer_hat_den_Kommandanten_getoetet_Cover_KDP_FINAL_v4.pdf",
+    "used_in_english_cover": "/workspace/book-work/english-edition/cover/Who_Killed_the_Commander_English_Cover_WORKING.pdf"
+  },
+  "exclusions": "Do not alter Mercier (brown bob and spectacles), Lotte (blonde aviator cap/goggles), Mrs. Blum (dark updo), or Dr. Vogt (lab coat). Dining-room diagrams have no identifiable Clara portrait. Other evidence art has no visible Clara chest.",
+  "method": "All51 image regions visually inspected through four earlier and four further contact sheets; p6,p81 and current cover enlarged. Extracted exact original p6/p81 embedded images for higher-resolution edit references."
+}

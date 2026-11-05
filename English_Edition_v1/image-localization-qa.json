@@ -1,0 +1,25 @@
+{
+  "status": "passed",
+  "reviewed_image_regions": 51,
+  "reviewed_text_bearing_images": 29,
+  "translated_label_panels": 262,
+  "plan_cache_signatures_all_current": true,
+  "remaining_german_prose_visible": [],
+  "blocking_issues": [],
+  "fit_errors": [],
+  "review_method": "All29text-bearingimagePNGs visually reviewed on5 contact sheets; p14,p30,p43/44,p62,p66,p82,p104 inspected at larger scale. Plans and current cache hashes cross-checked.",
+  "critical_checks": {
+    "p14_pay_by_and_damaged_New_York_e_preserved": true,
+    "p30_15OCT_and_eagle_upside_down": true,
+    "p43_p44_queen_D_changed_to_Q": true,
+    "p66_mirrored_three_line_English_threat": true,
+    "p66_e_c_machine_glyphs_preserved": true,
+    "p82_chart_cross_dividers_button_and_25_drops_preserved": true,
+    "p104_badge_English": true
+  },
+  "intentional_non_English_tokens": "Personal names/codes, LZViktoria, physical historical typewriter keyboard \u00dc\u00d6\u00c4/QWERTZ; no German prose.",
+  "working_pdf": "/workspace/book-work/english-edition/English_Interior_Working.pdf",
+  "working_size_bytes": 119038073,
+  "working_sha256": "8ad973dbfb8c14250b7b1554885ee5c49ffc58111cb64755590e990f926d9759",
+  "ready_for_modest_portrait_replacement": true
+}

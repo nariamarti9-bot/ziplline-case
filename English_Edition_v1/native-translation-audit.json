@@ -1,0 +1,1052 @@
+{
+  "status": "Native source-to-English audit complete; actionable recommendations listed; translation files not modified by audit",
+  "scope": "All 104 native-text JSON pages read against source. Pages32–55 were translated by this agent earlier and self-checked; the other ranges received independent source comparison.",
+  "source_blocks": 951,
+  "pages": 104,
+  "missing_native_ids": [],
+  "extra_native_ids": [],
+  "untranslated_or_empty_real_blocks": [],
+  "intentional_quote_only_empty_blocks": [
+    {
+      "page": 8,
+      "id": "11",
+      "source": "“"
+    },
+    {
+      "page": 16,
+      "id": "11",
+      "source": "“"
+    },
+    {
+      "page": 20,
+      "id": "10",
+      "source": "“"
+    },
+    {
+      "page": 21,
+      "id": "10",
+      "source": "“"
+    },
+    {
+      "page": 21,
+      "id": "11",
+      "source": "“"
+    },
+    {
+      "page": 21,
+      "id": "12",
+      "source": "“"
+    },
+    {
+      "page": 28,
+      "id": "10",
+      "source": "“"
+    },
+    {
+      "page": 34,
+      "id": "10",
+      "source": "“"
+    },
+    {
+      "page": 38,
+      "id": "9",
+      "source": "“"
+    },
+    {
+      "page": 39,
+      "id": "11",
+      "source": "“"
+    },
+    {
+      "page": 39,
+      "id": "12",
+      "source": "“"
+    },
+    {
+      "page": 46,
+      "id": "9",
+      "source": "“"
+    },
+    {
+      "page": 47,
+      "id": "12",
+      "source": "“"
+    },
+    {
+      "page": 47,
+      "id": "13",
+      "source": "“"
+    },
+    {
+      "page": 51,
+      "id": "11",
+      "source": "“"
+    },
+    {
+      "page": 51,
+      "id": "12",
+      "source": "“"
+    },
+    {
+      "page": 55,
+      "id": "11",
+      "source": "“"
+    },
+    {
+      "page": 55,
+      "id": "12",
+      "source": "“"
+    },
+    {
+      "page": 60,
+      "id": "9",
+      "source": "“"
+    },
+    {
+      "page": 65,
+      "id": "11",
+      "source": "“"
+    },
+    {
+      "page": 65,
+      "id": "12",
+      "source": "“"
+    },
+    {
+      "page": 73,
+      "id": "12",
+      "source": "“"
+    },
+    {
+      "page": 77,
+      "id": "11",
+      "source": "“"
+    },
+    {
+      "page": 77,
+      "id": "12",
+      "source": "“"
+    },
+    {
+      "page": 90,
+      "id": "18",
+      "source": "“"
+    }
+  ],
+  "quote_empty_explanation": "25 isolated source closing-quote artifacts were merged into the corresponding English speech or corrected scoring paragraph, preserving content.",
+  "timestamp_occurrences_checked": 122,
+  "timestamp_errors": [],
+  "left_right_errors": [],
+  "german_residue_flags": [],
+  "numeric_digit_flags_manually_cleared": [
+    {
+      "page": 2,
+      "id": "7",
+      "classification": "benign numeral-to-word conversion",
+      "examples": "First edition. All rights reserved. All characters, events and airship designs in this book are fictional."
+    },
+    {
+      "page": 32,
+      "id": "3",
+      "classification": "benign numeral-to-word conversion",
+      "examples": "REVIEW AFTER STAGE ONE"
+    },
+    {
+      "page": 43,
+      "id": "9",
+      "classification": "benign numeral-to-word conversion",
+      "examples": "Your task: How does the secret code between Steward Bruno and Feddersen work, and why does the fifth hand prove the cheating beyond doubt?"
+    },
+    {
+      "page": 45,
+      "id": "9",
+      "classification": "benign numeral-to-word conversion",
+      "examples": "What happened in the fifth hand?"
+    },
+    {
+      "page": 58,
+      "id": "3",
+      "classification": "benign numeral-to-word conversion",
+      "examples": "REVIEW AFTER STAGE TWO"
+    },
+    {
+      "page": 86,
+      "id": "12",
+      "classification": "benign numeral-to-word conversion",
+      "examples": "In the first four rounds, do not compare the absolute rank of Feddersen’s card. Compare whether Lasker’s card is higher or lower than Feddersen’s! Where does Steward Bruno put the water glass when Lasker has the weaker card—and why does Feddersen fold in the fifth hand despite holding a high queen?"
+    }
+  ],
+  "verified_puzzle_mechanics": [
+    "4.2 bar fixed gauge and Greve’s unique square key",
+    "Letter e missing lower curve; e/c swap and black right-fingertip ink",
+    "Mohn right-sole turpentine and oil on left bootlace",
+    "Marek left sleeve chalk; free hand vs blocked central aisle",
+    "Kroll post-midnight date evidence distinct from ring identification; two parallel ring burrs/fresh lead",
+    "Torn lower half of red 7 connects No.47 sachet; ribbon fiber and black/gold seal connect scissors",
+    "Card code is RELATIVE rank: RIGHT means Lasker lower; LEFT means Lasker higher; fifth hand Queen vs5 moved right-to-left",
+    "Fabian’s left-arm physical fit/pressure mark, not access alone, supports identity; writing-hand observation separately contradicts denial",
+    "Holm left palm, paired burns exactly3cm apart, red cedar wedge/shavings",
+    "Krantz real23:18 visit, false23:38 stamp above23:32,20-minute clock adjustment, six-plus-two-minute route",
+    "Bolt knob pulled LEFT by double loop, grille below-left, master keyNo.0,4cm cord remains",
+    "Commander left fist; Krantz right cuff button missing; ALBATROSS SANDS1931 map matches named1931 report",
+    "18 cases plus18 key clues; max54; final bonus requires both pieces of evidence; rank thresholds preserved",
+    "1931 course-change/espionage/cover-up motive and October16/17,1934 chronology retained"
+  ],
+  "canonical_threat_text": "COMMANDER VON BERG WILL BE SILENT FOREVER — SIGNED V. K.",
+  "canonical_threat_currently_matches_pages80_and99": true,
+  "actionable_corrections": [
+    {
+      "priority": "medium",
+      "page": 102,
+      "id": "5",
+      "issue": "Source erpressbaren specifies susceptibility to blackmail; English merely vulnerable omits the causal mechanism. Also make forced cabinet explicitly forced open.",
+      "target": "3. The Cover-Up (Cases 4 and 12): When Scotland Yard radioed a warning about “The Albatross,” Krantz had Navigator Sorge, who was vulnerable to blackmail, destroy the telegram. He personally forced open the archive cabinet with his gold pen nib to steal the logbook page dated November 18, 1931."
+    },
+    {
+      "priority": "medium",
+      "page": 94,
+      "id": "3",
+      "issue": "Use document box for Dokumentenkassette, distinguishing Mrs. von Kron’s small iron box from Vance’s leather document case in Case 3.",
+      "target": "The evidence: Mrs. Blum took advantage of airship-company shareholder Adelheid von Kron’s trembling at dinner to hold a water glass containing a triple dose of sleeping powder directly to her lips. She then took the key to the document box from Mrs. von Kron’s handbag."
+    },
+    {
+      "priority": "medium",
+      "page": 94,
+      "id": "6",
+      "issue": "The same black/gold envelope seal is sealing wax on pp.34–35 but varnish here. Translate context-specific Lacksplitter as sealing wax here (wooden cabin varnish in Case 2 remains varnish).",
+      "target": "2. The embroidery scissors: In Mrs. Blum’s sewing box, a fiber from the pale green silk ribbon is still caught between the blades of her fine embroidery scissors. A flake of black sealing wax with gold dust from the sealed envelope of stolen airship-company bonds clings to the screw joint."
+    },
+    {
+      "priority": "low",
+      "page": 104,
+      "id": "5",
+      "issue": "Certificate is now improved to has solved (previous you solved already fixed during audit). Move has before the inserted location clause for a clean grammatical sentence after the name field.",
+      "target": "has, aboard the transatlantic airship LZ Viktoria (1934), solved all 18 criminal cases with unwavering insight, broken through the web of lies and"
+    },
+    {
+      "priority": "low",
+      "page": 104,
+      "id": "6",
+      "issue": "Exposed conveys überführt more precisely than merely identified, without adding an unsupported court conviction.",
+      "target": "sabotage, and exposed the commander’s murderer (“The"
+    },
+    {
+      "priority": "low",
+      "page": 101,
+      "id": "3",
+      "issue": "Use one English term for Seiden-Lotleine: p77 says plumb line; this paragraph says sounding line. Both physically describe the same cord, but consistency will aid the puzzle.",
+      "replace": {
+        "from": "green waxed silk sounding line",
+        "to": "green waxed silk plumb line"
+      }
+    },
+    {
+      "priority": "low",
+      "page": 100,
+      "id": "7",
+      "issue": "Use ratchet tooth consistently with p73 for Sperrzahn rather than introducing locking tooth.",
+      "replace": {
+        "from": "locking tooth",
+        "to": "ratchet tooth"
+      }
+    }
+  ],
+  "optional_us_vocabulary_consistency": [
+    {
+      "page": 17,
+      "ids": [
+        "6",
+        "7"
+      ],
+      "from": "trolley",
+      "to": "cart"
+    },
+    {
+      "page": 92,
+      "ids": [
+        "4"
+      ],
+      "from": "trolley",
+      "to": "cart"
+    },
+    {
+      "page": 24,
+      "ids": [
+        "7"
+      ],
+      "from": "petrol lighter",
+      "to": "gasoline lighter"
+    },
+    {
+      "page": 25,
+      "ids": [
+        "8"
+      ],
+      "from": "petrol lighter",
+      "to": "gasoline lighter"
+    },
+    {
+      "page": 93,
+      "ids": [
+        "4"
+      ],
+      "from": "petrol lighter",
+      "to": "gasoline lighter"
+    },
+    {
+      "page": 58,
+      "ids": [
+        "7"
+      ],
+      "from": "waistcoat",
+      "to": "vest"
+    },
+    {
+      "page": 95,
+      "ids": [
+        "14"
+      ],
+      "from": "waistcoat",
+      "to": "vest"
+    }
+  ],
+  "style_note": "petrol/trolley/waistcoat are valid English, not untranslated German; these substitutions are optional US-localization choices.",
+  "image_dependencies": [
+    "Change German Queen card rank D to English Q (K/A unchanged) on card evidence image",
+    "Mirrored platen artifact must carry the canonical English threat and preserve damaged e/c facts",
+    "All image labels must use the same dates,times,decimal values,key numbers,and translated proper geographic label ALBATROSS SANDS1931"
+  ],
+  "translation_sha256_snapshot": {
+    "1": "643de1604e4b4cf2b28cfc56e24a007c20ca05a94839ba3d210d4beaa27e8cc0",
+    "2": "6736f85945c0a1a40bd960699274204a2f5743ef02e55dd3e060e6fbb09155c6",
+    "3": "b552cd34032b5f4e8beae96fda85d21b7b8e348bd91459da2cedfff6b504645b",
+    "4": "916b321e67dfa4b62b7d245056a92b622421a0965f381904a662f01f313a679e",
+    "5": "6abb4a66841ba9d60adbe558e22d05a990655178b9c196918f1277083e29111c",
+    "6": "e7387a716d7e47788762196e7d4469cf34d1a01cb71dec8451ab998730936413",
+    "7": "d7eea0d513bb26805cddb92e36986c8640d58193e092ce1206f1f6d95709e16f",
+    "8": "b2e9ee978b04a867174ce086a8378a88a824f430a3cfbb101fafac6fdb47cf88",
+    "9": "ac0294cb88a6047e7f636417b49cb1fa150bcfe051ddbde32435a172b60b304a",
+    "10": "21e5d70f3eedf96dee2cc3c129991cc56150201f9430212249a995f642abff2e",
+    "11": "273759b9da291bde6a707e76a11971c24aa3adf75f5d02e5dd121753b7c78f26",
+    "12": "8ddafbd04c842c0b3d2775b7e78b7a881822dacdaa4ee336c190763b22897df8",
+    "13": "0f4c656d3b6fc8f13d60f0ac7b3dd0ac776ada24c185a541a57917802b0823c8",
+    "14": "2f25322f43eb2506ad06a50ac4bd8af184305e3c8e548827050cbe9c09d4db0f",
+    "15": "3646020ec1c6c95abe6b20cd2775e8a918820dd935419872f3abfde88e5d2e9f",
+    "16": "aad7b84088e514751a6b5c3648e8d1380332ea6596cf8b41f8095b593d545efb",
+    "17": "17ec405db3aef9cb63e3a874962c77e18e7c8b0de38d96e50c2d4270a8e957ca",
+    "18": "7c285fd22779289c70683ba232227e9befb36d46247643029a8f689822c24059",
+    "19": "843cf8412af29d6d2436c4fc34ad8e67b30ef3c4c154f92f81f98b0ded1f3284",
+    "20": "834dc207bc8041c91db68de1e10ccb3fcad6402f18540ec11f056bbe646ec6e9",
+    "21": "2860cbf1944294ed1027efad69cf40ea152a7e8b02709616f9008e604ec9ef16",
+    "22": "53937646a2b17edae7544b62ce0c55b8f4e0f3f35e2b9c801ef215aed7d0305a",
+    "23": "11564d900ddba8d9c3f9faac4592f0154a6df0d32b5e9a2e5127a9778f8703ab",
+    "24": "044fd5926e2be7281b07226e09bef39ceca1edd79e689be82543e02f69238c1f",
+    "25": "4b6de5a717a67abea3db58b05b1397e93984c5c6b76118152925abf7c624402d",
+    "26": "6ee00f88366cfe38fcac0624d34acc4f6edb85fe68ad4c56489b39f8d87226fc",
+    "27": "0032553b227c15bde817e59534be107ceb07cf7cedf7455bc7fe48acf12ed801",
+    "28": "9f3368f5e33f970e2357f4b2d69bf7b9873f511fc5cf4b64a6eb5e22fa7b5441",
+    "29": "8339669ca6ebb458bec4cf246f1f145282f6c2d38fe3279471954628eedcb12e",
+    "30": "3e8fd9b87339aa46bc373b4012d5d4f94bb7f1a3d16da7e611a25031eb7009b3",
+    "31": "fb83b916e7c698d8bf6c448df5490512131f08e909e1ed57d44ff44b7074fc87",
+    "32": "10ff5a8ad5f808709d8ccd74c935d62f20d3a039fa2dbe74fb202849e4c426bc",
+    "33": "d6eaa2a36ff401dc718921aaa33ba6a03b429fa90bca8932cc278ae044fc1128",
+    "34": "8f6976a3a4b0ab72c14de98cd43921e22e457dbc4b7876e4a7d33b7eb80506c3",
+    "35": "8d8392dbcad4c96e33a84659c300c2c0914bd963f4bc25132616838162fc6afd",
+    "36": "02e81146125ddd355e99faba3be723dca3fbe8b2f6c2aeacea24a61d07230a67",
+    "37": "305d89dadc566067dae02e51e5e200bba45f80d60de6b2fb587cc841db11e91f",
+    "38": "2be7a0737ac39891fb1bc5af95c2ab7c9a67255c5809e22084927cb0b8cd0d0c",
+    "39": "dd5c93b8b8ca64c7dd1af6d61271fa06a87951d14d9ced8081b88054b26eb09c",
+    "40": "8e08f52723c566ab32d756762c21760d85de6d63c22333d0d5ea08de3b7a0ae3",
+    "41": "734c9db15603fa87a7217cfdab39ebb2aeb7b8f494078b691a74fbfeb6f3dae7",
+    "42": "357f35ea14065bdfd6c625d1564b7da0b4205582eab5e52baee976a2d6bee0dd",
+    "43": "1646adbe89f812200c973a4b41653729c7b7088071d425609b7f3725e07c80a3",
+    "44": "a1f20c1e62885e29cfa66fe2059bdbdc8c4c45df44aeecf1b16bccfb11975672",
+    "45": "73cf1df90dc4aa3d880d91e73250b6059e39d6ffaf2214869376a9241da15e63",
+    "46": "d5206b4dc2c82ea45fe7610cec7622fed36e81a97294c533cc0b0e6d6a8c69ac",
+    "47": "7a63d11f5b7cb618008d6798d67586b986716674cb9aa832f1ba2e71de9a275c",
+    "48": "d8fceb7a77c08725900d58d611da71d3496ce129e24bcbaf5ec0ed5b7db4581d",
+    "49": "9bf81ab9d463ed6dfbd61f96bd76abf3b0a1d395394e5d6f36dff06b2efe2838",
+    "50": "4e29edc99ab0b115e3b3c9226555499935dba6482a21ca0b046d410f5be0a279",
+    "51": "b856f331f2f9045bb84961e8931dff23b67a7e60e99e15f1c6adec68c47ad322",
+    "52": "567181722238102bdb288a2f511a104323cd3d60246c9d773c3299d8954fdc12",
+    "53": "a0e02dcace861d132521ae8268d0711bd3afed1aed93cda0dc9ba4857f5b7300",
+    "54": "e9b5f7062c5ec003253a7960a3ba4615dcb6f20ce9daa00af5eb9176a90e25dc",
+    "55": "d8c15b676b6a163e8c02657bd5d8ec22ed3d5944819cfb35fb47e152668d71c0",
+    "56": "9e849d8bf2c596fa3ced61b300065e1c6ac0c429d6d68ae9e7b423bd9412f3fc",
+    "57": "b6532191c40f65f230eb952590a36cc4c42ea9bf26ce2b144127d002858d0714",
+    "58": "8a22aba242279006e15d5f4748e3d05dc62357d3d423d0e8639f030b1efc8a50",
+    "59": "5bdd73820c6494041a32c693eea9fd6f87d71353b8b767c03ef24dd7ab858993",
+    "60": "4b1814b11217eaa18c2097834e0d41b00bf085e014e7765c43118faa67326b2c",
+    "61": "d6ebdf748546616eb132fd73e812119a82fd542d4805db4b4b7c3799ab23ee63",
+    "62": "8cd104cdfab921f768a90ba567cb6368839174444d48c56ad1fa55e279e88a70",
+    "63": "eb5c262ca1c92a1c81626bce254f0dfacec32978b5ac9481ef9f2ad2ad0cbbd5",
+    "64": "4da9cfd5b01c212c67129eb4d373c463d34411efed6446f63773f759ff0d1f25",
+    "65": "b88bd7b575b5b274bc5b4703d23b3ef70cc9b0fef881311ae8ec51e6cbbf3bda",
+    "66": "a962b1fb79cc67e5fb3915e3549ca1e6380ee90234be068366639e579e284c31",
+    "67": "4d367d39847d163458482f320a8b8d567e9a7f1a2d9f2591a13cd6995e8238bd",
+    "68": "6188c04c0522181556c30c0c2b50c45d9ce09a5c0cc0e5d3c2a405a6d3427b49",
+    "69": "d41ea614a1b9eb9e174f51e31f0fa59316bac4812d664f3387d04f8c7cedc905",
+    "70": "2d10db976ea6b607ce7d5897803b039e850ee104b75e22ff8e2670554367dca2",
+    "71": "05a23515e4d0be7e56a0862b7dc7bd085e7e077bdf7cb7dd1f8f87012f4affb5",
+    "72": "ae373ba6fa7ed80b6d9885f360fa77cfc821367a183dc0aef47623581097006e",
+    "73": "a356674ab2c04cd4f6c5c59ccfdbf333e67f3b05c264351d5f890db124fe3471",
+    "74": "4d7ff85f71e5617e5645a15ec1bd552a0ca98ed53134218937edc0a5e3a95198",
+    "75": "6b04511dda32ce9770d9f55c9287a215d6c26940e6d09eb4cee81d8c002e73f0",
+    "76": "601aee1274a63f8476701e1358cfa792d24c579a5757ccebb3955f57a734e7c8",
+    "77": "73b0c58c8ffc750702394ac0915adf13982ac9a9d8f977c404fcccfe16c57596",
+    "78": "41db46971d88c5db94d12774c76377a82d95ff04c3e5bbd02286d5bf17280167",
+    "79": "7cd4d537da2ad001c96cce8e039170da7a75b2235f7f6b5dd25c03519bfaaeff",
+    "80": "2c8872899f689435f17f9e72644503c85f9a088afae2166d30932da14cebd2ab",
+    "81": "d51df0d122bda8c4fb7c2f08c7fdb9053aa5930d57c15803f5a844c9dad824fc",
+    "82": "614ecd68c13886db1cee9a37eac4c13c467e4d339d51bf670d43c12d34c05ab6",
+    "83": "948bff981379d611d547521b7cb94dbc8bf6300be7e8c8a2784417b8e2c0dd00",
+    "84": "bea4f62bcd4036070f78f7d11ff62fcd23668a22317416e43ba1f776ba8efd85",
+    "85": "382949c096500cd0aac5e50b806b816ae4fb4536e51913bb12ed7e1ed96e2090",
+    "86": "cadc1713ce4ef0d71d606f687ae840ae95201a984ff146c85382d8f03ddd3d07",
+    "87": "3a4db99cf2e51b0045a52089c13c7c8c3bab87f8c4471bd0cc95e08c8622d441",
+    "88": "42b70955f2635305060cfb844fade8b8e1845a7fde7a03f8f2e01c51b2452860",
+    "89": "85ea9ad0fde0afd6394dcfd09530cc4087143c66b81e95cbcc2756078b2b05d5",
+    "90": "facdfacf07c31b1eb321620aac9c7233883f8dfccf4d16e3e76ca323029949ee",
+    "91": "dd24db430151be46491cedaa13697822291f9086a63ed8308903404e2aab09cf",
+    "92": "7fa92e011c00b8215e467a5063144f2c0b57f3690a2ab1e3fc55347e9f8352c4",
+    "93": "9bb4c79b67863ae317db9e5efb6a4060c8f559993bc91f8f137810290f5561bf",
+    "94": "7e3a4180f32c4fdbae0550077d5512ecfabebdc141a06290c0d9a285889e0fe1",
+    "95": "5370c3672305b28fac1f6141a55e3b2df20c8bd3e2b5790313ff207ffaf2e44d",
+    "96": "4dd4fcfafa636e0bc1cceb36e111daa927891f3a34108ba616be14261a2e5386",
+    "97": "61a8054232461637d3a6928be098bbe419d6d0a94cb23c29fe29f97364473659",
+    "98": "4a26329cd084533a8d0b57618c3531f3a7175c01c1f8c7132827af3002de4a9f",
+    "99": "0c21ff053251bced0337c0ce65d371ec056b39c17a954663425f2d80a1b98c83",
+    "100": "23475f687feeeac9f4c016881a9068bbf3c84652334fd22e375ee34bff901bf5",
+    "101": "908821519fac076eb417924b0c85e5a7b706b14dac65d15340fcd8ba2641eea5",
+    "102": "2926bb5d9295cfc13cdef509ea6771d306bf70a01b37300dd1d6cbc39092ba15",
+    "103": "a9a7847c8ff357ec3ef7761c8c8487e4a04391df5da14b130ad18420e814e511",
+    "104": "48329fde15b32b1e0de583e71110d65eed9f5af6092d742b7ba4fca8a2a7f2cc"
+  },
+  "page_coverage": [
+    {
+      "page": 1,
+      "source_block_count": 5,
+      "translated_block_count": 5,
+      "all_ids_present": true
+    },
+    {
+      "page": 2,
+      "source_block_count": 7,
+      "translated_block_count": 7,
+      "all_ids_present": true
+    },
+    {
+      "page": 3,
+      "source_block_count": 9,
+      "translated_block_count": 9,
+      "all_ids_present": true
+    },
+    {
+      "page": 4,
+      "source_block_count": 1,
+      "translated_block_count": 1,
+      "all_ids_present": true
+    },
+    {
+      "page": 5,
+      "source_block_count": 10,
+      "translated_block_count": 10,
+      "all_ids_present": true
+    },
+    {
+      "page": 6,
+      "source_block_count": 9,
+      "translated_block_count": 9,
+      "all_ids_present": true
+    },
+    {
+      "page": 7,
+      "source_block_count": 7,
+      "translated_block_count": 7,
+      "all_ids_present": true
+    },
+    {
+      "page": 8,
+      "source_block_count": 12,
+      "translated_block_count": 12,
+      "all_ids_present": true
+    },
+    {
+      "page": 9,
+      "source_block_count": 13,
+      "translated_block_count": 13,
+      "all_ids_present": true
+    },
+    {
+      "page": 10,
+      "source_block_count": 1,
+      "translated_block_count": 1,
+      "all_ids_present": true
+    },
+    {
+      "page": 11,
+      "source_block_count": 12,
+      "translated_block_count": 12,
+      "all_ids_present": true
+    },
+    {
+      "page": 12,
+      "source_block_count": 9,
+      "translated_block_count": 9,
+      "all_ids_present": true
+    },
+    {
+      "page": 13,
+      "source_block_count": 11,
+      "translated_block_count": 11,
+      "all_ids_present": true
+    },
+    {
+      "page": 14,
+      "source_block_count": 1,
+      "translated_block_count": 1,
+      "all_ids_present": true
+    },
+    {
+      "page": 15,
+      "source_block_count": 12,
+      "translated_block_count": 12,
+      "all_ids_present": true
+    },
+    {
+      "page": 16,
+      "source_block_count": 12,
+      "translated_block_count": 12,
+      "all_ids_present": true
+    },
+    {
+      "page": 17,
+      "source_block_count": 11,
+      "translated_block_count": 11,
+      "all_ids_present": true
+    },
+    {
+      "page": 18,
+      "source_block_count": 1,
+      "translated_block_count": 1,
+      "all_ids_present": true
+    },
+    {
+      "page": 19,
+      "source_block_count": 12,
+      "translated_block_count": 12,
+      "all_ids_present": true
+    },
+    {
+      "page": 20,
+      "source_block_count": 11,
+      "translated_block_count": 11,
+      "all_ids_present": true
+    },
+    {
+      "page": 21,
+      "source_block_count": 13,
+      "translated_block_count": 13,
+      "all_ids_present": true
+    },
+    {
+      "page": 22,
+      "source_block_count": 1,
+      "translated_block_count": 1,
+      "all_ids_present": true
+    },
+    {
+      "page": 23,
+      "source_block_count": 12,
+      "translated_block_count": 12,
+      "all_ids_present": true
+    },
+    {
+      "page": 24,
+      "source_block_count": 10,
+      "translated_block_count": 10,
+      "all_ids_present": true
+    },
+    {
+      "page": 25,
+      "source_block_count": 10,
+      "translated_block_count": 10,
+      "all_ids_present": true
+    },
+    {
+      "page": 26,
+      "source_block_count": 3,
+      "translated_block_count": 3,
+      "all_ids_present": true
+    },
+    {
+      "page": 27,
+      "source_block_count": 12,
+      "translated_block_count": 12,
+      "all_ids_present": true
+    },
+    {
+      "page": 28,
+      "source_block_count": 11,
+      "translated_block_count": 11,
+      "all_ids_present": true
+    },
+    {
+      "page": 29,
+      "source_block_count": 10,
+      "translated_block_count": 10,
+      "all_ids_present": true
+    },
+    {
+      "page": 30,
+      "source_block_count": 5,
+      "translated_block_count": 5,
+      "all_ids_present": true
+    },
+    {
+      "page": 31,
+      "source_block_count": 12,
+      "translated_block_count": 12,
+      "all_ids_present": true
+    },
+    {
+      "page": 32,
+      "source_block_count": 10,
+      "translated_block_count": 10,
+      "all_ids_present": true
+    },
+    {
+      "page": 33,
+      "source_block_count": 5,
+      "translated_block_count": 5,
+      "all_ids_present": true
+    },
+    {
+      "page": 34,
+      "source_block_count": 11,
+      "translated_block_count": 11,
+      "all_ids_present": true
+    },
+    {
+      "page": 35,
+      "source_block_count": 11,
+      "translated_block_count": 11,
+      "all_ids_present": true
+    },
+    {
+      "page": 36,
+      "source_block_count": 1,
+      "translated_block_count": 1,
+      "all_ids_present": true
+    },
+    {
+      "page": 37,
+      "source_block_count": 12,
+      "translated_block_count": 12,
+      "all_ids_present": true
+    },
+    {
+      "page": 38,
+      "source_block_count": 10,
+      "translated_block_count": 10,
+      "all_ids_present": true
+    },
+    {
+      "page": 39,
+      "source_block_count": 12,
+      "translated_block_count": 12,
+      "all_ids_present": true
+    },
+    {
+      "page": 40,
+      "source_block_count": 1,
+      "translated_block_count": 1,
+      "all_ids_present": true
+    },
+    {
+      "page": 41,
+      "source_block_count": 12,
+      "translated_block_count": 12,
+      "all_ids_present": true
+    },
+    {
+      "page": 42,
+      "source_block_count": 9,
+      "translated_block_count": 9,
+      "all_ids_present": true
+    },
+    {
+      "page": 43,
+      "source_block_count": 9,
+      "translated_block_count": 9,
+      "all_ids_present": true
+    },
+    {
+      "page": 44,
+      "source_block_count": 1,
+      "translated_block_count": 1,
+      "all_ids_present": true
+    },
+    {
+      "page": 45,
+      "source_block_count": 12,
+      "translated_block_count": 12,
+      "all_ids_present": true
+    },
+    {
+      "page": 46,
+      "source_block_count": 10,
+      "translated_block_count": 10,
+      "all_ids_present": true
+    },
+    {
+      "page": 47,
+      "source_block_count": 13,
+      "translated_block_count": 13,
+      "all_ids_present": true
+    },
+    {
+      "page": 48,
+      "source_block_count": 1,
+      "translated_block_count": 1,
+      "all_ids_present": true
+    },
+    {
+      "page": 49,
+      "source_block_count": 12,
+      "translated_block_count": 12,
+      "all_ids_present": true
+    },
+    {
+      "page": 50,
+      "source_block_count": 10,
+      "translated_block_count": 10,
+      "all_ids_present": true
+    },
+    {
+      "page": 51,
+      "source_block_count": 12,
+      "translated_block_count": 12,
+      "all_ids_present": true
+    },
+    {
+      "page": 52,
+      "source_block_count": 1,
+      "translated_block_count": 1,
+      "all_ids_present": true
+    },
+    {
+      "page": 53,
+      "source_block_count": 12,
+      "translated_block_count": 12,
+      "all_ids_present": true
+    },
+    {
+      "page": 54,
+      "source_block_count": 9,
+      "translated_block_count": 9,
+      "all_ids_present": true
+    },
+    {
+      "page": 55,
+      "source_block_count": 12,
+      "translated_block_count": 12,
+      "all_ids_present": true
+    },
+    {
+      "page": 56,
+      "source_block_count": 1,
+      "translated_block_count": 1,
+      "all_ids_present": true
+    },
+    {
+      "page": 57,
+      "source_block_count": 12,
+      "translated_block_count": 12,
+      "all_ids_present": true
+    },
+    {
+      "page": 58,
+      "source_block_count": 10,
+      "translated_block_count": 10,
+      "all_ids_present": true
+    },
+    {
+      "page": 59,
+      "source_block_count": 5,
+      "translated_block_count": 5,
+      "all_ids_present": true
+    },
+    {
+      "page": 60,
+      "source_block_count": 10,
+      "translated_block_count": 10,
+      "all_ids_present": true
+    },
+    {
+      "page": 61,
+      "source_block_count": 11,
+      "translated_block_count": 11,
+      "all_ids_present": true
+    },
+    {
+      "page": 62,
+      "source_block_count": 1,
+      "translated_block_count": 1,
+      "all_ids_present": true
+    },
+    {
+      "page": 63,
+      "source_block_count": 12,
+      "translated_block_count": 12,
+      "all_ids_present": true
+    },
+    {
+      "page": 64,
+      "source_block_count": 9,
+      "translated_block_count": 9,
+      "all_ids_present": true
+    },
+    {
+      "page": 65,
+      "source_block_count": 12,
+      "translated_block_count": 12,
+      "all_ids_present": true
+    },
+    {
+      "page": 66,
+      "source_block_count": 1,
+      "translated_block_count": 1,
+      "all_ids_present": true
+    },
+    {
+      "page": 67,
+      "source_block_count": 12,
+      "translated_block_count": 12,
+      "all_ids_present": true
+    },
+    {
+      "page": 68,
+      "source_block_count": 8,
+      "translated_block_count": 8,
+      "all_ids_present": true
+    },
+    {
+      "page": 69,
+      "source_block_count": 11,
+      "translated_block_count": 11,
+      "all_ids_present": true
+    },
+    {
+      "page": 70,
+      "source_block_count": 1,
+      "translated_block_count": 1,
+      "all_ids_present": true
+    },
+    {
+      "page": 71,
+      "source_block_count": 12,
+      "translated_block_count": 12,
+      "all_ids_present": true
+    },
+    {
+      "page": 72,
+      "source_block_count": 11,
+      "translated_block_count": 11,
+      "all_ids_present": true
+    },
+    {
+      "page": 73,
+      "source_block_count": 12,
+      "translated_block_count": 12,
+      "all_ids_present": true
+    },
+    {
+      "page": 74,
+      "source_block_count": 1,
+      "translated_block_count": 1,
+      "all_ids_present": true
+    },
+    {
+      "page": 75,
+      "source_block_count": 12,
+      "translated_block_count": 12,
+      "all_ids_present": true
+    },
+    {
+      "page": 76,
+      "source_block_count": 9,
+      "translated_block_count": 9,
+      "all_ids_present": true
+    },
+    {
+      "page": 77,
+      "source_block_count": 12,
+      "translated_block_count": 12,
+      "all_ids_present": true
+    },
+    {
+      "page": 78,
+      "source_block_count": 1,
+      "translated_block_count": 1,
+      "all_ids_present": true
+    },
+    {
+      "page": 79,
+      "source_block_count": 12,
+      "translated_block_count": 12,
+      "all_ids_present": true
+    },
+    {
+      "page": 80,
+      "source_block_count": 23,
+      "translated_block_count": 23,
+      "all_ids_present": true
+    },
+    {
+      "page": 81,
+      "source_block_count": 10,
+      "translated_block_count": 10,
+      "all_ids_present": true
+    },
+    {
+      "page": 82,
+      "source_block_count": 1,
+      "translated_block_count": 1,
+      "all_ids_present": true
+    },
+    {
+      "page": 83,
+      "source_block_count": 12,
+      "translated_block_count": 12,
+      "all_ids_present": true
+    },
+    {
+      "page": 84,
+      "source_block_count": 6,
+      "translated_block_count": 6,
+      "all_ids_present": true
+    },
+    {
+      "page": 85,
+      "source_block_count": 11,
+      "translated_block_count": 11,
+      "all_ids_present": true
+    },
+    {
+      "page": 86,
+      "source_block_count": 13,
+      "translated_block_count": 13,
+      "all_ids_present": true
+    },
+    {
+      "page": 87,
+      "source_block_count": 13,
+      "translated_block_count": 13,
+      "all_ids_present": true
+    },
+    {
+      "page": 88,
+      "source_block_count": 11,
+      "translated_block_count": 11,
+      "all_ids_present": true
+    },
+    {
+      "page": 89,
+      "source_block_count": 6,
+      "translated_block_count": 6,
+      "all_ids_present": true
+    },
+    {
+      "page": 90,
+      "source_block_count": 19,
+      "translated_block_count": 19,
+      "all_ids_present": true
+    },
+    {
+      "page": 91,
+      "source_block_count": 13,
+      "translated_block_count": 13,
+      "all_ids_present": true
+    },
+    {
+      "page": 92,
+      "source_block_count": 12,
+      "translated_block_count": 12,
+      "all_ids_present": true
+    },
+    {
+      "page": 93,
+      "source_block_count": 13,
+      "translated_block_count": 13,
+      "all_ids_present": true
+    },
+    {
+      "page": 94,
+      "source_block_count": 9,
+      "translated_block_count": 9,
+      "all_ids_present": true
+    },
+    {
+      "page": 95,
+      "source_block_count": 16,
+      "translated_block_count": 16,
+      "all_ids_present": true
+    },
+    {
+      "page": 96,
+      "source_block_count": 10,
+      "translated_block_count": 10,
+      "all_ids_present": true
+    },
+    {
+      "page": 97,
+      "source_block_count": 10,
+      "translated_block_count": 10,
+      "all_ids_present": true
+    },
+    {
+      "page": 98,
+      "source_block_count": 10,
+      "translated_block_count": 10,
+      "all_ids_present": true
+    },
+    {
+      "page": 99,
+      "source_block_count": 13,
+      "translated_block_count": 13,
+      "all_ids_present": true
+    },
+    {
+      "page": 100,
+      "source_block_count": 11,
+      "translated_block_count": 11,
+      "all_ids_present": true
+    },
+    {
+      "page": 101,
+      "source_block_count": 8,
+      "translated_block_count": 8,
+      "all_ids_present": true
+    },
+    {
+      "page": 102,
+      "source_block_count": 9,
+      "translated_block_count": 9,
+      "all_ids_present": true
+    },
+    {
+      "page": 103,
+      "source_block_count": 8,
+      "translated_block_count": 8,
+      "all_ids_present": true
+    },
+    {
+      "page": 104,
+      "source_block_count": 13,
+      "translated_block_count": 13,
+      "all_ids_present": true
+    }
+  ],
+  "audit_created_at_utc": "2026-11-04T17:58:47.628650+00:00"
+}

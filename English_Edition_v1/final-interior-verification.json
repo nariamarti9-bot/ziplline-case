@@ -1,0 +1,36 @@
+{
+  "pdf": "/workspace/book-work/english-edition/Who_Killed_the_Commander_English_Interior.pdf",
+  "size_bytes": 121422742,
+  "sha256": "eb41ab5bc10add1bb00cb38f6496f9c065f0307cd214030e00a616443800686a",
+  "page_count": 104,
+  "trim_points": [
+    450,
+    666
+  ],
+  "source_native_blocks": 951,
+  "typeset_native_blocks": 924,
+  "native_missing_blocks": [],
+  "overflow_blocks": [],
+  "illustration_regions_reviewed": 51,
+  "image_labels_translated": 262,
+  "image_label_fit_errors": [],
+  "all_fonts_embedded": true,
+  "native_english_unchanged_after_art_edits": true,
+  "image_positions_unchanged": true,
+  "modest_art_pages": [
+    6,
+    81
+  ],
+  "only_pages_visually_changed_in_modesty_pass": [
+    6,
+    81
+  ],
+  "unused_font_resources_repaired": [
+    {
+      "xref": 6,
+      "old_name": "Helvetica"
+    }
+  ],
+  "poppler_warnings_errors": 0,
+  "German_originals_preserved": true
+}

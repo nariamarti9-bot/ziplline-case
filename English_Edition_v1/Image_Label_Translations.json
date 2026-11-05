@@ -1,0 +1,4073 @@
+[
+  {
+    "page": 1,
+    "image_index": 0,
+    "image_bbox": [
+      93.79679870605469,
+      35.0,
+      356.20318603515625,
+      245.0
+    ],
+    "reviewed": true,
+    "labels": [],
+    "unresolved": [],
+    "review_method": "Every image visually inspected in contact sheet; every text-bearing image enlarged. OCR treated as candidates, never as authoritative.",
+    "unchanged_content": "All proper names, route arrows, marker numbers, isolated e glyph, physical clues and unlettered portraits retained."
+  },
+  {
+    "page": 2,
+    "image_index": 0,
+    "image_bbox": [
+      67.5,
+      46.0,
+      382.5,
+      256.0
+    ],
+    "reviewed": true,
+    "labels": [
+      {
+        "source": "BORDKARTE",
+        "english": "BOARDING PASS",
+        "style": "paper",
+        "bbox": [
+          129.83333333333334,
+          117.33333333333333,
+          318.83333333333337,
+          139.33333333333331
+        ],
+        "notes": "",
+        "font_size": 20
+      },
+      {
+        "source": "SONDERERMITTLER - FREIER ZUGANG",
+        "english": "SPECIAL INVESTIGATOR\nALL-DECK ACCESS",
+        "style": "paper",
+        "notes": "Decorative red diagonal access stamp. English can be a red framed stamp/panel; cover all angled German lettering. Preserve LZ VIKTORIA · 1934 above.",
+        "text_color": "#9B2824",
+        "bbox": [
+          111.16666666666666,
+          150.0,
+          362.1666666666667,
+          232.0
+        ]
+      }
+    ],
+    "unresolved": [],
+    "review_method": "Every image visually inspected in contact sheet; every text-bearing image enlarged. OCR treated as candidates, never as authoritative.",
+    "unchanged_content": "All proper names, route arrows, marker numbers, isolated e glyph, physical clues and unlettered portraits retained."
+  },
+  {
+    "page": 4,
+    "image_index": 0,
+    "image_bbox": [
+      28.0,
+      42.0,
+      422.0,
+      535.9172973632812
+    ],
+    "reviewed": true,
+    "labels": [
+      {
+        "source": "DER GESAMTPLAN DER LZ VIKTORIA",
+        "english": "THE COMPLETE PLAN OF LZ VIKTORIA",
+        "style": "diagram",
+        "notes": "Preserve diagram pointers, rooms and all tank letters D–C–B–A. Dense small labels may need multiline text; do not mask adjacent mechanism details.",
+        "bbox": [
+          103.0,
+          50.333333333333336,
+          347.0,
+          67.0
+        ],
+        "font_size": 11
+      },
+      {
+        "source": "(FÜHRERGONDEL & UNTERER LAUFGANG)",
+        "english": "(CONTROL GONDOLA & LOWER WALKWAY)",
+        "style": "diagram",
+        "notes": "Preserve diagram pointers, rooms and all tank letters D–C–B–A. Dense small labels may need multiline text; do not mask adjacent mechanism details.",
+        "bbox": [
+          145.33333333333331,
+          72.33333333333333,
+          306.3333333333333,
+          83.66666666666666
+        ],
+        "font_size": 8
+      },
+      {
+        "source": "Bug",
+        "english": "Bow",
+        "style": "diagram",
+        "notes": "Preserve diagram pointers, rooms and all tank letters D–C–B–A. Dense small labels may need multiline text; do not mask adjacent mechanism details.",
+        "bbox": [
+          52.66666666666667,
+          125.66666666666667,
+          67.0,
+          134.66666666666669
+        ]
+      },
+      {
+        "source": "Heck",
+        "english": "Stern",
+        "style": "diagram",
+        "notes": "Preserve diagram pointers, rooms and all tank letters D–C–B–A. Dense small labels may need multiline text; do not mask adjacent mechanism details.",
+        "bbox": [
+          380.6666666666667,
+          119.66666666666667,
+          401.6666666666667,
+          129.0
+        ]
+      },
+      {
+        "source": "Gaszellen",
+        "english": "Gas cells",
+        "style": "diagram",
+        "notes": "Preserve diagram pointers, rooms and all tank letters D–C–B–A. Dense small labels may need multiline text; do not mask adjacent mechanism details.",
+        "bbox": [
+          242.0,
+          114.0,
+          268.33333333333337,
+          124.0
+        ]
+      },
+      {
+        "source": "Führergondel",
+        "english": "Control gondola",
+        "style": "diagram",
+        "notes": "Preserve diagram pointers, rooms and all tank letters D–C–B–A. Dense small labels may need multiline text; do not mask adjacent mechanism details.",
+        "bbox": [
+          81.33333333333334,
+          242.33333333333334,
+          122.0,
+          252.66666666666666
+        ]
+      },
+      {
+        "source": "Passagiergondel A-Deck",
+        "english": "A-deck passenger gondola",
+        "style": "diagram",
+        "notes": "Preserve diagram pointers, rooms and all tank letters D–C–B–A. Dense small labels may need multiline text; do not mask adjacent mechanism details.",
+        "bbox": [
+          226.66666666666666,
+          242.33333333333334,
+          287.6666666666667,
+          252.66666666666666
+        ]
+      },
+      {
+        "source": "Führergondel & B-Deck",
+        "english": "Control Gondola & B-Deck",
+        "style": "diagram",
+        "notes": "Preserve diagram pointers, rooms and all tank letters D–C–B–A. Dense small labels may need multiline text; do not mask adjacent mechanism details.",
+        "bbox": [
+          168.33333333333334,
+          257.66666666666663,
+          309.6666666666667,
+          269.33333333333337
+        ],
+        "font_size": 10
+      },
+      {
+        "source": "VERGRÖSSERTER AUSSCHNITT: B-DECK AM UNTEREN KIEL",
+        "english": "ENLARGED VIEW: B-DECK ALONG THE LOWER KEEL",
+        "style": "diagram",
+        "notes": "Preserve diagram pointers, rooms and all tank letters D–C–B–A. Dense small labels may need multiline text; do not mask adjacent mechanism details.",
+        "bbox": [
+          119.0,
+          320.6666666666667,
+          347.3333333333333,
+          334.6666666666667
+        ],
+        "font_size": 8
+      },
+      {
+        "source": "Post- & Frachtraum",
+        "english": "Mail & cargo room",
+        "style": "diagram",
+        "notes": "Preserve diagram pointers, rooms and all tank letters D–C–B–A. Dense small labels may need multiline text; do not mask adjacent mechanism details.",
+        "bbox": [
+          50.66666666666667,
+          354.6666666666667,
+          81.33333333333334,
+          371.0
+        ]
+      },
+      {
+        "source": "Bordhospital",
+        "english": "Ship’s hospital",
+        "style": "diagram",
+        "notes": "Preserve diagram pointers, rooms and all tank letters D–C–B–A. Dense small labels may need multiline text; do not mask adjacent mechanism details.",
+        "bbox": [
+          89.0,
+          358.6666666666667,
+          117.33333333333333,
+          369.0
+        ]
+      },
+      {
+        "source": "Kombüse",
+        "english": "Galley",
+        "style": "diagram",
+        "notes": "Preserve diagram pointers, rooms and all tank letters D–C–B–A. Dense small labels may need multiline text; do not mask adjacent mechanism details.",
+        "bbox": [
+          124.0,
+          358.6666666666667,
+          147.33333333333331,
+          369.0
+        ]
+      },
+      {
+        "source": "Hauptschaltbrett",
+        "english": "Main switchboard",
+        "style": "diagram",
+        "notes": "Preserve diagram pointers, rooms and all tank letters D–C–B–A. Dense small labels may need multiline text; do not mask adjacent mechanism details.",
+        "bbox": [
+          148.33333333333331,
+          358.6666666666667,
+          185.66666666666666,
+          369.0
+        ]
+      },
+      {
+        "source": "Werkzeugschrank",
+        "english": "Tool locker",
+        "style": "diagram",
+        "notes": "Preserve diagram pointers, rooms and all tank letters D–C–B–A. Dense small labels may need multiline text; do not mask adjacent mechanism details.",
+        "bbox": [
+          188.66666666666666,
+          358.6666666666667,
+          225.33333333333334,
+          369.0
+        ]
+      },
+      {
+        "source": "Motorsteuerung 1–4 / Zugang zu Außengondeln",
+        "english": "Engine controls 1–4 / Access to outboard gondolas",
+        "style": "diagram",
+        "notes": "Preserve diagram pointers, rooms and all tank letters D–C–B–A. Dense small labels may need multiline text; do not mask adjacent mechanism details.",
+        "bbox": [
+          228.66666666666666,
+          355.0,
+          272.66666666666663,
+          371.6666666666667
+        ]
+      },
+      {
+        "source": "Treibstofftanks D–A",
+        "english": "Fuel tanks D–A",
+        "style": "diagram",
+        "notes": "Preserve diagram pointers, rooms and all tank letters D–C–B–A. Dense small labels may need multiline text; do not mask adjacent mechanism details.",
+        "bbox": [
+          276.33333333333337,
+          358.6666666666667,
+          319.3333333333333,
+          369.0
+        ]
+      },
+      {
+        "source": "Sperrgitter Mitte",
+        "english": "Central barrier",
+        "style": "diagram",
+        "notes": "Preserve diagram pointers, rooms and all tank letters D–C–B–A. Dense small labels may need multiline text; do not mask adjacent mechanism details.",
+        "bbox": [
+          319.6666666666667,
+          351.6666666666667,
+          353.0,
+          360.6666666666667
+        ]
+      },
+      {
+        "source": "Telefonkasten 4",
+        "english": "Telephone Box 4",
+        "style": "diagram",
+        "notes": "Preserve diagram pointers, rooms and all tank letters D–C–B–A. Dense small labels may need multiline text; do not mask adjacent mechanism details.",
+        "bbox": [
+          333.3333333333333,
+          363.3333333333333,
+          361.0,
+          372.3333333333333
+        ]
+      },
+      {
+        "source": "Gasventil Süd",
+        "english": "South gas valve",
+        "style": "diagram",
+        "notes": "Preserve diagram pointers, rooms and all tank letters D–C–B–A. Dense small labels may need multiline text; do not mask adjacent mechanism details.",
+        "bbox": [
+          360.3333333333333,
+          358.0,
+          377.0,
+          372.3333333333333
+        ]
+      },
+      {
+        "source": "Höhenruder & Seilgetriebe",
+        "english": "Elevator & cable mechanism",
+        "style": "diagram",
+        "notes": "Preserve diagram pointers, rooms and all tank letters D–C–B–A. Dense small labels may need multiline text; do not mask adjacent mechanism details.",
+        "bbox": [
+          377.3333333333333,
+          358.0,
+          404.6666666666667,
+          372.3333333333333
+        ]
+      },
+      {
+        "source": "Zugang",
+        "english": "Access",
+        "style": "diagram",
+        "notes": "Preserve diagram pointers, rooms and all tank letters D–C–B–A. Dense small labels may need multiline text; do not mask adjacent mechanism details.",
+        "bbox": [
+          249.66666666666666,
+          386.0,
+          264.66666666666663,
+          394.6666666666667
+        ]
+      },
+      {
+        "source": "Steuerstand",
+        "english": "Helm",
+        "style": "diagram",
+        "notes": "Preserve diagram pointers, rooms and all tank letters D–C–B–A. Dense small labels may need multiline text; do not mask adjacent mechanism details.",
+        "bbox": [
+          54.66666666666667,
+          457.3333333333333,
+          84.66666666666666,
+          467.6666666666667
+        ]
+      },
+      {
+        "source": "Kartenraum",
+        "english": "Chart room",
+        "style": "diagram",
+        "notes": "Preserve diagram pointers, rooms and all tank letters D–C–B–A. Dense small labels may need multiline text; do not mask adjacent mechanism details.",
+        "bbox": [
+          91.33333333333334,
+          457.3333333333333,
+          121.0,
+          467.6666666666667
+        ]
+      },
+      {
+        "source": "Funkraum",
+        "english": "Radio room",
+        "style": "diagram",
+        "notes": "Preserve diagram pointers, rooms and all tank letters D–C–B–A. Dense small labels may need multiline text; do not mask adjacent mechanism details.",
+        "bbox": [
+          125.66666666666667,
+          457.3333333333333,
+          155.66666666666669,
+          467.6666666666667
+        ]
+      },
+      {
+        "source": "Führergondel",
+        "english": "Control gondola",
+        "style": "diagram",
+        "notes": "Preserve diagram pointers, rooms and all tank letters D–C–B–A. Dense small labels may need multiline text; do not mask adjacent mechanism details.",
+        "bbox": [
+          87.0,
+          467.0,
+          133.0,
+          477.3333333333333
+        ]
+      },
+      {
+        "source": "Passagiergondel A-Deck",
+        "english": "A-deck passenger gondola",
+        "style": "diagram",
+        "notes": "Preserve diagram pointers, rooms and all tank letters D–C–B–A. Dense small labels may need multiline text; do not mask adjacent mechanism details.",
+        "bbox": [
+          251.33333333333334,
+          465.6666666666667,
+          318.3333333333333,
+          477.3333333333333
+        ]
+      },
+      {
+        "source": "B-Deck: Der Ausschnitt auf Seite 10 beginnt am Werkzeugschrank.",
+        "english": "B-deck: The detail on page 10 begins at the tool locker.",
+        "style": "diagram",
+        "notes": "Preserve diagram pointers, rooms and all tank letters D–C–B–A. Dense small labels may need multiline text; do not mask adjacent mechanism details.",
+        "bbox": [
+          113.66666666666667,
+          521.6666666666667,
+          341.0,
+          533.0
+        ]
+      }
+    ],
+    "unresolved": [],
+    "review_method": "Every image visually inspected in contact sheet; every text-bearing image enlarged. OCR treated as candidates, never as authoritative.",
+    "unchanged_content": "All proper names, route arrows, marker numbers, isolated e glyph, physical clues and unlettered portraits retained."
+  },
+  {
+    "page": 5,
+    "image_index": 0,
+    "image_bbox": [
+      67.5,
+      46.0,
+      382.5,
+      256.0
+    ],
+    "reviewed": true,
+    "labels": [
+      {
+        "source": "Backbord-Promenade",
+        "english": "Port Promenade",
+        "style": "diagram",
+        "notes": "Existing printed room-label plate; keep all cabin/table numbers and artwork orientation unchanged.",
+        "bbox": [
+          203.16666666666666,
+          59.0,
+          247.5,
+          68.33333333333333
+        ]
+      },
+      {
+        "source": "Speisesaal Tisch 1–6",
+        "english": "Dining Room — Tables 1–6",
+        "style": "diagram",
+        "notes": "Existing printed room-label plate; keep all cabin/table numbers and artwork orientation unchanged.",
+        "bbox": [
+          133.5,
+          105.0,
+          180.5,
+          115.33333333333333
+        ]
+      },
+      {
+        "source": "Lesezimmer",
+        "english": "Reading Room",
+        "style": "diagram",
+        "notes": "Existing printed room-label plate; keep all cabin/table numbers and artwork orientation unchanged.",
+        "bbox": [
+          274.83333333333337,
+          105.0,
+          306.5,
+          115.33333333333333
+        ]
+      },
+      {
+        "source": "Kabine A1",
+        "english": "Cabin A1",
+        "style": "diagram",
+        "notes": "Existing printed room-label plate; keep all cabin/table numbers and artwork orientation unchanged.",
+        "bbox": [
+          104.16666666666666,
+          137.66666666666669,
+          128.83333333333334,
+          147.0
+        ]
+      },
+      {
+        "source": "Kabine A2",
+        "english": "Cabin A2",
+        "style": "diagram",
+        "notes": "Existing printed room-label plate; keep all cabin/table numbers and artwork orientation unchanged.",
+        "bbox": [
+          158.5,
+          137.66666666666669,
+          183.5,
+          147.0
+        ]
+      },
+      {
+        "source": "Kabine A3",
+        "english": "Cabin A3",
+        "style": "diagram",
+        "notes": "Existing printed room-label plate; keep all cabin/table numbers and artwork orientation unchanged.",
+        "bbox": [
+          104.5,
+          152.0,
+          128.83333333333334,
+          160.66666666666669
+        ]
+      },
+      {
+        "source": "Kabine A4",
+        "english": "Cabin A4",
+        "style": "diagram",
+        "notes": "Existing printed room-label plate; keep all cabin/table numbers and artwork orientation unchanged.",
+        "bbox": [
+          158.5,
+          152.0,
+          183.5,
+          160.66666666666669
+        ]
+      },
+      {
+        "source": "Kabine A5",
+        "english": "Cabin A5",
+        "style": "diagram",
+        "notes": "Existing printed room-label plate; keep all cabin/table numbers and artwork orientation unchanged.",
+        "bbox": [
+          267.83333333333337,
+          137.66666666666669,
+          292.16666666666663,
+          147.0
+        ]
+      },
+      {
+        "source": "Kabine A6",
+        "english": "Cabin A6",
+        "style": "diagram",
+        "notes": "Existing printed room-label plate; keep all cabin/table numbers and artwork orientation unchanged.",
+        "bbox": [
+          322.16666666666663,
+          137.66666666666669,
+          346.5,
+          147.0
+        ]
+      },
+      {
+        "source": "Kabine A7",
+        "english": "Cabin A7",
+        "style": "diagram",
+        "notes": "Existing printed room-label plate; keep all cabin/table numbers and artwork orientation unchanged.",
+        "bbox": [
+          267.83333333333337,
+          152.0,
+          292.16666666666663,
+          160.66666666666669
+        ]
+      },
+      {
+        "source": "Kabine A8",
+        "english": "Cabin A8",
+        "style": "diagram",
+        "notes": "Existing printed room-label plate; keep all cabin/table numbers and artwork orientation unchanged.",
+        "bbox": [
+          322.16666666666663,
+          152.0,
+          346.5,
+          160.66666666666669
+        ]
+      },
+      {
+        "source": "Haupttreppe",
+        "english": "Main Stairs",
+        "style": "diagram",
+        "notes": "Existing printed room-label plate; keep all cabin/table numbers and artwork orientation unchanged.",
+        "bbox": [
+          210.5,
+          148.0,
+          239.5,
+          157.66666666666669
+        ]
+      },
+      {
+        "source": "Zahlmeisterbüro (Tresor)",
+        "english": "Purser’s Office (Safe)",
+        "style": "diagram",
+        "notes": "Existing printed room-label plate; keep all cabin/table numbers and artwork orientation unchanged.",
+        "bbox": [
+          202.83333333333334,
+          170.33333333333331,
+          247.83333333333334,
+          179.33333333333334
+        ]
+      },
+      {
+        "source": "Bar & Musiksalon",
+        "english": "Bar & Music Lounge",
+        "style": "diagram",
+        "notes": "Existing printed room-label plate; keep all cabin/table numbers and artwork orientation unchanged.",
+        "bbox": [
+          132.16666666666669,
+          211.33333333333334,
+          173.83333333333331,
+          220.66666666666666
+        ]
+      },
+      {
+        "source": "Küche-Durchreiche",
+        "english": "Kitchen Serving Hatch",
+        "style": "diagram",
+        "notes": "Existing printed room-label plate; keep all cabin/table numbers and artwork orientation unchanged.",
+        "bbox": [
+          207.83333333333334,
+          211.33333333333334,
+          244.16666666666666,
+          220.66666666666666
+        ]
+      },
+      {
+        "source": "Rauchsalon - Sicherheitsschleuse",
+        "english": "Smoking Lounge — Safety Airlock",
+        "style": "diagram",
+        "notes": "Existing printed room-label plate; keep all cabin/table numbers and artwork orientation unchanged.",
+        "bbox": [
+          270.5,
+          211.33333333333334,
+          335.5,
+          220.66666666666666
+        ]
+      },
+      {
+        "source": "Steuerbord-Promenade",
+        "english": "Starboard Promenade",
+        "style": "diagram",
+        "notes": "Existing printed room-label plate; keep all cabin/table numbers and artwork orientation unchanged.",
+        "bbox": [
+          202.16666666666666,
+          230.66666666666666,
+          248.16666666666666,
+          239.33333333333334
+        ]
+      }
+    ],
+    "unresolved": [],
+    "review_method": "Every image visually inspected in contact sheet; every text-bearing image enlarged. OCR treated as candidates, never as authoritative.",
+    "unchanged_content": "All proper names, route arrows, marker numbers, isolated e glyph, physical clues and unlettered portraits retained."
+  },
+  {
+    "page": 6,
+    "image_index": 0,
+    "image_bbox": [
+      115.0,
+      46.0,
+      335.0,
+      266.0
+    ],
+    "reviewed": true,
+    "labels": [],
+    "unresolved": [],
+    "review_method": "Every image visually inspected in contact sheet; every text-bearing image enlarged. OCR treated as candidates, never as authoritative.",
+    "unchanged_content": "All proper names, route arrows, marker numbers, isolated e glyph, physical clues and unlettered portraits retained."
+  },
+  {
+    "page": 7,
+    "image_index": 0,
+    "image_bbox": [
+      49.92792892456055,
+      46.0,
+      400.072021484375,
+      256.0
+    ],
+    "reviewed": true,
+    "labels": [],
+    "unresolved": [],
+    "review_method": "Every image visually inspected in contact sheet; every text-bearing image enlarged. OCR treated as candidates, never as authoritative.",
+    "unchanged_content": "All proper names, route arrows, marker numbers, isolated e glyph, physical clues and unlettered portraits retained."
+  },
+  {
+    "page": 9,
+    "image_index": 0,
+    "image_bbox": [
+      91.61174011230469,
+      46.0,
+      358.38824462890625,
+      206.0
+    ],
+    "reviewed": true,
+    "labels": [],
+    "unresolved": [],
+    "review_method": "Every image visually inspected in contact sheet; every text-bearing image enlarged. OCR treated as candidates, never as authoritative.",
+    "unchanged_content": "All proper names, route arrows, marker numbers, isolated e glyph, physical clues and unlettered portraits retained."
+  },
+  {
+    "page": 10,
+    "image_index": 0,
+    "image_bbox": [
+      28.0,
+      42.0,
+      422.0,
+      566.3884887695312
+    ],
+    "reviewed": true,
+    "labels": [
+      {
+        "source": "Der Saboteur am Höhenruder",
+        "english": "The Elevator Saboteur",
+        "style": "diagram",
+        "notes": "Keep Mohn/Tilo/Greve/Holm route lines, boot print, oil, tool absence, barrier and all 1–4/D–A markers unchanged.",
+        "bbox": [
+          116.66666666666667,
+          52.666666666666664,
+          334.3333333333333,
+          69.33333333333333
+        ],
+        "font_size": 13
+      },
+      {
+        "source": "Unterer Laufgang - Hecksektion des B-Decks",
+        "english": "Lower Walkway — Rear Section of B-Deck",
+        "style": "diagram",
+        "notes": "Keep Mohn/Tilo/Greve/Holm route lines, boot print, oil, tool absence, barrier and all 1–4/D–A markers unchanged.",
+        "bbox": [
+          142.33333333333331,
+          77.66666666666666,
+          309.0,
+          86.66666666666666
+        ]
+      },
+      {
+        "source": "Backbord-Steg",
+        "english": "Port Walkway",
+        "style": "diagram",
+        "notes": "Keep Mohn/Tilo/Greve/Holm route lines, boot print, oil, tool absence, barrier and all 1–4/D–A markers unchanged.",
+        "bbox": [
+          264.66666666666663,
+          126.0,
+          315.3333333333333,
+          136.66666666666669
+        ]
+      },
+      {
+        "source": "Werkzeugschrank - Fehlt: Schlüssel K-7",
+        "english": "Tool Locker — Missing: Wrench K-7",
+        "style": "diagram",
+        "notes": "Keep Mohn/Tilo/Greve/Holm route lines, boot print, oil, tool absence, barrier and all 1–4/D–A markers unchanged.",
+        "bbox": [
+          86.66666666666666,
+          191.33333333333334,
+          140.66666666666669,
+          207.0
+        ]
+      },
+      {
+        "source": "Telefonkasten 4",
+        "english": "Telephone Box 4",
+        "style": "diagram",
+        "notes": "Keep Mohn/Tilo/Greve/Holm route lines, boot print, oil, tool absence, barrier and all 1–4/D–A markers unchanged.",
+        "bbox": [
+          271.33333333333337,
+          208.33333333333334,
+          315.6666666666667,
+          218.33333333333334
+        ]
+      },
+      {
+        "source": "Motorsteuerung 1–4 / Zugang zu Außengondeln",
+        "english": "Engine Controls 1–4 / Access to Outboard Gondolas",
+        "style": "diagram",
+        "notes": "Keep Mohn/Tilo/Greve/Holm route lines, boot print, oil, tool absence, barrier and all 1–4/D–A markers unchanged.",
+        "bbox": [
+          135.33333333333331,
+          265.33333333333337,
+          197.0,
+          282.33333333333337
+        ]
+      },
+      {
+        "source": "Sperrgitter Mitte",
+        "english": "Central Barrier",
+        "style": "diagram",
+        "notes": "Keep Mohn/Tilo/Greve/Holm route lines, boot print, oil, tool absence, barrier and all 1–4/D–A markers unchanged.",
+        "bbox": [
+          215.0,
+          263.33333333333337,
+          246.33333333333334,
+          279.66666666666663
+        ]
+      },
+      {
+        "source": "Höhenruder & Seilgetriebe",
+        "english": "Elevator & Cable Mechanism",
+        "style": "diagram",
+        "notes": "Keep Mohn/Tilo/Greve/Holm route lines, boot print, oil, tool absence, barrier and all 1–4/D–A markers unchanged.",
+        "bbox": [
+          315.3333333333333,
+          264.66666666666663,
+          361.0,
+          281.0
+        ]
+      },
+      {
+        "source": "Treibstofftanks D–A",
+        "english": "Fuel Tanks D–A",
+        "style": "diagram",
+        "notes": "Keep Mohn/Tilo/Greve/Holm route lines, boot print, oil, tool absence, barrier and all 1–4/D–A markers unchanged.",
+        "bbox": [
+          136.66666666666669,
+          340.0,
+          193.33333333333334,
+          349.6666666666667
+        ]
+      },
+      {
+        "source": "Rotes Hydrauliköl",
+        "english": "Red Hydraulic Oil",
+        "style": "diagram",
+        "notes": "Keep Mohn/Tilo/Greve/Holm route lines, boot print, oil, tool absence, barrier and all 1–4/D–A markers unchanged.",
+        "bbox": [
+          316.0,
+          337.3333333333333,
+          364.3333333333333,
+          347.0
+        ]
+      },
+      {
+        "source": "Steuerbord-Steg",
+        "english": "Starboard Walkway",
+        "style": "diagram",
+        "notes": "Keep Mohn/Tilo/Greve/Holm route lines, boot print, oil, tool absence, barrier and all 1–4/D–A markers unchanged.",
+        "bbox": [
+          262.66666666666663,
+          370.3333333333333,
+          316.3333333333333,
+          382.0
+        ]
+      },
+      {
+        "source": "Gasventil Süd",
+        "english": "South Gas Valve",
+        "style": "diagram",
+        "notes": "Keep Mohn/Tilo/Greve/Holm route lines, boot print, oil, tool absence, barrier and all 1–4/D–A markers unchanged.",
+        "bbox": [
+          318.0,
+          414.3333333333333,
+          358.6666666666667,
+          425.3333333333333
+        ]
+      },
+      {
+        "source": "DER TATORT — 10",
+        "english": "THE CRIME SCENE — 10",
+        "style": "diagram",
+        "notes": "Keep Mohn/Tilo/Greve/Holm route lines, boot print, oil, tool absence, barrier and all 1–4/D–A markers unchanged.",
+        "bbox": [
+          183.0,
+          555.3333333333334,
+          268.0,
+          566.6666666666666
+        ]
+      }
+    ],
+    "unresolved": [],
+    "review_method": "Every image visually inspected in contact sheet; every text-bearing image enlarged. OCR treated as candidates, never as authoritative.",
+    "unchanged_content": "All proper names, route arrows, marker numbers, isolated e glyph, physical clues and unlettered portraits retained."
+  },
+  {
+    "page": 13,
+    "image_index": 0,
+    "image_bbox": [
+      91.61174011230469,
+      46.0,
+      358.38824462890625,
+      206.0
+    ],
+    "reviewed": true,
+    "labels": [],
+    "unresolved": [],
+    "review_method": "Every image visually inspected in contact sheet; every text-bearing image enlarged. OCR treated as candidates, never as authoritative.",
+    "unchanged_content": "All proper names, route arrows, marker numbers, isolated e glyph, physical clues and unlettered portraits retained."
+  },
+  {
+    "page": 14,
+    "image_index": 0,
+    "image_bbox": [
+      28.0,
+      42.0,
+      422.0,
+      566.3884887695312
+    ],
+    "reviewed": true,
+    "labels": [
+      {
+        "source": "Querschnitt der Lüftungsklappe",
+        "english": "Ventilation Hatch Cross-Section",
+        "style": "paper",
+        "notes": "Preserve the reflected and visible necklace as approved; do not hide/change necklace, intact slats/bottles, or magnified damaged lowercase e.",
+        "bbox": [
+          61.666666666666664,
+          56.333333333333336,
+          220.33333333333334,
+          76.0
+        ],
+        "font_size": 10
+      },
+      {
+        "source": "Schminkkoffer der Diva",
+        "english": "The Diva’s Makeup Case",
+        "style": "paper",
+        "notes": "Preserve the reflected and visible necklace as approved; do not hide/change necklace, intact slats/bottles, or magnified damaged lowercase e.",
+        "bbox": [
+          244.66666666666666,
+          56.666666666666664,
+          392.0,
+          76.33333333333334
+        ],
+        "font_size": 10
+      },
+      {
+        "source": "Lamellen nach oben geneigt",
+        "english": "Slats angled upward",
+        "style": "paper",
+        "notes": "Preserve the reflected and visible necklace as approved; do not hide/change necklace, intact slats/bottles, or magnified damaged lowercase e.",
+        "bbox": [
+          161.0,
+          85.0,
+          224.0,
+          108.66666666666667
+        ]
+      },
+      {
+        "source": "Kabine innen",
+        "english": "Inside the cabin",
+        "style": "paper",
+        "notes": "Preserve the reflected and visible necklace as approved; do not hide/change necklace, intact slats/bottles, or magnified damaged lowercase e.",
+        "bbox": [
+          178.33333333333334,
+          135.33333333333331,
+          217.33333333333334,
+          158.33333333333331
+        ]
+      },
+      {
+        "source": "Korridor außen",
+        "english": "Outside corridor",
+        "style": "paper",
+        "notes": "Preserve the reflected and visible necklace as approved; do not hide/change necklace, intact slats/bottles, or magnified damaged lowercase e.",
+        "bbox": [
+          59.33333333333333,
+          169.66666666666669,
+          101.33333333333333,
+          190.66666666666666
+        ]
+      },
+      {
+        "source": "Unberührte Parfümflakons",
+        "english": "Undisturbed perfume bottles",
+        "style": "paper",
+        "notes": "Preserve the reflected and visible necklace as approved; do not hide/change necklace, intact slats/bottles, or magnified damaged lowercase e.",
+        "bbox": [
+          163.66666666666666,
+          292.66666666666663,
+          224.33333333333334,
+          316.3333333333333
+        ]
+      },
+      {
+        "source": "Spiegelbild des Smaragd-Colliers",
+        "english": "Reflection of the emerald necklace",
+        "style": "paper",
+        "notes": "Preserve the reflected and visible necklace as approved; do not hide/change necklace, intact slats/bottles, or magnified damaged lowercase e.",
+        "bbox": [
+          333.3333333333333,
+          112.33333333333333,
+          393.6666666666667,
+          131.33333333333331
+        ]
+      },
+      {
+        "source": "Puderdosen-Spiegel",
+        "english": "Powder-Compact Mirror",
+        "style": "paper",
+        "notes": "Preserve the reflected and visible necklace as approved; do not hide/change necklace, intact slats/bottles, or magnified damaged lowercase e.",
+        "bbox": [
+          243.0,
+          239.33333333333334,
+          308.6666666666667,
+          252.33333333333334
+        ]
+      },
+      {
+        "source": "Erpressernotiz",
+        "english": "Blackmail Note",
+        "style": "paper",
+        "notes": "Preserve the reflected and visible necklace as approved; do not hide/change necklace, intact slats/bottles, or magnified damaged lowercase e.",
+        "bbox": [
+          62.333333333333336,
+          335.0,
+          217.0,
+          355.0
+        ],
+        "font_size": 11
+      },
+      {
+        "source": "Defektes e",
+        "english": "Damaged e",
+        "style": "paper",
+        "notes": "Preserve the reflected and visible necklace as approved; do not hide/change necklace, intact slats/bottles, or magnified damaged lowercase e.",
+        "bbox": [
+          166.0,
+          468.0,
+          211.0,
+          482.6666666666667
+        ]
+      },
+      {
+        "source": "DAS BEWEISSTÜCK — 14",
+        "english": "THE EVIDENCE — 14",
+        "style": "paper",
+        "notes": "Preserve the reflected and visible necklace as approved; do not hide/change necklace, intact slats/bottles, or magnified damaged lowercase e.",
+        "bbox": [
+          176.0,
+          540.0,
+          277.0,
+          550.3333333333333
+        ]
+      },
+      {
+        "source": "Zahlen",
+        "english": "Pay",
+        "style": "paper",
+        "notes": "First part of formal German imperative Zahlen Sie. Tight mask preserves original angled New York! and its defective e.",
+        "font_family": "mono",
+        "bbox": [
+          75,
+          389,
+          139,
+          407
+        ],
+        "font_size": 12
+      },
+      {
+        "source": "bis",
+        "english": "by",
+        "style": "paper",
+        "notes": "Full original bis mask includes initial b; preserve original New York! to the right.",
+        "font_family": "mono",
+        "bbox": [
+          75,
+          412,
+          110,
+          427
+        ],
+        "font_size": 11
+      },
+      {
+        "source": "Sie",
+        "english": "",
+        "bbox": [
+          143,
+          384,
+          172,
+          399
+        ],
+        "style": "paper",
+        "notes": "Mask-only second part of Zahlen Sie, already translated as Pay. Ending at y399 preserves original York! top at y399.3.",
+        "font_family": "mono"
+      }
+    ],
+    "unresolved": [],
+    "review_method": "Every image visually inspected in contact sheet; every text-bearing image enlarged. OCR treated as candidates, never as authoritative.",
+    "unchanged_content": "All proper names, route arrows, marker numbers, isolated e glyph, physical clues and unlettered portraits retained."
+  },
+  {
+    "page": 17,
+    "image_index": 0,
+    "image_bbox": [
+      91.31578826904297,
+      45.0,
+      358.6842041015625,
+      205.0
+    ],
+    "reviewed": true,
+    "labels": [],
+    "unresolved": [],
+    "review_method": "Every image visually inspected in contact sheet; every text-bearing image enlarged. OCR treated as candidates, never as authoritative.",
+    "unchanged_content": "All proper names, route arrows, marker numbers, isolated e glyph, physical clues and unlettered portraits retained."
+  },
+  {
+    "page": 18,
+    "image_index": 0,
+    "image_bbox": [
+      28.0,
+      42.0,
+      422.0,
+      566.3884887695312
+    ],
+    "reviewed": true,
+    "labels": [
+      {
+        "source": "Der Kellner mit der ruhigen Hand - Speisesaal",
+        "english": "The Waiter with the Steady Hand — Dining Room",
+        "style": "paper",
+        "notes": "Keep table positions 1–3 at port windows, blocked aisle, chalk mark, cufflink initials V.K. and all route marks intact.",
+        "bbox": [
+          125.0,
+          51.0,
+          323.3333333333333,
+          66.66666666666667
+        ],
+        "font_size": 11
+      },
+      {
+        "source": "Backbord-Fensterreihe",
+        "english": "Port-side Windows",
+        "style": "paper",
+        "notes": "Keep table positions 1–3 at port windows, blocked aisle, chalk mark, cufflink initials V.K. and all route marks intact.",
+        "bbox": [
+          190.0,
+          117.33333333333333,
+          260.0,
+          127.0
+        ]
+      },
+      {
+        "source": "Tisch 1",
+        "english": "Table 1",
+        "style": "paper",
+        "notes": "Keep table positions 1–3 at port windows, blocked aisle, chalk mark, cufflink initials V.K. and all route marks intact.",
+        "bbox": [
+          103.66666666666667,
+          136.66666666666669,
+          136.66666666666669,
+          147.0
+        ]
+      },
+      {
+        "source": "Tisch 2",
+        "english": "Table 2",
+        "style": "paper",
+        "notes": "Keep table positions 1–3 at port windows, blocked aisle, chalk mark, cufflink initials V.K. and all route marks intact.",
+        "bbox": [
+          207.33333333333334,
+          136.66666666666669,
+          241.0,
+          147.0
+        ]
+      },
+      {
+        "source": "Tisch 3 (Vance & Billardqueue)",
+        "english": "Table 3 (Vance & Billiard Cue)",
+        "style": "paper",
+        "notes": "Keep table positions 1–3 at port windows, blocked aisle, chalk mark, cufflink initials V.K. and all route marks intact.",
+        "bbox": [
+          296.0,
+          135.33333333333331,
+          359.0,
+          151.33333333333331
+        ]
+      },
+      {
+        "source": "Tisch 4",
+        "english": "Table 4",
+        "style": "paper",
+        "notes": "Keep table positions 1–3 at port windows, blocked aisle, chalk mark, cufflink initials V.K. and all route marks intact.",
+        "bbox": [
+          103.33333333333333,
+          357.0,
+          137.66666666666669,
+          368.0
+        ]
+      },
+      {
+        "source": "Tisch 5",
+        "english": "Table 5",
+        "style": "paper",
+        "notes": "Keep table positions 1–3 at port windows, blocked aisle, chalk mark, cufflink initials V.K. and all route marks intact.",
+        "bbox": [
+          207.33333333333334,
+          356.6666666666667,
+          241.33333333333334,
+          368.0
+        ]
+      },
+      {
+        "source": "Tisch 6",
+        "english": "Table 6",
+        "style": "paper",
+        "notes": "Keep table positions 1–3 at port windows, blocked aisle, chalk mark, cufflink initials V.K. and all route marks intact.",
+        "bbox": [
+          310.0,
+          357.0,
+          343.3333333333333,
+          368.0
+        ]
+      },
+      {
+        "source": "Manschettenknopf V.K.",
+        "english": "Cufflink V. K.",
+        "style": "paper",
+        "notes": "Keep table positions 1–3 at port windows, blocked aisle, chalk mark, cufflink initials V.K. and all route marks intact.",
+        "bbox": [
+          305.0,
+          243.66666666666666,
+          363.6666666666667,
+          254.66666666666666
+        ]
+      },
+      {
+        "source": "Mittelgang",
+        "english": "Central Aisle",
+        "style": "paper",
+        "notes": "Keep table positions 1–3 at port windows, blocked aisle, chalk mark, cufflink initials V.K. and all route marks intact.",
+        "bbox": [
+          100.0,
+          288.0,
+          143.66666666666669,
+          299.3333333333333
+        ]
+      },
+      {
+        "source": "Umgestürzter Blumenkübel - Mittelgang blockiert!",
+        "english": "Overturned Planter — Central Aisle Blocked!",
+        "style": "paper",
+        "notes": "Keep table positions 1–3 at port windows, blocked aisle, chalk mark, cufflink initials V.K. and all route marks intact.",
+        "bbox": [
+          166.0,
+          321.3333333333333,
+          304.6666666666667,
+          332.3333333333333
+        ]
+      },
+      {
+        "source": "Zugang zur Kombüse (B-Deck)",
+        "english": "Access to Galley (B-Deck)",
+        "style": "paper",
+        "notes": "Keep table positions 1–3 at port windows, blocked aisle, chalk mark, cufflink initials V.K. and all route marks intact.",
+        "bbox": [
+          366.3333333333333,
+          317.0,
+          402.3333333333333,
+          340.3333333333333
+        ]
+      },
+      {
+        "source": "Messing-Federhaken",
+        "english": "Brass Spring Hook",
+        "style": "paper",
+        "notes": "Keep table positions 1–3 at port windows, blocked aisle, chalk mark, cufflink initials V.K. and all route marks intact.",
+        "bbox": [
+          75.33333333333334,
+          499.3333333333333,
+          149.33333333333331,
+          512.6666666666667
+        ]
+      },
+      {
+        "source": "Mareks Manschette: Blaue Kreide",
+        "english": "Marek’s Cuff: Blue Chalk",
+        "style": "paper",
+        "notes": "Keep table positions 1–3 at port windows, blocked aisle, chalk mark, cufflink initials V.K. and all route marks intact.",
+        "bbox": [
+          324.3333333333333,
+          499.0,
+          400.3333333333333,
+          518.6666666666667
+        ]
+      },
+      {
+        "source": "DER TATORT — 18",
+        "english": "THE CRIME SCENE — 18",
+        "style": "paper",
+        "notes": "Keep table positions 1–3 at port windows, blocked aisle, chalk mark, cufflink initials V.K. and all route marks intact.",
+        "bbox": [
+          184.33333333333334,
+          531.6666666666667,
+          264.66666666666663,
+          544.0
+        ]
+      }
+    ],
+    "unresolved": [],
+    "review_method": "Every image visually inspected in contact sheet; every text-bearing image enlarged. OCR treated as candidates, never as authoritative.",
+    "unchanged_content": "All proper names, route arrows, marker numbers, isolated e glyph, physical clues and unlettered portraits retained."
+  },
+  {
+    "page": 21,
+    "image_index": 0,
+    "image_bbox": [
+      91.61175537109375,
+      46.0,
+      358.38824462890625,
+      206.0
+    ],
+    "reviewed": true,
+    "labels": [],
+    "unresolved": [],
+    "review_method": "Every image visually inspected in contact sheet; every text-bearing image enlarged. OCR treated as candidates, never as authoritative.",
+    "unchanged_content": "All proper names, route arrows, marker numbers, isolated e glyph, physical clues and unlettered portraits retained."
+  },
+  {
+    "page": 22,
+    "image_index": 0,
+    "image_bbox": [
+      28.0,
+      42.0,
+      422.0,
+      566.3884887695312
+    ],
+    "reviewed": true,
+    "labels": [
+      {
+        "source": "WARNUNG -",
+        "english": "WARNING —",
+        "style": "paper",
+        "notes": "SCOTLAND YARD already English. Preserve torn-paper silhouette and seams, violet stain at right tear, brass splinter in stamp handle and broken divider tip.",
+        "bbox": [
+          88.0,
+          183.33333333333334,
+          198.0,
+          205.33333333333334
+        ]
+      },
+      {
+        "source": "DECKNAME:",
+        "english": "CODE NAME:",
+        "style": "paper",
+        "notes": "SCOTLAND YARD already English. Preserve torn-paper silhouette and seams, violet stain at right tear, brass splinter in stamp handle and broken divider tip.",
+        "bbox": [
+          91.33333333333334,
+          230.33333333333334,
+          203.66666666666666,
+          253.0
+        ]
+      },
+      {
+        "source": "DER ALBATROS",
+        "english": "THE ALBATROSS",
+        "style": "paper",
+        "notes": "SCOTLAND YARD already English. Preserve torn-paper silhouette and seams, violet stain at right tear, brass splinter in stamp handle and broken divider tip.",
+        "bbox": [
+          68.0,
+          274.0,
+          236.0,
+          296.0
+        ]
+      },
+      {
+        "source": "Bordstempel",
+        "english": "Ship’s Stamp",
+        "style": "paper",
+        "notes": "SCOTLAND YARD already English. Preserve torn-paper silhouette and seams, violet stain at right tear, brass splinter in stamp handle and broken divider tip.",
+        "bbox": [
+          265.66666666666663,
+          82.66666666666666,
+          320.3333333333333,
+          97.0
+        ]
+      },
+      {
+        "source": "Kerbe mit Messingsplitter",
+        "english": "Notch with Brass Splinter",
+        "style": "paper",
+        "notes": "SCOTLAND YARD already English. Preserve torn-paper silhouette and seams, violet stain at right tear, brass splinter in stamp handle and broken divider tip.",
+        "bbox": [
+          348.6666666666667,
+          189.66666666666666,
+          399.3333333333333,
+          209.66666666666666
+        ]
+      },
+      {
+        "source": "Violetter Tintenfleck",
+        "english": "Violet Ink Stain",
+        "style": "paper",
+        "notes": "SCOTLAND YARD already English. Preserve torn-paper silhouette and seams, violet stain at right tear, brass splinter in stamp handle and broken divider tip.",
+        "bbox": [
+          257.33333333333337,
+          207.0,
+          301.0,
+          228.33333333333334
+        ]
+      },
+      {
+        "source": "Sorges Stechzirkel",
+        "english": "Sorge’s Dividers",
+        "style": "paper",
+        "notes": "SCOTLAND YARD already English. Preserve torn-paper silhouette and seams, violet stain at right tear, brass splinter in stamp handle and broken divider tip.",
+        "bbox": [
+          339.3333333333333,
+          357.6666666666667,
+          397.3333333333333,
+          371.6666666666667
+        ]
+      },
+      {
+        "source": "Violette Kartentinte",
+        "english": "Violet Chart Ink",
+        "style": "paper",
+        "notes": "SCOTLAND YARD already English. Preserve torn-paper silhouette and seams, violet stain at right tear, brass splinter in stamp handle and broken divider tip.",
+        "bbox": [
+          165.33333333333334,
+          380.0,
+          236.0,
+          393.3333333333333
+        ]
+      },
+      {
+        "source": "Abgebrochene Spitze",
+        "english": "Broken Point",
+        "style": "paper",
+        "notes": "SCOTLAND YARD already English. Preserve torn-paper silhouette and seams, violet stain at right tear, brass splinter in stamp handle and broken divider tip.",
+        "bbox": [
+          323.0,
+          451.3333333333333,
+          396.3333333333333,
+          464.3333333333333
+        ]
+      },
+      {
+        "source": "DAS BEWEISSTÜCK — 22",
+        "english": "THE EVIDENCE — 22",
+        "style": "paper",
+        "notes": "SCOTLAND YARD already English. Preserve torn-paper silhouette and seams, violet stain at right tear, brass splinter in stamp handle and broken divider tip.",
+        "bbox": [
+          172.0,
+          532.6666666666667,
+          278.33333333333337,
+          543.3333333333333
+        ]
+      }
+    ],
+    "unresolved": [],
+    "review_method": "Every image visually inspected in contact sheet; every text-bearing image enlarged. OCR treated as candidates, never as authoritative.",
+    "unchanged_content": "All proper names, route arrows, marker numbers, isolated e glyph, physical clues and unlettered portraits retained."
+  },
+  {
+    "page": 25,
+    "image_index": 0,
+    "image_bbox": [
+      91.61174011230469,
+      46.0,
+      358.38824462890625,
+      206.0
+    ],
+    "reviewed": true,
+    "labels": [],
+    "unresolved": [],
+    "review_method": "Every image visually inspected in contact sheet; every text-bearing image enlarged. OCR treated as candidates, never as authoritative.",
+    "unchanged_content": "All proper names, route arrows, marker numbers, isolated e glyph, physical clues and unlettered portraits retained."
+  },
+  {
+    "page": 26,
+    "image_index": 0,
+    "image_bbox": [
+      28.0,
+      42.0,
+      422.0,
+      566.3884887695312
+    ],
+    "reviewed": true,
+    "labels": [
+      {
+        "source": "Rauchsalon",
+        "english": "Smoking Lounge",
+        "style": "paper",
+        "notes": "Preserve electric interlock positions, red indicator, soot on thumb, scorch shape, and exact 23:40 time. Keep burned paper silhouette visible around translated note.",
+        "bbox": [
+          180.0,
+          56.666666666666664,
+          272.33333333333337,
+          74.66666666666666
+        ],
+        "font_size": 14
+      },
+      {
+        "source": "Sicherheitsschleuse: Außentür A & Innentür B",
+        "english": "Safety Airlock: Outer Door A & Inner Door B",
+        "style": "paper",
+        "notes": "Preserve electric interlock positions, red indicator, soot on thumb, scorch shape, and exact 23:40 time. Keep burned paper silhouette visible around translated note.",
+        "bbox": [
+          65.33333333333334,
+          87.66666666666666,
+          153.33333333333331,
+          107.33333333333333
+        ]
+      },
+      {
+        "source": "Außentür A",
+        "english": "Outer Door A",
+        "style": "paper",
+        "notes": "Preserve electric interlock positions, red indicator, soot on thumb, scorch shape, and exact 23:40 time. Keep burned paper silhouette visible around translated note.",
+        "bbox": [
+          77.66666666666666,
+          160.33333333333331,
+          115.0,
+          171.66666666666666
+        ]
+      },
+      {
+        "source": "Innentür B",
+        "english": "Inner Door B",
+        "style": "paper",
+        "notes": "Preserve electric interlock positions, red indicator, soot on thumb, scorch shape, and exact 23:40 time. Keep burned paper silhouette visible around translated note.",
+        "bbox": [
+          142.0,
+          160.33333333333331,
+          175.0,
+          171.66666666666666
+        ]
+      },
+      {
+        "source": "Ecktisch mit Brandfleck",
+        "english": "Corner Table with Scorch Mark",
+        "style": "paper",
+        "notes": "Preserve electric interlock positions, red indicator, soot on thumb, scorch shape, and exact 23:40 time. Keep burned paper silhouette visible around translated note.",
+        "bbox": [
+          322.3333333333333,
+          136.0,
+          390.3333333333333,
+          146.66666666666669
+        ]
+      },
+      {
+        "source": "Theke & Glühzünder",
+        "english": "Bar & Electric Lighter",
+        "style": "paper",
+        "notes": "Preserve electric interlock positions, red indicator, soot on thumb, scorch shape, and exact 23:40 time. Keep burned paper silhouette visible around translated note.",
+        "bbox": [
+          230.0,
+          188.0,
+          299.3333333333333,
+          199.33333333333334
+        ]
+      },
+      {
+        "source": "Treffpunkt Kartenraum: 23:40 Uhr",
+        "english": "Meet in the\nchart room:\n23:40",
+        "style": "paper",
+        "notes": "Preserve electric interlock positions, red indicator, soot on thumb, scorch shape, and exact 23:40 time. Keep burned paper silhouette visible around translated note.",
+        "bbox": [
+          88.66666666666666,
+          388.3333333333333,
+          176.33333333333334,
+          442.6666666666667
+        ],
+        "text_color": "#A03528",
+        "background": "#EFE0C4"
+      },
+      {
+        "source": "Reibrad-Ruß",
+        "english": "Lighter-Wheel Soot",
+        "style": "paper",
+        "notes": "Preserve electric interlock positions, red indicator, soot on thumb, scorch shape, and exact 23:40 time. Keep burned paper silhouette visible around translated note.",
+        "bbox": [
+          227.0,
+          463.6666666666667,
+          299.3333333333333,
+          477.0
+        ]
+      },
+      {
+        "source": "Sengfleck",
+        "english": "Scorch Mark",
+        "style": "paper",
+        "notes": "Preserve electric interlock positions, red indicator, soot on thumb, scorch shape, and exact 23:40 time. Keep burned paper silhouette visible around translated note.",
+        "bbox": [
+          324.6666666666667,
+          463.6666666666667,
+          399.0,
+          477.0
+        ]
+      },
+      {
+        "source": "DER TATORT — 26",
+        "english": "THE CRIME SCENE — 26",
+        "style": "paper",
+        "notes": "Preserve electric interlock positions, red indicator, soot on thumb, scorch shape, and exact 23:40 time. Keep burned paper silhouette visible around translated note.",
+        "bbox": [
+          186.0,
+          533.6666666666667,
+          264.33333333333337,
+          544.0
+        ]
+      }
+    ],
+    "unresolved": [],
+    "review_method": "Every image visually inspected in contact sheet; every text-bearing image enlarged. OCR treated as candidates, never as authoritative.",
+    "unchanged_content": "All proper names, route arrows, marker numbers, isolated e glyph, physical clues and unlettered portraits retained."
+  },
+  {
+    "page": 29,
+    "image_index": 0,
+    "image_bbox": [
+      91.61174011230469,
+      46.0,
+      358.38824462890625,
+      206.0
+    ],
+    "reviewed": true,
+    "labels": [],
+    "unresolved": [],
+    "review_method": "Every image visually inspected in contact sheet; every text-bearing image enlarged. OCR treated as candidates, never as authoritative.",
+    "unchanged_content": "All proper names, route arrows, marker numbers, isolated e glyph, physical clues and unlettered portraits retained."
+  },
+  {
+    "page": 30,
+    "image_index": 0,
+    "image_bbox": [
+      35.0,
+      42.51948547363281,
+      219.0,
+      281.48052978515625
+    ],
+    "reviewed": true,
+    "labels": [
+      {
+        "source": "14.OKT",
+        "english": "14.OCT",
+        "style": "scene",
+        "background": "#A7A49A",
+        "text_color": "#292923",
+        "notes": "Engraved date on old upright lead seal; do not cover eagle or cord.",
+        "bbox": [
+          90.0,
+          186.5194854736328,
+          168.33333333333334,
+          206.5194854736328
+        ],
+        "font_size": 18
+      },
+      {
+        "source": "Alte Plombe 14.OKT",
+        "english": "Old Seal 14 OCT",
+        "style": "paper",
+        "notes": "Caption below old seal.",
+        "bbox": [
+          61.33333333333333,
+          254.18615214029947,
+          197.33333333333334,
+          271.18615214029944
+        ],
+        "font_size": 14
+      }
+    ],
+    "unresolved": [],
+    "review_method": "Every image visually inspected in contact sheet; every text-bearing image enlarged. OCR treated as candidates, never as authoritative.",
+    "unchanged_content": "All proper names, route arrows, marker numbers, isolated e glyph, physical clues and unlettered portraits retained."
+  },
+  {
+    "page": 30,
+    "image_index": 1,
+    "image_bbox": [
+      231.0,
+      44.80255126953125,
+      415.0,
+      279.19744873046875
+    ],
+    "reviewed": true,
+    "labels": [
+      {
+        "source": "Plombenzange",
+        "english": "Sealing Pliers",
+        "style": "paper",
+        "notes": "Caption below pliers. Preserve close-up and hand position.",
+        "bbox": [
+          276.0,
+          251.80255126953125,
+          369.33333333333337,
+          273.1358846028646
+        ],
+        "font_size": 13
+      }
+    ],
+    "unresolved": [],
+    "review_method": "Every image visually inspected in contact sheet; every text-bearing image enlarged. OCR treated as candidates, never as authoritative.",
+    "unchanged_content": "All proper names, route arrows, marker numbers, isolated e glyph, physical clues and unlettered portraits retained."
+  },
+  {
+    "page": 30,
+    "image_index": 2,
+    "image_bbox": [
+      35.0,
+      292.7207946777344,
+      219.0,
+      555.2792358398438
+    ],
+    "reviewed": true,
+    "labels": [
+      {
+        "source": "15.OKT",
+        "english": "15.OCT",
+        "style": "scene",
+        "rotation": 180,
+        "background": "#A7A49A",
+        "text_color": "#292923",
+        "notes": "CRITICAL: new seal date is upside down, matching upside-down eagle. Render English date rotated 180 degrees.",
+        "bbox": [
+          96.33333333333334,
+          343.7207946777344,
+          164.66666666666666,
+          363.38746134440106
+        ],
+        "font_size": 18
+      },
+      {
+        "source": "Achteckiger Abdruck",
+        "english": "Octagonal Impression",
+        "style": "paper",
+        "notes": "Caption below octagonal-mark inset, not over its surface evidence.",
+        "bbox": [
+          42.0,
+          509.05412801106775,
+          101.0,
+          518.7207946777344
+        ]
+      },
+      {
+        "source": "Neue Plombe 15.OKT",
+        "english": "New Seal 15 OCT",
+        "style": "paper",
+        "notes": "Bottom caption stays upright; only date engraving above is rotated 180 degrees.",
+        "bbox": [
+          54.66666666666667,
+          522.7207946777344,
+          200.0,
+          540.387461344401
+        ],
+        "font_size": 14
+      }
+    ],
+    "unresolved": [],
+    "review_method": "Every image visually inspected in contact sheet; every text-bearing image enlarged. OCR treated as candidates, never as authoritative.",
+    "unchanged_content": "All proper names, route arrows, marker numbers, isolated e glyph, physical clues and unlettered portraits retained."
+  },
+  {
+    "page": 30,
+    "image_index": 3,
+    "image_bbox": [
+      231.0,
+      295.2292785644531,
+      415.0,
+      552.7706909179688
+    ],
+    "reviewed": true,
+    "labels": [
+      {
+        "source": "Wachsabdruck: Generalschlüssel Nr. 0",
+        "english": "Wax Impression: Master Key No. 0",
+        "style": "paper",
+        "notes": "Keep key wax shape and original box nameplate Kroll (proper name) unchanged.",
+        "bbox": [
+          237.0,
+          521.5626118977865,
+          411.33333333333337,
+          537.8959452311198
+        ]
+      }
+    ],
+    "unresolved": [],
+    "review_method": "Every image visually inspected in contact sheet; every text-bearing image enlarged. OCR treated as candidates, never as authoritative.",
+    "unchanged_content": "All proper names, route arrows, marker numbers, isolated e glyph, physical clues and unlettered portraits retained."
+  },
+  {
+    "page": 32,
+    "image_index": 0,
+    "image_bbox": [
+      67.5,
+      46.0,
+      382.5,
+      256.0
+    ],
+    "reviewed": true,
+    "labels": [
+      {
+        "source": "Sturmgebiet Nordatlantik",
+        "english": "North Atlantic Storm Zone",
+        "style": "scene",
+        "background": "#223B4B",
+        "text_color": "#E3CEAB",
+        "notes": "Two-line map caption; preserve storm contours, coastline and airship route.",
+        "bbox": [
+          156.83333333333331,
+          155.33333333333331,
+          199.83333333333334,
+          171.33333333333331
+        ]
+      }
+    ],
+    "unresolved": [],
+    "review_method": "Every image visually inspected in contact sheet; every text-bearing image enlarged. OCR treated as candidates, never as authoritative.",
+    "unchanged_content": "All proper names, route arrows, marker numbers, isolated e glyph, physical clues and unlettered portraits retained."
+  },
+  {
+    "page": 33,
+    "image_index": 0,
+    "image_bbox": [
+      67.5,
+      46.0,
+      382.5,
+      256.0
+    ],
+    "reviewed": true,
+    "labels": [],
+    "unresolved": [],
+    "preserved_marks": [
+      "No meaningful visible German words inside this image. Portrait captions outside the image are native PDF text, handled separately."
+    ]
+  },
+  {
+    "page": 35,
+    "image_index": 0,
+    "image_bbox": [
+      91.61174011230469,
+      46.0,
+      358.38824462890625,
+      206.0
+    ],
+    "reviewed": true,
+    "labels": [],
+    "unresolved": [],
+    "preserved_marks": [
+      "No meaningful visible German words inside this image. Portrait captions outside the image are native PDF text, handled separately."
+    ]
+  },
+  {
+    "page": 36,
+    "image_index": 0,
+    "image_bbox": [
+      28.0,
+      42.0,
+      422.0,
+      566.3884887695312
+    ],
+    "reviewed": true,
+    "labels": [
+      {
+        "source": "Briefchen 46",
+        "english": "Sachet 46",
+        "bbox": [
+          69.5,
+          174,
+          139,
+          188
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Briefchen 47",
+        "english": "Sachet 47",
+        "bbox": [
+          69.5,
+          291.5,
+          140,
+          306
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Wasserglas",
+        "english": "Water glass",
+        "bbox": [
+          190,
+          299,
+          254,
+          316.5
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Stickschere",
+        "english": "Embroidery scissors",
+        "bbox": [
+          310,
+          286,
+          376,
+          308
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Versiegelter Umschlag",
+        "english": "Sealed envelope",
+        "bbox": [
+          159,
+          480,
+          287,
+          498
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "DAS BEWEISSTÜCK — 36",
+        "english": "THE EVIDENCE — 36",
+        "bbox": [
+          170,
+          531,
+          279,
+          542
+        ],
+        "style": "paper",
+        "notes": ""
+      }
+    ],
+    "unresolved": [],
+    "preserved_marks": [
+      "Numerals 46 and torn 47, red lower stroke on matching scrap, all evidence damage and threads unchanged."
+    ]
+  },
+  {
+    "page": 39,
+    "image_index": 0,
+    "image_bbox": [
+      91.61174774169922,
+      46.0,
+      358.38824462890625,
+      206.0
+    ],
+    "reviewed": true,
+    "labels": [],
+    "unresolved": [],
+    "preserved_marks": [
+      "No meaningful visible German words inside this image. Portrait captions outside the image are native PDF text, handled separately."
+    ]
+  },
+  {
+    "page": 40,
+    "image_index": 0,
+    "image_bbox": [
+      28.0,
+      42.0,
+      422.0,
+      566.3884887695312
+    ],
+    "reviewed": true,
+    "labels": [
+      {
+        "source": "Steuerbord-Promenade",
+        "english": "Starboard Promenade",
+        "bbox": [
+          144.0,
+          57.3333,
+          306.6667,
+          78.6667
+        ],
+        "style": "diagram",
+        "notes": ""
+      },
+      {
+        "source": "Bar-Tür",
+        "english": "Bar door",
+        "bbox": [
+          86.6667,
+          134.0,
+          118.3333,
+          142.3333
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Massiver Stützpfeiler",
+        "english": "Solid support\npillar",
+        "bbox": [
+          238.6667,
+          127.6667,
+          275.6667,
+          146.0
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Wandspiegel",
+        "english": "Wall mirror",
+        "bbox": [
+          307.6667,
+          127.0,
+          350.3333,
+          136.6667
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Rauchsalon",
+        "english": "Smoking lounge",
+        "bbox": [
+          346.6667,
+          144.3333,
+          383.0,
+          153.3333
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Sichtlinie blockiert",
+        "english": "Sightline blocked",
+        "bbox": [
+          155.3333,
+          188.6667,
+          212.6667,
+          198.3333
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Standort von Kessel",
+        "english": "von Kessel’s position",
+        "bbox": [
+          291.3333,
+          214.0,
+          351.6667,
+          222.6667
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Spiegelecke",
+        "english": "Mirror corner",
+        "bbox": [
+          230.6667,
+          273.3333,
+          277.6667,
+          283.0
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Unter dem Gitter",
+        "english": "Under the grille",
+        "bbox": [
+          348.6667,
+          272.0,
+          409.0,
+          281.3333
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Sakkotasche",
+        "english": "Jacket pocket",
+        "bbox": [
+          70.0,
+          420.0,
+          121.3333,
+          432.6667
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Wandspiegel",
+        "english": "Wall mirror",
+        "bbox": [
+          175.0,
+          419.6667,
+          231.3333,
+          432.6667
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Heizungsgitter",
+        "english": "Heating grille",
+        "bbox": [
+          305.0,
+          420.0,
+          365.3333,
+          433.0
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Weitere Befunde: Die rechte Sakkotasche ist frisch angesengt. Der Schusskanal führt steil von unten nach oben durch die rechte untere Spiegelecke in die Holzvertäfelung.",
+        "english": "Further findings: The right jacket pocket is freshly scorched. The bullet channel runs steeply upward through the lower-right corner of the mirror into the wooden paneling.",
+        "bbox": [
+          45.3333,
+          456.3333,
+          405.0,
+          483.0
+        ],
+        "style": "paper",
+        "notes": "",
+        "font_size": 8
+      },
+      {
+        "source": "Unter dem Heizungsgitter zu Kessels Füßen liegt eine noch warme 6,35-mm-Messinghülse.",
+        "english": "A still-warm 6.35 mm brass cartridge case lies beneath the heating grille at von Kessel’s feet.",
+        "bbox": [
+          45.3333,
+          502.0,
+          407.0,
+          520.3333
+        ],
+        "style": "paper",
+        "notes": "",
+        "font_size": 8
+      },
+      {
+        "source": "DER TATORT — 40",
+        "english": "THE CRIME SCENE — 40",
+        "bbox": [
+          183.0,
+          530.6667,
+          267.0,
+          543.3333
+        ],
+        "style": "paper",
+        "notes": ""
+      }
+    ],
+    "unresolved": [],
+    "preserved_marks": []
+  },
+  {
+    "page": 43,
+    "image_index": 0,
+    "image_bbox": [
+      91.61174011230469,
+      46.0,
+      358.38824462890625,
+      206.0
+    ],
+    "reviewed": true,
+    "labels": [
+      {
+        "source": "D",
+        "english": "Q",
+        "bbox": [
+          126.6117,
+          119.0,
+          129.9451,
+          123.6667
+        ],
+        "style": "card",
+        "notes": "Upper-left queen rank; preserve spade below it. Source card is tilted slightly.",
+        "background": "#F6E9C7",
+        "text_color": "#181A15",
+        "font_size": 4.3,
+        "min_font_size": 3.8
+      },
+      {
+        "source": "D",
+        "english": "Q",
+        "bbox": [
+          144.6117,
+          135.0,
+          147.2784,
+          139.0
+        ],
+        "style": "card",
+        "notes": "Inverted lower-right queen rank. Preserve the spade and queen portrait.",
+        "background": "#F6E9C7",
+        "text_color": "#181A15",
+        "font_size": 4.0,
+        "min_font_size": 3.3,
+        "rotation": 180
+      }
+    ],
+    "unresolved": [],
+    "preserved_marks": []
+  },
+  {
+    "page": 44,
+    "image_index": 0,
+    "image_bbox": [
+      28.0,
+      42.0,
+      422.0,
+      566.3884887695312
+    ],
+    "reviewed": true,
+    "labels": [
+      {
+        "source": "Glas",
+        "english": "Glass",
+        "bbox": [
+          256.0,
+          83.0,
+          290.0,
+          97.6667
+        ],
+        "style": "diagram",
+        "notes": "",
+        "background": "#16462A",
+        "text_color": "#F8EDD0"
+      },
+      {
+        "source": "Entscheidung",
+        "english": "Decision",
+        "bbox": [
+          319.0,
+          83.0,
+          400.6667,
+          99.0
+        ],
+        "style": "diagram",
+        "notes": "",
+        "background": "#16462A",
+        "text_color": "#F8EDD0"
+      },
+      {
+        "source": "1. Hand",
+        "english": "Hand 1",
+        "bbox": [
+          49.6667,
+          113.3333,
+          94.3333,
+          127.0
+        ],
+        "style": "diagram",
+        "notes": "",
+        "background": "#16462A",
+        "text_color": "#F8EDD0"
+      },
+      {
+        "source": "2. Hand",
+        "english": "Hand 2",
+        "bbox": [
+          49.6667,
+          153.0,
+          94.3333,
+          166.6667
+        ],
+        "style": "diagram",
+        "notes": "",
+        "background": "#16462A",
+        "text_color": "#F8EDD0"
+      },
+      {
+        "source": "3. Hand",
+        "english": "Hand 3",
+        "bbox": [
+          49.6667,
+          193.0,
+          94.3333,
+          206.6667
+        ],
+        "style": "diagram",
+        "notes": "",
+        "background": "#16462A",
+        "text_color": "#F8EDD0"
+      },
+      {
+        "source": "4. Hand",
+        "english": "Hand 4",
+        "bbox": [
+          49.6667,
+          232.6667,
+          94.3333,
+          246.3333
+        ],
+        "style": "diagram",
+        "notes": "",
+        "background": "#16462A",
+        "text_color": "#F8EDD0"
+      },
+      {
+        "source": "5. Hand",
+        "english": "Hand 5",
+        "bbox": [
+          49.6667,
+          272.3333,
+          94.3333,
+          286.0
+        ],
+        "style": "diagram",
+        "notes": "",
+        "background": "#16462A",
+        "text_color": "#F8EDD0"
+      },
+      {
+        "source": "Erhöht, gewinnt",
+        "english": "Raises, wins",
+        "bbox": [
+          318.6667,
+          113.6667,
+          400.0,
+          127.6667
+        ],
+        "style": "diagram",
+        "notes": "",
+        "background": "#16462A",
+        "text_color": "#F8EDD0"
+      },
+      {
+        "source": "Steigt aus",
+        "english": "Folds",
+        "bbox": [
+          318.6667,
+          153.0,
+          400.0,
+          167.3333
+        ],
+        "style": "diagram",
+        "notes": "",
+        "background": "#16462A",
+        "text_color": "#F8EDD0"
+      },
+      {
+        "source": "Setzt hoch, gewinnt",
+        "english": "Bets high, wins",
+        "bbox": [
+          318.0,
+          193.0,
+          401.6667,
+          207.6667
+        ],
+        "style": "diagram",
+        "notes": "",
+        "background": "#16462A",
+        "text_color": "#F8EDD0"
+      },
+      {
+        "source": "Steigt aus",
+        "english": "Folds",
+        "bbox": [
+          318.6667,
+          233.0,
+          400.0,
+          247.0
+        ],
+        "style": "diagram",
+        "notes": "",
+        "background": "#16462A",
+        "text_color": "#F8EDD0"
+      },
+      {
+        "source": "Steigt aus",
+        "english": "Folds",
+        "bbox": [
+          318.6667,
+          272.6667,
+          400.0,
+          287.6667
+        ],
+        "style": "diagram",
+        "notes": "",
+        "background": "#16462A",
+        "text_color": "#F8EDD0"
+      },
+      {
+        "source": "D",
+        "english": "Q",
+        "bbox": [
+          187.3333,
+          143.3333,
+          198.6667,
+          156.0
+        ],
+        "style": "card",
+        "notes": "Lasker’s queen of hearts in Hand 2; retain hearts.",
+        "background": "#F5E7BE",
+        "text_color": "#BD261E",
+        "font_size": 11
+      },
+      {
+        "source": "D",
+        "english": "Q",
+        "bbox": [
+          128.0,
+          264.6667,
+          139.0,
+          277.3333
+        ],
+        "style": "card",
+        "notes": "Feddersen’s queen of spades in Hand 5; retain spade.",
+        "background": "#F5E7BE",
+        "text_color": "#151B14",
+        "font_size": 11
+      },
+      {
+        "source": "D",
+        "english": "Q",
+        "bbox": [
+          73.3333,
+          406.0,
+          86.0,
+          419.0
+        ],
+        "style": "card",
+        "notes": "Queen of spades in the lower scene. Preserve queen picture and suit; no second corner rank is visible.",
+        "background": "#F5E7BE",
+        "text_color": "#151B14",
+        "font_size": 11
+      },
+      {
+        "source": "Bezahlt: V. K.",
+        "english": "Paid:\nV. K.",
+        "bbox": [
+          78.0,
+          463.0,
+          124.0,
+          493.0
+        ],
+        "style": "paper",
+        "notes": "",
+        "font_size": 11
+      },
+      {
+        "source": "DAS BEWEISSTÜCK — 44",
+        "english": "THE EVIDENCE — 44",
+        "bbox": [
+          169.6667,
+          547.6667,
+          279.6667,
+          558.6667
+        ],
+        "style": "paper",
+        "notes": ""
+      }
+    ],
+    "unresolved": [],
+    "preserved_marks": [
+      "Feddersen and Lasker are names; no change. All suit symbols, K/A ranks, numerals, glass positions and arrows unchanged."
+    ]
+  },
+  {
+    "page": 47,
+    "image_index": 0,
+    "image_bbox": [
+      91.52934265136719,
+      46.0,
+      358.47064208984375,
+      206.0
+    ],
+    "reviewed": true,
+    "labels": [],
+    "unresolved": [],
+    "preserved_marks": [
+      "No meaningful visible German words inside this image. Portrait captions outside the image are native PDF text, handled separately."
+    ]
+  },
+  {
+    "page": 48,
+    "image_index": 0,
+    "image_bbox": [
+      28.0,
+      42.0,
+      422.0,
+      566.3884887695312
+    ],
+    "reviewed": true,
+    "labels": [
+      {
+        "source": "Notluke Kabine A5",
+        "english": "Emergency Hatch — Cabin A5",
+        "bbox": [
+          149.3333,
+          77.6667,
+          292.0,
+          95.0
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Dorn nach links umgelegt",
+        "english": "Buckle pin flipped left",
+        "bbox": [
+          50.0,
+          266.3333,
+          160.6667,
+          280.6667
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Griff mit linker Hand!",
+        "english": "Gripped with the left hand!",
+        "bbox": [
+          279.6667,
+          266.6667,
+          382.3333,
+          281.0
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Gefälschter Schweizer Pass",
+        "english": "Forged Swiss passport",
+        "bbox": [
+          242.6667,
+          339.0,
+          373.6667,
+          353.6667
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "SCHWEIZER PASS",
+        "english": "SWISS\nPASSPORT",
+        "bbox": [
+          190.0,
+          396.0,
+          241.3333,
+          417.0
+        ],
+        "style": "scene",
+        "notes": "Only passport cover lettering; preserve white cross above and Dr. H. Vogler nameplate below.",
+        "background": "#95271F",
+        "text_color": "#F8E5C1",
+        "font_size": 8
+      },
+      {
+        "source": "DAS BEWEISSTÜCK — 48",
+        "english": "THE EVIDENCE — 48",
+        "bbox": [
+          168.6667,
+          547.3333,
+          280.6667,
+          559.0
+        ],
+        "style": "paper",
+        "notes": ""
+      }
+    ],
+    "unresolved": [],
+    "preserved_marks": [
+      "Cabin A5, Dr. H. Vogler, white Swiss cross, left hand and strap mechanism preserved."
+    ]
+  },
+  {
+    "page": 51,
+    "image_index": 0,
+    "image_bbox": [
+      91.74899291992188,
+      46.0,
+      358.2510070800781,
+      206.0
+    ],
+    "reviewed": true,
+    "labels": [],
+    "unresolved": [],
+    "preserved_marks": [
+      "No meaningful visible German words inside this image. Portrait captions outside the image are native PDF text, handled separately."
+    ]
+  },
+  {
+    "page": 52,
+    "image_index": 0,
+    "image_bbox": [
+      28.0,
+      42.0,
+      422.0,
+      566.3884887695312
+    ],
+    "reviewed": true,
+    "labels": [
+      {
+        "source": "Öldruck-Manometer Motor 3",
+        "english": "Oil-Pressure Gauge — Engine 3",
+        "bbox": [
+          129.6667,
+          57.6667,
+          327.3333,
+          77.3333
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "4,2",
+        "english": "4.2",
+        "bbox": [
+          201.3333,
+          102.3333,
+          222.0,
+          116.0
+        ],
+        "style": "diagram",
+        "notes": "Change decimal separator only; preserve gauge needle and green sector below.",
+        "font_size": 13
+      },
+      {
+        "source": "Greves Vierkant-Eichschlüssel",
+        "english": "Greve’s square\ncalibration key",
+        "bbox": [
+          318.0,
+          170.6667,
+          404.6667,
+          193.6667
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Kupferstift blockiert Zeiger",
+        "english": "Copper pin\nblocks needle",
+        "bbox": [
+          54.3333,
+          251.3333,
+          130.3333,
+          279.3333
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "4,2 Bar Normaldruck",
+        "english": "4.2 bar normal pressure",
+        "bbox": [
+          160.6667,
+          278.3333,
+          279.3333,
+          293.3333
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Ventil ZU",
+        "english": "Valve CLOSED",
+        "bbox": [
+          336.0,
+          323.0,
+          388.0,
+          336.3333
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Wiedergefunden: K-7",
+        "english": "Recovered: K-7",
+        "bbox": [
+          271.6667,
+          477.6667,
+          389.3333,
+          493.6667
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "DAS BEWEISSTÜCK — 52",
+        "english": "THE EVIDENCE — 52",
+        "bbox": [
+          175.0,
+          538.6667,
+          276.6667,
+          550.0
+        ],
+        "style": "paper",
+        "notes": ""
+      }
+    ],
+    "unresolved": [],
+    "preserved_marks": [
+      "Gauge 0 and 9, damaged/blocked pointer, wrench K-7 and 14 mm engraving remain unchanged."
+    ]
+  },
+  {
+    "page": 55,
+    "image_index": 0,
+    "image_bbox": [
+      91.52934265136719,
+      46.0,
+      358.47064208984375,
+      206.0
+    ],
+    "reviewed": true,
+    "labels": [],
+    "unresolved": [],
+    "preserved_marks": [
+      "No meaningful visible German words inside this image. Portrait captions outside the image are native PDF text, handled separately."
+    ]
+  },
+  {
+    "page": 56,
+    "image_index": 0,
+    "image_bbox": [
+      28.0,
+      42.0,
+      422.0,
+      566.3884887695312
+    ],
+    "reviewed": true,
+    "labels": [
+      {
+        "source": "BORD-LOGBUCH 1931",
+        "english": "SHIP’S LOGBOOK 1931",
+        "bbox": [
+          86.0,
+          82.0,
+          200.6667,
+          96.0
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Fehlende Seiten: 18. November 1931 Nordsee-Testflug",
+        "english": "Missing pages:\nNovember 18, 1931\nNorth Sea test flight",
+        "bbox": [
+          307.0,
+          101.6667,
+          387.3333,
+          150.6667
+        ],
+        "style": "paper",
+        "notes": "Text on tilted tag only. All three lines translated; preserve tear and attachment rings.",
+        "font_size": 9
+      },
+      {
+        "source": "15. November 1931 Wetter ruhig. Kurs westlich.",
+        "english": "November 15, 1931\nCalm weather.\nCourse westward.",
+        "bbox": [
+          83.0,
+          165.3333,
+          165.3333,
+          187.6667
+        ],
+        "style": "paper",
+        "notes": "",
+        "font_size": 8
+      },
+      {
+        "source": "16. November 1931 Maschinenlauf stabil. Sicht gut.",
+        "english": "November 16, 1931\nEngines running steadily.\nVisibility good.",
+        "bbox": [
+          82.3333,
+          193.0,
+          187.0,
+          216.3333
+        ],
+        "style": "paper",
+        "notes": "",
+        "font_size": 8
+      },
+      {
+        "source": "17. November 1931 Vorbereitungen für Nordsee-Testflug.",
+        "english": "November 17, 1931\nPreparing for the\nNorth Sea test flight.",
+        "bbox": [
+          81.6667,
+          223.0,
+          184.0,
+          248.6667
+        ],
+        "style": "paper",
+        "notes": "",
+        "font_size": 8
+      },
+      {
+        "source": "Archivschloss Doppel-Kratzspur & Eisengallustinte",
+        "english": "Archive lock\nDouble scratch mark and iron-gall ink",
+        "bbox": [
+          69.0,
+          481.6667,
+          210.3333,
+          512.6667
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Krantz’ Goldfeder Links aufgebogen · Messingspan",
+        "english": "Krantz’s gold nib\nBent upward on the left · Brass shaving",
+        "bbox": [
+          270.3333,
+          486.3333,
+          389.3333,
+          517.6667
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "DAS BEWEISSTÜCK — 56",
+        "english": "THE EVIDENCE — 56",
+        "bbox": [
+          168.3333,
+          546.6667,
+          282.0,
+          558.6667
+        ],
+        "style": "paper",
+        "notes": ""
+      }
+    ],
+    "unresolved": [],
+    "preserved_marks": [
+      "14 K denotes gold purity; preserve it. Nib damage and matching scratches unchanged."
+    ]
+  },
+  {
+    "page": 58,
+    "image_index": 0,
+    "image_bbox": [
+      67.5,
+      46.0,
+      382.5,
+      256.0
+    ],
+    "reviewed": true,
+    "labels": [
+      {
+        "source": "ALIBI-MATRIX ZWEITE ETAPPE",
+        "english": "ALIBI MATRIX — STAGE TWO",
+        "bbox": [
+          139,
+          49,
+          309,
+          64
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Frau Blum (20:30)",
+        "english": "Mrs. Blum (20:30)",
+        "bbox": [
+          124,
+          120.5,
+          173,
+          130
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Oberst v. Kessel (21:30)",
+        "english": "Col. v. Kessel (21:30)",
+        "bbox": [
+          199,
+          120,
+          255,
+          129
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "WER IST DER ALBATROS?",
+        "english": "WHO IS THE\nALBATROSS?",
+        "bbox": [
+          202,
+          140.5,
+          255,
+          158
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Maschinist Greve (03:00)",
+        "english": "Mechanic Greve (03:00)",
+        "bbox": [
+          201,
+          227.5,
+          256,
+          239
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "1. Offizier Krantz (04:00)",
+        "english": "1st Officer Krantz (04:00)",
+        "bbox": [
+          278,
+          227.5,
+          335,
+          239
+        ],
+        "style": "paper",
+        "notes": ""
+      }
+    ],
+    "unresolved": [],
+    "preserved_marks": [
+      "Dr. Fabian (01:00) and Steward Bruno (22:00) are already English/name strings. Keep all six times and blank ruled writing spaces. Compass N remains unchanged."
+    ]
+  },
+  {
+    "page": 59,
+    "image_index": 0,
+    "image_bbox": [
+      67.5,
+      46.0,
+      382.5,
+      256.0
+    ],
+    "reviewed": true,
+    "labels": [],
+    "unresolved": [],
+    "preserved_marks": [
+      "No meaningful visible German words inside this image. Portrait captions outside the image are native PDF text, handled separately."
+    ]
+  },
+  {
+    "page": 61,
+    "image_index": 0,
+    "image_bbox": [
+      105.0,
+      46.0,
+      345.0,
+      206.0
+    ],
+    "reviewed": true,
+    "labels": [],
+    "unresolved": [],
+    "preserved_marks": [
+      "No meaningful visible German words inside this image. Portrait captions outside the image are native PDF text, handled separately."
+    ]
+  },
+  {
+    "page": 62,
+    "image_index": 0,
+    "image_bbox": [
+      28.0,
+      42.0,
+      422.0,
+      566.3884887695312
+    ],
+    "reviewed": true,
+    "labels": [
+      {
+        "source": "Giftschrank im Bordhospital",
+        "english": "Poison cabinet\nin the ship’s hospital",
+        "bbox": [
+          47.0,
+          70.6667,
+          132.3333,
+          104.3333
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Carbol Lösung",
+        "english": "Carbolic\nsolution",
+        "bbox": [
+          158.3333,
+          93.0,
+          176.3333,
+          111.3333
+        ],
+        "style": "paper",
+        "notes": "",
+        "font_size": 5.5,
+        "min_font_size": 4.5
+      },
+      {
+        "source": "Tinktur",
+        "english": "Tincture",
+        "bbox": [
+          183.3333,
+          101.0,
+          201.0,
+          115.6667
+        ],
+        "style": "paper",
+        "notes": "",
+        "font_size": 5.5,
+        "min_font_size": 4.5
+      },
+      {
+        "source": "Verbandwatte",
+        "english": "Absorbent\ncotton",
+        "bbox": [
+          209.6667,
+          93.3333,
+          231.0,
+          117.3333
+        ],
+        "style": "paper",
+        "notes": "",
+        "font_size": 6,
+        "min_font_size": 5
+      },
+      {
+        "source": "Alkohol 70%",
+        "english": "Alcohol\n70%",
+        "bbox": [
+          278.0,
+          95.3333,
+          297.3333,
+          112.6667
+        ],
+        "style": "paper",
+        "notes": "",
+        "font_size": 6,
+        "min_font_size": 5
+      },
+      {
+        "source": "Salicyl",
+        "english": "Salicylate",
+        "bbox": [
+          149.6667,
+          164.6667,
+          168.6667,
+          180.6667
+        ],
+        "style": "paper",
+        "notes": "",
+        "font_size": 5.5,
+        "min_font_size": 4.5
+      },
+      {
+        "source": "Chinin",
+        "english": "Quinine",
+        "bbox": [
+          278.0,
+          163.6667,
+          293.0,
+          180.0
+        ],
+        "style": "paper",
+        "notes": "",
+        "font_size": 5.5,
+        "min_font_size": 4.2
+      },
+      {
+        "source": "Sublimat",
+        "english": "Sublimate",
+        "bbox": [
+          149.6667,
+          227.6667,
+          171.6667,
+          246.6667
+        ],
+        "style": "paper",
+        "notes": "",
+        "font_size": 5.5,
+        "min_font_size": 4.5
+      },
+      {
+        "source": "Natriumchlorid",
+        "english": "Sodium\nchloride",
+        "bbox": [
+          197.0,
+          223.6667,
+          219.6667,
+          247.0
+        ],
+        "style": "paper",
+        "notes": "",
+        "font_size": 5.5,
+        "min_font_size": 4.5
+      },
+      {
+        "source": "Borsäure",
+        "english": "Boric acid",
+        "bbox": [
+          244.6667,
+          230.3333,
+          263.3333,
+          247.0
+        ],
+        "style": "paper",
+        "notes": "",
+        "font_size": 5.5,
+        "min_font_size": 4.2
+      },
+      {
+        "source": "Verband",
+        "english": "Bandages",
+        "bbox": [
+          295.3333,
+          231.3333,
+          313.0,
+          248.3333
+        ],
+        "style": "paper",
+        "notes": "",
+        "font_size": 5.5,
+        "min_font_size": 4.2
+      },
+      {
+        "source": "Fehlt: Akonitin (Eisenhutgift)",
+        "english": "Missing: Aconitine\n(monkshood poison)",
+        "bbox": [
+          192.6667,
+          145.3333,
+          254.0,
+          165.3333
+        ],
+        "style": "paper",
+        "notes": "",
+        "font_size": 8
+      },
+      {
+        "source": "Jod-Abdruck von Dr. Vogts Handschuh",
+        "english": "Iodine print from\nDr. Vogt’s glove",
+        "bbox": [
+          330.6667,
+          149.3333,
+          405.6667,
+          170.6667
+        ],
+        "style": "paper",
+        "notes": "",
+        "font_size": 8
+      },
+      {
+        "source": "Innenbrett ohne Splitter!",
+        "english": "Inner shelf:\nno glass fragments!",
+        "bbox": [
+          348.3333,
+          211.3333,
+          405.0,
+          232.3333
+        ],
+        "style": "paper",
+        "notes": "",
+        "font_size": 8
+      },
+      {
+        "source": "Alle Glassplitter liegen außen am Boden",
+        "english": "All glass fragments\nlie outside on the floor",
+        "bbox": [
+          46.0,
+          322.3333,
+          132.3333,
+          346.0
+        ],
+        "style": "paper",
+        "notes": "",
+        "font_size": 8
+      },
+      {
+        "source": "Fehlendes Fläschchen",
+        "english": "Missing bottle",
+        "bbox": [
+          318.0,
+          421.0,
+          397.0,
+          433.0
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "AKONITIN – GIFT –",
+        "english": "ACONITINE\n— POISON —",
+        "bbox": [
+          241.3333,
+          434.0,
+          280.3333,
+          455.3333
+        ],
+        "style": "paper",
+        "notes": "",
+        "font_size": 8
+      },
+      {
+        "source": "(3 Tropfen tödlich)",
+        "english": "(3 drops fatal)",
+        "bbox": [
+          242.3333,
+          478.3333,
+          279.3333,
+          486.6667
+        ],
+        "style": "paper",
+        "notes": "",
+        "font_size": 6.5
+      },
+      {
+        "source": "DER TATORT — 62",
+        "english": "THE CRIME SCENE — 62",
+        "bbox": [
+          185.0,
+          532.0,
+          266.0,
+          545.3333
+        ],
+        "style": "paper",
+        "notes": ""
+      }
+    ],
+    "unresolved": [],
+    "preserved_marks": [
+      "The minute brown-vial scribbles and unlabeled blue bottles have no legible meaningful words; do not invent medicines. Preserve broken glass distribution and iodine glove print. Source Salicyl is localized as Salicylate."
+    ]
+  },
+  {
+    "page": 65,
+    "image_index": 0,
+    "image_bbox": [
+      91.61174011230469,
+      46.0,
+      358.38824462890625,
+      206.0
+    ],
+    "reviewed": true,
+    "labels": [],
+    "unresolved": [],
+    "preserved_marks": [
+      "No meaningful visible German words inside this image. Portrait captions outside the image are native PDF text, handled separately."
+    ]
+  },
+  {
+    "page": 66,
+    "image_index": 0,
+    "image_bbox": [
+      28.0,
+      42.0,
+      422.0,
+      566.3884887695312
+    ],
+    "reviewed": true,
+    "labels": [
+      {
+        "source": "Olympia Reiseschreibmaschine - Kabine A6",
+        "english": "Olympia Portable Typewriter — Cabin A6",
+        "bbox": [
+          62.0,
+          58.0,
+          387.3333,
+          78.3333
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Gummi-Schreibwalze",
+        "english": "Rubber platen",
+        "bbox": [
+          274.3333,
+          96.6667,
+          383.6667,
+          111.0
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Lesbare Übertragung des spiegelbildlichen Abdrucks",
+        "english": "Readable transcription of the mirror impression",
+        "bbox": [
+          106.6667,
+          240.0,
+          345.0,
+          254.6667
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "KOMMANDANT VON BERG / SCHWEIGT FÜR IMMER / – GEZ. V. K.",
+        "english": "COMMANDER VON BERG\nWILL BE SILENT FOREVER\n— SIGNED V. K.",
+        "bbox": [
+          112.6667,
+          262.3333,
+          349.6667,
+          327.3333
+        ],
+        "style": "paper",
+        "notes": "Canonical threat text; same wording as mirrored platen and native text references.",
+        "font_size": 16
+      },
+      {
+        "source": "[Mirrored] KOMMANDANT VON BERG / SCHWEIGT FÜR IMMER / – GEZ. V. K.",
+        "english": "COMMANDER VON BERG\nWILL BE SILENT FOREVER\n— SIGNED V. K.",
+        "bbox": [
+          252.3333,
+          154.3333,
+          399.3333,
+          211.3333
+        ],
+        "style": "scene",
+        "notes": "Render this text horizontally mirrored, light gray on dark rubber. Cover only old embossed letters. Match the readable English transcription; preserve platen ruler/frame. Keep exactly the same THREE explicit lines as the readable transcription; smaller font prevents FOREVER wrapping to a fourth line.",
+        "mirror": true,
+        "background": "platen",
+        "background_color": "#333435",
+        "text_color": "#A3A3A1",
+        "foreground": [
+          0.64,
+          0.64,
+          0.63
+        ],
+        "font_size": 9.5
+      },
+      {
+        "source": "Vertauschte Typenköpfe e und c",
+        "english": "Swapped type heads e and c",
+        "bbox": [
+          69.3333,
+          340.3333,
+          241.3333,
+          355.0
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Hebel c",
+        "english": "Typebar c",
+        "bbox": [
+          127.3333,
+          463.6667,
+          162.6667,
+          478.3333
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Hebel e",
+        "english": "Typebar e",
+        "bbox": [
+          202.6667,
+          463.6667,
+          240.6667,
+          478.3333
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Frische Kratzspuren am Ansatz des c-Hebels",
+        "english": "Fresh scratches at\nthe base of typebar c",
+        "bbox": [
+          43.6667,
+          480.3333,
+          108.6667,
+          508.6667
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Defekte e-Type auf Hebel c",
+        "english": "Damaged e type\non typebar c",
+        "bbox": [
+          114.0,
+          485.3333,
+          174.6667,
+          509.6667
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "c-Type auf Hebel e",
+        "english": "c type on\ntypebar e",
+        "bbox": [
+          193.6667,
+          486.3333,
+          245.0,
+          509.0
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Spezialzange zum Abziehen der Typenköpfe",
+        "english": "Special pliers for\nremoving type heads",
+        "bbox": [
+          261.3333,
+          493.6667,
+          373.6667,
+          515.6667
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "DAS BEWEISSTÜCK — 66",
+        "english": "THE EVIDENCE — 66",
+        "bbox": [
+          176.3333,
+          541.0,
+          273.3333,
+          552.6667
+        ],
+        "style": "paper",
+        "notes": ""
+      }
+    ],
+    "unresolved": [],
+    "preserved_marks": [
+      "Olympia brand name unchanged. Authentic German-made QWERTZ keyboard with Ü/Ö/Ä letter keys is historical keyboard design, not untranslated prose. Physical mirrored e/c type faces are clue graphics and remain unchanged."
+    ]
+  },
+  {
+    "page": 69,
+    "image_index": 0,
+    "image_bbox": [
+      91.75409698486328,
+      46.0,
+      358.2458801269531,
+      206.0
+    ],
+    "reviewed": true,
+    "labels": [],
+    "unresolved": [],
+    "notes": "Visually inspected: unlettered character portrait. Proper key code #2 on page73 is unchanged; OCR detections are texture noise."
+  },
+  {
+    "page": 70,
+    "image_index": 0,
+    "image_bbox": [
+      28.0,
+      42.0,
+      422.0,
+      566.3884887695312
+    ],
+    "reviewed": true,
+    "labels": [
+      {
+        "source": "Hauptschaltbrett\nStromkreis C: Führergondel",
+        "english": "Main Switchboard\nCircuit C: Control Gondola",
+        "bbox": [
+          139,
+          49,
+          314,
+          86
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Zweipoliger\nKupfer-Messerschalter",
+        "english": "Double-Pole Copper\nKnife Switch",
+        "bbox": [
+          58,
+          175,
+          171,
+          203
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "3 cm Abstand",
+        "english": "3 cm gap",
+        "bbox": [
+          220,
+          159,
+          262,
+          185
+        ],
+        "style": "paper",
+        "notes": "Keep the dimension arrow and two copper blades unobstructed."
+      },
+      {
+        "source": "Zedernholz-Keil",
+        "english": "Cedarwood Wedge",
+        "bbox": [
+          61,
+          263,
+          143,
+          275
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Zwei parallele\nBrandstreifen",
+        "english": "Two Parallel\nBurn Marks",
+        "bbox": [
+          196,
+          351,
+          263,
+          375
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Rote Zedernholzspäne",
+        "english": "Red Cedarwood Shavings",
+        "bbox": [
+          309,
+          364,
+          399,
+          378
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "DAS BEWEISSTÜCK — 70",
+        "english": "THE EVIDENCE — 70",
+        "bbox": [
+          172,
+          532,
+          279,
+          543
+        ],
+        "style": "paper",
+        "notes": ""
+      }
+    ],
+    "unresolved": []
+  },
+  {
+    "page": 73,
+    "image_index": 0,
+    "image_bbox": [
+      63.91056823730469,
+      46.0,
+      386.0894775390625,
+      206.0
+    ],
+    "reviewed": true,
+    "labels": [],
+    "unresolved": [],
+    "notes": "Visually inspected: unlettered character portrait. Proper key code #2 on page73 is unchanged; OCR detections are texture noise."
+  },
+  {
+    "page": 74,
+    "image_index": 0,
+    "image_bbox": [
+      28.0,
+      42.0,
+      422.0,
+      566.3884887695312
+    ],
+    "reviewed": true,
+    "labels": [
+      {
+        "source": "Wächter-Stechuhr 2",
+        "english": "Guard’s Time Clock 2",
+        "bbox": [
+          112,
+          113,
+          218,
+          129
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Kontrollstreifen\nStechuhr 2",
+        "english": "Record Strip\nTime Clock 2",
+        "bbox": [
+          294,
+          90,
+          390,
+          121
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Von oben nach unten",
+        "english": "From top to bottom",
+        "bbox": [
+          298,
+          129,
+          389,
+          141
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Schieferblaue\nUniformfaser",
+        "english": "Slate-Blue\nUniform Fiber",
+        "bbox": [
+          107,
+          187,
+          165,
+          211
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Uhr -\nSchlüssel 1",
+        "english": "— Key 1",
+        "bbox": [
+          345,
+          198,
+          393,
+          223
+        ],
+        "style": "paper",
+        "notes": "Keep the original 23:15 stamp at left visible."
+      },
+      {
+        "source": "Uhr -\nSchlüssel 2",
+        "english": "— Key 2",
+        "bbox": [
+          345,
+          291,
+          393,
+          316
+        ],
+        "style": "paper",
+        "notes": "Keep original 23:38 stamp visible and preserve row order."
+      },
+      {
+        "source": "Uhr -\nSchlüssel 1",
+        "english": "— Key 1",
+        "bbox": [
+          345,
+          390,
+          393,
+          415
+        ],
+        "style": "paper",
+        "notes": "Keep original 23:32 stamp and (Kroll) below visible. Do not reorder rows."
+      },
+      {
+        "source": "Gebogener Draht",
+        "english": "Bent Wire",
+        "bbox": [
+          137,
+          443,
+          214,
+          457
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Wollfaser am Sperrzahn",
+        "english": "Wool Fiber on the Ratchet Tooth",
+        "bbox": [
+          48,
+          461,
+          133,
+          475
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "DAS BEWEISSTÜCK — 74",
+        "english": "THE EVIDENCE — 74",
+        "bbox": [
+          169,
+          547,
+          281,
+          557
+        ],
+        "style": "paper",
+        "notes": ""
+      }
+    ],
+    "unresolved": []
+  },
+  {
+    "page": 77,
+    "image_index": 0,
+    "image_bbox": [
+      91.52934265136719,
+      46.0,
+      358.47064208984375,
+      206.0
+    ],
+    "reviewed": true,
+    "labels": [],
+    "unresolved": [],
+    "notes": "Visually inspected: unlettered character portrait. Proper key code #2 on page73 is unchanged; OCR detections are texture noise."
+  },
+  {
+    "page": 78,
+    "image_index": 0,
+    "image_bbox": [
+      28.0,
+      42.0,
+      422.0,
+      566.3884887695312
+    ],
+    "reviewed": true,
+    "labels": [
+      {
+        "source": "Innenseite der Kartenraum-Tür",
+        "english": "Inside of the Chart-Room Door",
+        "bbox": [
+          96,
+          64,
+          265,
+          83
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Abgerissenes Schnurende",
+        "english": "Torn-Off Cord End",
+        "bbox": [
+          298,
+          91,
+          408,
+          110
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Grüne Wachsspur\nam Riegelknauf",
+        "english": "Green Wax Trace\non the Bolt Knob",
+        "bbox": [
+          207,
+          123,
+          284,
+          148
+        ],
+        "style": "paper",
+        "notes": "Do not cover the arrow or green wax on the actual bolt knob."
+      },
+      {
+        "source": "Innenschieberiegel",
+        "english": "Interior Slide Bolt",
+        "bbox": [
+          124,
+          239,
+          219,
+          253
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Messing-Lüftungsrosette",
+        "english": "Brass Ventilation Grille",
+        "bbox": [
+          119,
+          411,
+          234,
+          426
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Grüne gewachste\nSeiden-Lotleine",
+        "english": "Green Waxed\nSilk Plumb Line",
+        "bbox": [
+          316,
+          464,
+          390,
+          489
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "DER TATORT — 78",
+        "english": "THE CRIME SCENE — 78",
+        "bbox": [
+          185,
+          532,
+          265,
+          543
+        ],
+        "style": "paper",
+        "notes": ""
+      }
+    ],
+    "unresolved": []
+  },
+  {
+    "page": 81,
+    "image_index": 0,
+    "image_bbox": [
+      91.75409698486328,
+      46.0,
+      358.2458801269531,
+      206.0
+    ],
+    "reviewed": true,
+    "labels": [],
+    "unresolved": [],
+    "notes": "Visually inspected: unlettered character portrait. Proper key code #2 on page73 is unchanged; OCR detections are texture noise."
+  },
+  {
+    "page": 82,
+    "image_index": 0,
+    "image_bbox": [
+      28.0,
+      42.0,
+      422.0,
+      566.3884887695312
+    ],
+    "reviewed": true,
+    "labels": [
+      {
+        "source": "DER TATORT - KARTENRAUM DER LZ VIKTORIA",
+        "english": "THE CRIME SCENE — CHART ROOM OF LZ VIKTORIA",
+        "bbox": [
+          100,
+          54,
+          350,
+          70
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "AKONITIN\n- GIFT -\n25 Tropfen tödlich!",
+        "english": "ACONITINE\nPOISON!\n25 drops are fatal!",
+        "bbox": [
+          162,
+          104,
+          196,
+          132
+        ],
+        "style": "paper",
+        "notes": "Whole printed label on the lying bottle. Source is rotated; preserve the number 25. Do not cover the dropper or liquid drops."
+      },
+      {
+        "source": "SEEKARTE NORDSEE\n18. NOV. 1931",
+        "english": "NORTH SEA CHART\n18 NOV 1931",
+        "bbox": [
+          120,
+          148,
+          270,
+          185
+        ],
+        "style": "diagram",
+        "notes": "Paper heading only; keep compass at far left and dividers on chart."
+      },
+      {
+        "source": "NORWEGEN",
+        "english": "NORWAY",
+        "bbox": [
+          283,
+          164,
+          322,
+          176
+        ],
+        "style": "diagram",
+        "notes": ""
+      },
+      {
+        "source": "SCHOTTLAND",
+        "english": "SCOTLAND",
+        "bbox": [
+          43,
+          236,
+          99,
+          247
+        ],
+        "style": "diagram",
+        "notes": ""
+      },
+      {
+        "source": "DÄNEMARK",
+        "english": "DENMARK",
+        "bbox": [
+          333,
+          248,
+          374,
+          261
+        ],
+        "style": "diagram",
+        "notes": ""
+      },
+      {
+        "source": "NORDSEE",
+        "english": "NORTH SEA",
+        "bbox": [
+          146,
+          265,
+          203,
+          279
+        ],
+        "style": "diagram",
+        "notes": ""
+      },
+      {
+        "source": "DEUTSCHES\nREICH",
+        "english": "GERMAN\nREICH",
+        "bbox": [
+          252,
+          323,
+          298,
+          346
+        ],
+        "style": "diagram",
+        "notes": "Historical country label; preserve geography."
+      },
+      {
+        "source": "O",
+        "english": "E",
+        "bbox": [
+          102,
+          195,
+          109,
+          202
+        ],
+        "style": "diagram",
+        "notes": "German compass O=Osten must become English E. N,W,S already English-compatible."
+      },
+      {
+        "source": "ALBATROS-",
+        "english": "ALBATROSS",
+        "bbox": [
+          182,
+          307,
+          219,
+          319
+        ],
+        "style": "diagram",
+        "notes": "First portion of ALBATROSS SANDS 1931. Do NOT merge all place-name masks into a large rectangle: preserve red cross/divider tip near (206,301). QA zoom confirmed original terminal OS extends up to y307; y307 masks those remnants while preserving redcross below divider (ending above y307)."
+      },
+      {
+        "source": "SAND",
+        "english": "SANDS",
+        "bbox": [
+          218,
+          303,
+          238,
+          314
+        ],
+        "style": "diagram",
+        "notes": "Second portion of place name. Keep cross and divider point left of this box."
+      },
+      {
+        "source": "1931",
+        "english": "1931",
+        "bbox": [
+          203,
+          316,
+          220,
+          323
+        ],
+        "style": "diagram",
+        "notes": "Date is unchanged; replacing it keeps the complete translated place name legible."
+      },
+      {
+        "source": "Wachoffizier:",
+        "english": "Watch Officer:",
+        "bbox": [
+          164,
+          395,
+          204,
+          410
+        ],
+        "style": "diagram",
+        "notes": "Keep red-circled V. Krantz (V. K.) signature unchanged."
+      },
+      {
+        "source": "18. November 1931\nLZ-119",
+        "english": "NOVEMBER 18, 1931\nLZ-119",
+        "bbox": [
+          331,
+          270,
+          408,
+          303
+        ],
+        "style": "paper",
+        "notes": "Replace whole notebook heading, including unchanged LZ-119, so its code is not partly masked."
+      },
+      {
+        "source": "Nordsee-Testflug",
+        "english": "North Sea Test Flight",
+        "bbox": [
+          339,
+          316,
+          406,
+          341
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Wachoffizier:",
+        "english": "Watch Officer:",
+        "bbox": [
+          338,
+          399,
+          379,
+          415
+        ],
+        "style": "paper",
+        "notes": "Keep handwritten V. Krantz signature immediately below unchanged."
+      },
+      {
+        "source": "Vorderseite",
+        "english": "Front",
+        "bbox": [
+          103,
+          362,
+          143,
+          374
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Rückseite",
+        "english": "Back",
+        "bbox": [
+          127,
+          415,
+          158,
+          425
+        ],
+        "style": "paper",
+        "notes": ""
+      },
+      {
+        "source": "Ein Knopf – zwei Ansichten\nAbgerissener Ärmelknopf\nmit Goldfaden",
+        "english": "One Button—Two Views\nTorn-Off Sleeve Button\nwith Gold Thread",
+        "bbox": [
+          57,
+          471,
+          164,
+          507
+        ],
+        "style": "paper",
+        "notes": "This is the blue anchor sleeve button, not the earlier silver cufflink. Keep both physical button views and thread above intact."
+      },
+      {
+        "source": "DER TATORT — 82",
+        "english": "THE CRIME SCENE — 82",
+        "bbox": [
+          185,
+          531,
+          265,
+          543
+        ],
+        "style": "paper",
+        "notes": ""
+      }
+    ],
+    "unresolved": [],
+    "notes": "Visually inspected at full size and bottle zoom. ENGLAND, compass N/W/S, names, initials, dates/codes, scales and map depths not listed are unchanged and already English-compatible."
+  },
+  {
+    "page": 84,
+    "image_index": 0,
+    "image_bbox": [
+      67.5,
+      46.0,
+      382.5,
+      256.0
+    ],
+    "reviewed": true,
+    "labels": [
+      {
+        "source": "GEHEIMARCHIV",
+        "english": "SECRET ARCHIVE",
+        "bbox": [
+          198,
+          174,
+          251,
+          194
+        ],
+        "style": "scene",
+        "notes": "The label is angled on the hanging leather case. Keep case lock, straps and parachute unchanged."
+      }
+    ],
+    "unresolved": []
+  },
+  {
+    "page": 104,
+    "image_index": 0,
+    "image_bbox": [
+      157.46929931640625,
+      36.0,
+      292.53070068359375,
+      126.0
+    ],
+    "reviewed": true,
+    "labels": [
+      {
+        "source": "SONDERERMITTLER DER LÜFTE",
+        "english": "SPECIAL INVESTIGATOR\nOF THE SKIES",
+        "bbox": [
+          185,
+          46,
+          263,
+          65
+        ],
+        "style": "scene",
+        "notes": "Curved dark-blue badge banner. Use dark-blue fill and cream/gold text if overlaying; do not obscure airship, gold wings or lower LZ VIKTORIA 1934 proper designation. A shaped/curved label is preferable to a large cream panel.",
+        "fill": [
+          0.035,
+          0.09,
+          0.16
+        ],
+        "color": [
+          0.96,
+          0.87,
+          0.64
+        ],
+        "font_size": 6.2
+      }
+    ],
+    "unresolved": [],
+    "notes": "Only the badge is embedded artwork; the rest of the corrected certificate is live PDF text translated separately. Lower badge LZ VIKTORIA 1934 is a proper designation."
+  }
+]
