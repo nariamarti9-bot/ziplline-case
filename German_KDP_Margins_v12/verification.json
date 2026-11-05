@@ -1,0 +1,28 @@
+{
+  "file": "/workspace/book-work/german-kdp-margins-v12/Wer_hat_den_Kommandanten_getoetet_Corrected_v12_KDP.pdf",
+  "filename": "Wer_hat_den_Kommandanten_getoetet_Corrected_v12_KDP.pdf",
+  "size_bytes": 50746060,
+  "sha256": "03aff777aaef06e9e86f4b4bed760f80f367167f2fcdfc82c26a01152a0f0fc6",
+  "source_file": "/workspace/book-work/german-modest-edition/Wer_hat_den_Kommandanten_getoetet_Corrected_v11.pdf",
+  "source_sha256": "66e5a8f41793a3b811adc4c8a0b32b6aa1b63058cff06a16c1cb5481ec8b0182",
+  "page_count": 104,
+  "trim_inches": [
+    6.25,
+    9.25
+  ],
+  "interior_bleed": "No bleed",
+  "content_scale": 0.94,
+  "text_and_image_data_unchanged": true,
+  "all_german_text_preserved": true,
+  "modest_necklines_preserved": true,
+  "minimum_text_margins_points_L_T_R_B": [
+    46.3999137878418,
+    38.313804626464844,
+    46.323486328125,
+    37.68756103515625
+  ],
+  "minimum_text_margin_inches": 0.5234383477105035,
+  "text_margin_violations_at_0_5_inches": [],
+  "cover_unchanged_and_still_matches": true,
+  "poppler_errors": 0
+}

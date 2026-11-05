@@ -15,3 +15,4 @@ Cover_Final_v3/*.pdf filter=lfs diff=lfs merge=lfs -text
 Cover_Final_v4/*.pdf filter=lfs diff=lfs merge=lfs -text
 English_Edition_v1/*.pdf filter=lfs diff=lfs merge=lfs -text
 German_Modest_Edition/*.pdf filter=lfs diff=lfs merge=lfs -text
+German_KDP_Margins_v12/*.pdf filter=lfs diff=lfs merge=lfs -text
