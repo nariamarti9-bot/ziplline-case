@@ -1,0 +1,48 @@
+{
+  "edition": "German",
+  "change": "Only Clara neckline images from English edition",
+  "interior": {
+    "file": "/workspace/book-work/german-modest-edition/Wer_hat_den_Kommandanten_getoetet_Corrected_v11.pdf",
+    "filename": "Wer_hat_den_Kommandanten_getoetet_Corrected_v11.pdf",
+    "size_bytes": 50309248,
+    "sha256": "66e5a8f41793a3b811adc4c8a0b32b6aa1b63058cff06a16c1cb5481ec8b0182",
+    "source_sha256": "c12a4f7d1f830a3f8bda842890cef869af1597e2447783adee59881cd7004a76",
+    "page_count": 104,
+    "changed_pages": [
+      6,
+      81
+    ],
+    "all_german_text_unchanged": true,
+    "all_page_geometry_and_image_positions_unchanged": true,
+    "other_pages_pixel_identical": true,
+    "poppler_warnings_errors": 0
+  },
+  "cover": {
+    "file": "/workspace/book-work/german-modest-edition/Wer_hat_den_Kommandanten_getoetet_Cover_KDP_FINAL_v5.pdf",
+    "filename": "Wer_hat_den_Kommandanten_getoetet_Cover_KDP_FINAL_v5.pdf",
+    "size_bytes": 14577055,
+    "sha256": "6c998d1b9dc327696636360b92de8fe14216900f270315e1e70ef9913b9df5e0",
+    "source_sha256": "2f964b0fc9a8b27d497473bcc3a916a3c86cca827054357d714aa7ee93d45e47",
+    "page_count": 1,
+    "changed_pages": [
+      1
+    ],
+    "all_german_text_unchanged": true,
+    "all_page_geometry_and_image_positions_unchanged": true,
+    "other_pages_pixel_identical": true,
+    "poppler_warnings_errors": 0
+  },
+  "german_text_unchanged": true,
+  "interior_pages": 104,
+  "trim_inches": [
+    6.25,
+    9.25
+  ],
+  "spine_mm": 5.9488832,
+  "cover_mm": [
+    329.7988832,
+    241.3
+  ],
+  "old_files_preserved": true,
+  "new_artwork_generated": false
+}

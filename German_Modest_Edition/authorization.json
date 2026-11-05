@@ -1,0 +1,10 @@
+{
+  "user_instruction": "give me the german version but only making the woman cover her chest as engilsh versoin ok , i think you can just change images no need for much right also for the cover ok",
+  "method": "Reuse the exact existing English-edition neckline artwork; replace images only; keep all German text and layout",
+  "recorded_at_utc": "2026-11-05T14:27:42.055887+00:00",
+  "approved_assets": {
+    "cover_modest.png": "a3820c35c4ab1e6390393ea0e6cab37c319fcfed02ca8ee8607379c131399abe",
+    "page_006_modest.png": "16f2e0ef680f653a056ac403a2e932032baeab03ce6a0c93e3fce7388c022e23",
+    "page_081_modest.png": "7201f12b77ba6be8cd0d5b7c338582b2152bd075e0e8b01963b15e610f1984fd"
+  }
+}
