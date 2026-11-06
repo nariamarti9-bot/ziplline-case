@@ -1,0 +1,268 @@
+{
+  "file": "/workspace/book-work/german-cover-margins-v6/Wer_hat_den_Kommandanten_getoetet_Cover_KDP_FINAL_v6.pdf",
+  "filename": "Wer_hat_den_Kommandanten_getoetet_Cover_KDP_FINAL_v6.pdf",
+  "size_bytes": 14581130,
+  "sha256": "379179150d7b2d84f77f51252b4c1ce1f127e29da0af9c5c3ea28f39ac36ea54",
+  "source_file": "/workspace/book-work/german-modest-edition/Wer_hat_den_Kommandanten_getoetet_Cover_KDP_FINAL_v5.pdf",
+  "source_sha256": "6c998d1b9dc327696636360b92de8fe14216900f270315e1e70ef9913b9df5e0",
+  "page_count": 1,
+  "interior_pages": 104,
+  "trim_inches": [
+    6.25,
+    9.25
+  ],
+  "cover_dimensions_points": [
+    934.8629760742188,
+    684.0
+  ],
+  "safe_inset_from_panel_trim_inches": 0.375,
+  "safe_inset_from_outer_pdf_edge_inches": 0.5,
+  "spine_side_clearance_inches": 0.0625,
+  "violations": [],
+  "all_text_preserved": true,
+  "original_artwork_preserved": true,
+  "all_fonts_embedded": true,
+  "text_bounds": [
+    {
+      "panel": "front",
+      "text": "E L I Z A B E T H  E R I N",
+      "bbox": [
+        651.7159423828125,
+        45.70738983154297,
+        750.0006103515625,
+        58.55938720703125
+      ]
+    },
+    {
+      "panel": "front",
+      "text": "WER HAT DEN",
+      "bbox": [
+        646.2828979492188,
+        52.740013122558594,
+        755.3404541015625,
+        86.60250854492188
+      ]
+    },
+    {
+      "panel": "front",
+      "text": "KOMMANDANTEN",
+      "bbox": [
+        547.0214233398438,
+        67.78799438476562,
+        854.56494140625,
+        142.28549194335938
+      ]
+    },
+    {
+      "panel": "front",
+      "text": "GETÖTET?",
+      "bbox": [
+        602.3992919921875,
+        126.82080078125,
+        799.0916748046875,
+        212.154296875
+      ]
+    },
+    {
+      "panel": "front",
+      "text": "L Z  V I K T O R I A  ·  1 9 3 4",
+      "bbox": [
+        645.3661499023438,
+        198.56759643554688,
+        756.3524169921875,
+        211.21560668945312
+      ]
+    },
+    {
+      "panel": "front",
+      "text": "18 KRIMINALFÄLLE ZUM SELBERLÖSEN",
+      "bbox": [
+        575.8864135742188,
+        604.843994140625,
+        825.5653686523438,
+        627.9639892578125
+      ]
+    },
+    {
+      "panel": "front",
+      "text": "Das interaktive Krimi-Rätselbuch über den Wolken",
+      "bbox": [
+        593.3177490234375,
+        631.1743774414062,
+        808.1929931640625,
+        643.6864013671875
+      ]
+    },
+    {
+      "panel": "back",
+      "text": "EIN LUFTSCHIFF. 18 FÄLLE.",
+      "bbox": [
+        42.0,
+        46.56861114501953,
+        152.63699340820312,
+        58.19661331176758
+      ]
+    },
+    {
+      "panel": "back",
+      "text": "ÜBER DEM ATLANTIK",
+      "bbox": [
+        42.0,
+        62.014400482177734,
+        265.6553649902344,
+        108.06739807128906
+      ]
+    },
+    {
+      "panel": "back",
+      "text": "GIBT ES KEIN",
+      "bbox": [
+        42.0,
+        95.31439208984375,
+        180.6179962158203,
+        141.3673858642578
+      ]
+    },
+    {
+      "panel": "back",
+      "text": "ENTKOMMEN.",
+      "bbox": [
+        42.0,
+        124.91357421875,
+        244.48739624023438,
+        187.2205810546875
+      ]
+    },
+    {
+      "panel": "back",
+      "text": "Oktober 1934. Das Luxusluftschiff LZ Viktoria nimmt Kurs auf New",
+      "bbox": [
+        42.0,
+        201.50439453125,
+        401.1665344238281,
+        217.41639709472656
+      ]
+    },
+    {
+      "panel": "back",
+      "text": "York. Doch an Bord häufen sich Diebstähle, Erpressungen und",
+      "bbox": [
+        42.0,
+        218.50439453125,
+        380.16497802734375,
+        234.41639709472656
+      ]
+    },
+    {
+      "panel": "back",
+      "text": "Sabotageakte. In der dritten Nacht wird der Kommandant ermordet.",
+      "bbox": [
+        42.0,
+        235.50439453125,
+        413.556884765625,
+        251.41639709472656
+      ]
+    },
+    {
+      "panel": "back",
+      "text": "Sie sind an Bord. Und Sie ermitteln.",
+      "bbox": [
+        42.0,
+        264.50439453125,
+        247.17120361328125,
+        280.4164123535156
+      ]
+    },
+    {
+      "panel": "back",
+      "text": "Prüfen Sie Alibis, entdecken Sie verräterische Details in den",
+      "bbox": [
+        42.0,
+        293.50439453125,
+        363.63299560546875,
+        309.4164123535156
+      ]
+    },
+    {
+      "panel": "back",
+      "text": "Illustrationen und verbinden Sie die Spuren aus 18 Kriminalfällen. Am",
+      "bbox": [
+        42.0,
+        310.50439453125,
+        419.80462646484375,
+        326.4164123535156
+      ]
+    },
+    {
+      "panel": "back",
+      "text": "Ende zählt Ihre Antwort auf eine einzige Frage:",
+      "bbox": [
+        42.0,
+        327.50439453125,
+        294.6849060058594,
+        343.4164123535156
+      ]
+    },
+    {
+      "panel": "back",
+      "text": "Wer hat den Kommandanten getötet?",
+      "bbox": [
+        42.0,
+        351.5820007324219,
+        296.3670654296875,
+        369.9419860839844
+      ]
+    },
+    {
+      "panel": "back",
+      "text": "GENAU HINSEHEN. LÜGEN ENTLARVEN.",
+      "bbox": [
+        42.0,
+        479.85400390625,
+        225.74903869628906,
+        492.77398681640625
+      ]
+    },
+    {
+      "panel": "back",
+      "text": "DEN FALL SELBST LÖSEN.",
+      "bbox": [
+        42.0,
+        494.85400390625,
+        158.7930450439453,
+        507.77398681640625
+      ]
+    },
+    {
+      "panel": "back",
+      "text": "Mit illustrierten Beweisen, Hinweisen und Lösungen.",
+      "bbox": [
+        42.0,
+        515.3200073242188,
+        268.5499572753906,
+        528.9199829101562
+      ]
+    },
+    {
+      "panel": "spine",
+      "text": "WER HAT DEN KOMMANDANTEN GETÖTET?",
+      "bbox": [
+        463.5277404785156,
+        198.9775390625,
+        471.3397216796875,
+        350.8912048339844
+      ]
+    },
+    {
+      "panel": "spine",
+      "text": "ELIZABETH ERIN",
+      "bbox": [
+        463.5277404785156,
+        529.527587890625,
+        471.3397216796875,
+        587.41064453125
+      ]
+    }
+  ],
+  "changes": "Inset front title, author, lower subtitles and back top tagline; extend lower front dark band upward. Preserve modest neckline and no barcode placeholder."
+}
